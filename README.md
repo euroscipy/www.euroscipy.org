@@ -14,7 +14,7 @@ to our server sponsored by [Enthought](http://enthought.com). Contact
 [scipy-organizers@scipy.org](mailto://scipy-organizers@scipy.org) to
 get things updated.
 
-Please feel free to contribute in what ever copacity you feel best.
+Please feel free to contribute in what ever capacity you feel best.
 For now, the site contains details for conferences past and news items
 from conferences. 
 
@@ -25,6 +25,20 @@ Here are a few ways you can contribute:
 * [Fork the repository](https://help.github.com/articles/fork-a-repo) on
   [github](https://github.com/scipy-conference/conference.scipy.org)
 
+* [Clone the fork](https://help.github.com/articles/fork-a-repo#step-2-clone-your-fork)
+
+```
+$ git clone git@github.com:aterrel/conference.scipy.org.git
+Cloning into 'conference.scipy.org'...
+remote: Counting objects: 74, done.
+remote: Compressing objects: 100% (68/68), done.
+remote: Total 74 (delta 3), reused 73 (delta 2)
+Receiving objects: 100% (74/74), 248.52 KiB | 0 bytes/s, done.
+Resolving deltas: 100% (3/3), done.
+Checking connectivity... done
+$ cd conference.scipy.org
+```
+
 * [Create a new branch](https://help.github.com/articles/fork-a-repo#create-branches) with the name of your news item.
 
 * Add your news item in content/news, see
@@ -32,7 +46,7 @@ Here are a few ways you can contribute:
   for details can be rst or markdown. An exmple below:
 
 ```
-$ cd content/pages
+$ cd content/news
 $ cat << EOF > 2013-10-25-test.md
 > Title: Test
 > Date: 2013-10-25
@@ -46,9 +60,11 @@ $ cat << EOF > 2013-10-25-test.md
 > EOF
 ```
 
-* Push to your fork on github
+* [Push to your fork on github](https://help.github.com/articles/fork-a-repo#push-commits)
+ 
 * [Create a pull request](https://help.github.com/articles/using-pull-requests)
-* Email scipy-organizers@scipy.org to get the content deployed.
+
+* Email [scipy-organizers@scipy.org](mailto://scipy-organizers@scipy.org) to get the content deployed.
 
 ### Add or edit a page
 
@@ -59,8 +75,6 @@ $ cat << EOF > 2013-10-25-test.md
 ```
 $ git clone git@github.com:scipy-conference/conference.scipy.org.git
 $ cd conference.scipy.org.git
-$ cd content; ls
-Makefile content theme
 ```
 
 
@@ -69,7 +83,7 @@ Makefile content theme
   * The content of the page can be found in the content directory
 ```
 $ cd content; ls
- images news pages  pdf
+ images news pages pdf
 ```
     * images and pdf: static content to be copied,
     * news: the markdown blog like pages,
