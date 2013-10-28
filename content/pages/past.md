@@ -6,6 +6,7 @@ Save_as: past.html
 * [SciPy 2013](http://conference.scipy.org/scipy2013/)
 * [EuroSciPy 2013](http://www.euroscipy.org/")
 * [SciPy.in 2013](http://scipy.in)
+* [ScipyCon Argentina 2013](http://scipycon.com.ar/)
 
 ## 2012
 * [SciPy 2012](http://conference.scipy.org/scipy2012/")
