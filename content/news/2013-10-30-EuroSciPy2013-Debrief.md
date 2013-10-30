@@ -1,7 +1,7 @@
 Title: EuroSciPy2013 Debrief
 Date: 2013-10-30
 Comments: true
-Category: SciPy
+Category: EuroSciPy
 Author: Pierre de Buyl
 Summary: EuroSciPy2013 Debrief
 
