@@ -24,6 +24,7 @@ help:
 	@echo '   make serve [PORT=8000]           serve site at http://localhost:8000'
 	@echo '   make devserver [PORT=8000]       start/restart develop_server.sh    '
 	@echo '   make stopserver                  stop local server                  '
+	@echo '   make rsync                       rsync published output to server   '
 	@echo '                                                                       '
 	@echo 'Set the DEBUG variable to 1 to enable debugging, e.g. make DEBUG=1 html'
 	@echo '                                                                       '
@@ -59,4 +60,7 @@ stopserver:
 publish:
 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(PUBLISHCONF) $(PELICANOPTS)
 
-.PHONY: html help clean regenerate serve devserver publish
+rsync: publish
+	rsync -e "ssh -i $(HOME)/.ssh/conference.scipy.org.pem" -a output/ conference.scipy.org:/srv/www/conference/output
+
+.PHONY: html help clean regenerate serve devserver publish rsync
