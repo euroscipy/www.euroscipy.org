@@ -1,5 +1,5 @@
 Title: SciPyArgentina2013 Debrief
-Date: 2013-11-1
+Date: 2013-11-05
 Comments: true
 Category: SciPyArgentina
 Author: Celia Cintas, Nahuel Defossé
