@@ -5,7 +5,7 @@ Save_as: past.html
 ## 2013
 * [SciPy 2013](http://conference.scipy.org/scipy2013/)
 * [EuroSciPy 2013](http://www.euroscipy.org/)
-* [SciPy.in 2013](http://scipy.in)
+* [SciPy.in 2013](http://scipy.in/2013)
 * [ScipyCon Argentina 2013](http://scipycon.com.ar/)
 
 ## 2012
