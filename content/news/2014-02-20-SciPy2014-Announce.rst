@@ -25,12 +25,12 @@ Specialized Tracks
 This year we are happy to announce two specialized tracks that run in parallel to the general conference:
 
 Scientific Computing in Education
----------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Thanks to efforts such as Software Carpentry, the Hacker Within and grassroots Python Bootcamps, teaching scientific computing as a discipline is becoming more widely accepted and recognized as a crucial task in developing scientific literacy. This special track will focus on efforts to promote and develop scientific computing education, as well as related topics such as reproducibility and best practices for scientific computing.
 
 Geospatial Data in Science
----------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Python has become a core component of organiziing, understanding, and visualizing geospatial data. This track will focus on libraries, tools and techniques for processing Geospatial data of all types and for all purposes -- from low-volume to high-volume, local and global.
 
