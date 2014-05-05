@@ -2,6 +2,9 @@ Title: Proceedings of the Python in Science Conferences
 URL: proceedings/index.html
 Save_as: proceedings/index.html
 
+**[EuroSciPy 2013](http://arxiv.org/html/1405.0166v1)**
+ *6th European Conference on Python in Science (EuroSciPy 2013) - Brussels, Belgium (August 21 - 25, 2013)*
+
 **[SciPy 2013](http://conference.scipy.org/proceedings/scipy2013)**  
  *12th Python in Science Conference - Austin, Texas (June 24 - 29, 2013)*  
 
