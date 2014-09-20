@@ -2,6 +2,11 @@ Title: Past Conferences
 URL: past.html
 Save_as: past.html
 
+
+## 2014
+* [SciPy 2014](http://conference.scipy.org/scipy2014/)
+* [EuroSciPy 2014](https://www.euroscipy.org/2014)
+
 ## 2013
 * [SciPy 2013](http://conference.scipy.org/scipy2013/)
 * [EuroSciPy 2013](http://www.euroscipy.org/)
