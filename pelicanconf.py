@@ -4,8 +4,8 @@ from __future__ import unicode_literals
 
 import os
 
-AUTHOR = u'SciPy Organizers <scipy-organizers@scipy.org>'
-SITENAME = u'SciPy Conferences'
+AUTHOR = u'The EuroSciPy team <euroscipy-org@python.org>'
+SITENAME = u'EuroSciPy'
 SITEURL = ''
 
 TIMEZONE = 'US/Central'
@@ -18,10 +18,7 @@ ARTICLE_SAVE_AS = 'news/{date:%Y}/{date:%m}/{date:%d}/{slug}/index.html'
 
 # Title menu options
 DISPLAY_PAGES_ON_MENU = False
-MENUITEMS = [('Home', '/'),
-             ('Past Conferences', '/past.html'),
-             ('Proceedings', '/proceedings'),
-             ('News', '/archives.html')]
+MENUITEMS = []
              
 NEWEST_FIRST_ARCHIVES = False
 

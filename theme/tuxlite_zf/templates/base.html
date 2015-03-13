@@ -21,8 +21,8 @@
 <div class="top-bar">
 <div class="row">
     <div class="large-9 large-centered columns">
-      <a href=""><img src="{{ SITEURL }}/theme/images/scipy_logo.gif" border="0" alt="SciPy Website"/></a>
-      <!-- <h1><a href="{{ SITEURL }}">{{ SITENAME }}</a></h1> -->
+      <a href=""><img src="{{ SITEURL }}/theme/images/euroscipy_logo.png" alt="EuroSciPy Website"/></a>
+      <h1>{{ SITENAME }}</h1>
     </div>
 </div>
 </div>
@@ -55,49 +55,6 @@
     {% block content %}{% endblock %}
     </div>
     <!-- End Main Content -->
-
-    <!-- Sidebar -->
-    <aside class="large-3 columns">
-        <h5 class="sidebar-title">Site</h5>
-        <ul class="side-nav">
-            <li><a href="{{ SITEURL }}/archives.html">Archives</a>
-            <li><a href="{{ SITEURL }}/tags.html">Tags</a>
-            {% if FEED_RSS %}
-            <li><a href="{{ FEED_DOMAIN }}/{{ FEED_ATOM }}" rel="alternate">Atom feed</a></li>
-            {% endif %}
-            {% if FEED_RSS %}
-            <li><a href="{{ FEED_DOMAIN }}/{{ FEED_RSS }}" rel="alternate">RSS feed</a></li>
-            {% endif %}
-        </ul>
-
-        {% if categories %}		
-        <h5 class="sidebar-title">Categories</h5>
-        <ul class="side-nav">
-        {% for cat, null in categories %}
-            <li><a href="{{ SITEURL }}/{{ cat.url }}">{{ cat }}</a></li>
-        {% endfor %}   
-        </ul>
-        {% endif %}
-
-        {% if LINKS %}
-        <h5 class="sidebar-title">Links</h5>
-        <ul class="side-nav">
-        {% for name, link in LINKS %}
-            <li><a href="{{ link }}">{{ name }}</a></li>
-        {% endfor %}
-        </ul>
-        {% endif %}
-		
-        {% if SOCIAL %}
-        <h5 class="sidebar-title">Social</h5>
-        <ul class="side-nav">
-        {% for name, link in SOCIAL %}
-            <li><a href="{{ link }}">{{ name }}</a></li>
-        {% endfor %}
-        </ul>
-        {% endif %}
-
-    </aside> <!-- End Sidebar -->
 
 </div> <!-- End Main Content and Sidebar -->
 

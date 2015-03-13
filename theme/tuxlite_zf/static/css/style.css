@@ -7,6 +7,15 @@ margin-bottom: 1.25em;
 
 article { padding-left:1em; }
 
+.top-bar h1 {
+   color: #fff; 
+}
+
+.top-bar img {
+    float: left;
+    height: 5em;
+    padding-right: 1em;
+}
 
 /* Base.html - top navigation */
 .top-bar {
