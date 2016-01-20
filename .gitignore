@@ -38,6 +38,7 @@ nosetests.xml
 # Pelican
 output
 *.pid
+cache
 
 # Emacs
 \#*
