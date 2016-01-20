@@ -3,7 +3,9 @@ URL: index.html
 save_as: index.html
 
 Welcome to the website of EuroSciPy!
-The next edition of EuroSciPy is [EuroSciPy 2015](https://www.euroscipy.org/2015/).
+The next edition of EuroSciPy is EuroSciPy 2016. It will take place in Erlangen
+(Germany) from the 23 to the 27 of August 2016.
+
 News come on twitter: [@EuroSciPy](https://twitter.com/EuroSciPy).
 
 All editions of EuroSciPy can be found below
