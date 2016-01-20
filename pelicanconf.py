@@ -22,6 +22,7 @@ MENUITEMS = []
              
 NEWEST_FIRST_ARCHIVES = False
 
+DIRECT_TEMPLATES = ('index', )
  # Theme
 THEME_DIR = os.path.join(os.getcwd(), "theme")
 THEME_NAME = "tuxlite_zf"
