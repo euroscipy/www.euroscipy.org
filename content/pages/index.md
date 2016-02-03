@@ -21,7 +21,7 @@ All editions of EuroSciPy can be found below
 * [EuroSciPy 2011](http://archive.euroscipy.org/conference/euroscipy2011)
 * [EuroSciPy 2010](http://archive.euroscipy.org/conference/euroscipy2010)
 * [EuroSciPy 2009](http://archive.euroscipy.org/conference/euroscipy2009)
-* [EuroSciPy 2008](http://archive.euroscipy.org/conference/869)
+* [EuroSciPy 2008](http://archive.euroscipy.org/conference/euroscipy2008)
 
 A summary of all SciPy conferences and their proceedings is on
 [https://conference.scipy.org/](https://conference.scipy.org/).
