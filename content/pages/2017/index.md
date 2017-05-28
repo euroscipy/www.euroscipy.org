@@ -20,9 +20,9 @@ industry.
 | June 24                     | Submission deadline for talks and tutorials
 | July 14                     | Final program announced
 | July 27                     | End of early-bird registration
-| August 28-29 (Tue, Wed)     | Tutorials
-| August 30 - 31 (Thu, Fri)   | Main conference and posters
-| September 1 (Sat)           | Sprints
+| August 28-29 (Mon, Tue)     | Tutorials
+| August 30 - 31 (Wed, Thu)   | Main conference and posters
+| September 1 (Fri)           | Sprints
 
 ### Topics
 
