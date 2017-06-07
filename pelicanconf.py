@@ -19,7 +19,7 @@ ARTICLE_SAVE_AS = 'news/{date:%Y}/{date:%m}/{date:%d}/{slug}/index.html'
 # Title menu options
 DISPLAY_PAGES_ON_MENU = False
 MENUITEMS = []
-             
+
 NEWEST_FIRST_ARCHIVES = False
 
 DIRECT_TEMPLATES = ('index', )
