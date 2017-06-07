@@ -13,8 +13,8 @@ users and developers of scientific tools, as well as academic research and state
 industry.
 
 
-|
-| --------------------------- | ---------------------------------------------
+|                             |                                               |
+|-----------------------------|-----------------------------------------------
 | TBA                         | Call for talks, posters & tutorials
 | TBA                         | Registration opens
 | June 24                     | Submission deadline for talks and tutorials
@@ -43,7 +43,7 @@ Presentations of scientific tools and libraries using the Python language, inclu
 
 Registration will open beggining of June.
 
-|
+|               |                       |
 |---------------|-----------------------|-------------
 | Tutorials     | Academic / Individual | Industry
 | Early Bird    | 50 Euro               | 125 Euro
@@ -53,7 +53,7 @@ You register for one of the two tutorial tracks (introductory or advanced) but y
 switch between both tracks whenever you want as long as there is enough space in the lecture
 rooms.
 
-|
+|                  |                       |
 |------------------|-----------------------|-------------
 | Main Conference  | Academic / Individual | Industry
 | Early Bird       | 50 Euro               | 125 Euro
