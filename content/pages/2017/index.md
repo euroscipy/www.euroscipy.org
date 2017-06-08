@@ -2,20 +2,30 @@ Title: EuroSciPy 2017
 URL: 2017/
 save_as: 2017/index.html
 
+
 ### 10th European Conference on Python in Science
 
-**Location:** Erlangen
-**Dates:** August 28 - September 1, 2017
+
+#### **Location:** Erlangen
+
+#### **Dates:**    August 28 - September 1, 2017
+
 
 The EuroSciPy meeting is a cross-disciplinary gathering focused on the use and development
 of the Python language in scientific research. This event strives to bring together both
 users and developers of scientific tools, as well as academic research and state of the art
 industry.
 
+### News
 
-|                             |                                               |
-|-----------------------------|-----------------------------------------------
-| TBA                         | Call for talks, posters & tutorials
+The [Call for Contributions](https://www.papercall.io/euroscipy-2017)
+opens June 12, 2017.
+
+### Important Dates
+
+|                             |                                                                                  |
+|-----------------------------|-----------------------------------------------------------------------------------
+| June 12, 2017               | [Call for talks, posters & tutorials](https://www.papercall.io/euroscipy-2017)
 | TBA                         | Registration opens
 | June 24                     | Submission deadline for talks and tutorials
 | July 14                     | Final program announced
@@ -41,7 +51,7 @@ Presentations of scientific tools and libraries using the Python language, inclu
 
 ### Fees
 
-Registration will open beggining of June.
+Registration will open beginning of June.
 
 |               |                       |
 |---------------|-----------------------|-------------
