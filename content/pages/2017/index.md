@@ -1,6 +1,7 @@
 Title: EuroSciPy 2017
 URL: 2017/
 save_as: 2017/index.html
+Template:page_with_tito
 
 
 ### 10th European Conference on Python in Science
@@ -68,4 +69,8 @@ rooms.
 | Main Conference  | Academic / Individual | Industry
 | Early Bird       | 50 Euro               | 125 Euro
 | Regular          | 100 Euro              | 250 Euro
+
+
+### Registration
+<tito-widget event="euroscipy2017/euroscipy-2017"></tito-widget>
 
