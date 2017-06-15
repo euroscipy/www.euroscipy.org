@@ -19,15 +19,17 @@ industry.
 
 ### News
 
+The [registration](#registration) is open.
+
 The [Call for Contributions](https://www.papercall.io/euroscipy-2017)
-opens June 12, 2017.
+is open.
 
 ### Important Dates
 
 |                             |                                                                                  |
 |-----------------------------|-----------------------------------------------------------------------------------
-| June 12, 2017               | [Call for talks, posters & tutorials](https://www.papercall.io/euroscipy-2017)
-| TBA                         | Registration opens
+| June 12                     | [Call for talks, posters & tutorials](https://www.papercall.io/euroscipy-2017)
+| June 14                     | [Registration](#registration) opens
 | June 24                     | Submission deadline for talks and tutorials
 | July 14                     | Final program announced
 | July 27                     | End of early-bird registration
@@ -52,8 +54,6 @@ Presentations of scientific tools and libraries using the Python language, inclu
 
 ### Fees
 
-Registration will open beginning of June.
-
 |               |                       |
 |---------------|-----------------------|-------------
 | Tutorials     | Academic / Individual | Industry
@@ -71,6 +71,8 @@ rooms.
 | Regular          | 100 Euro              | 250 Euro
 
 
-### Registration
+### Registration<a name="registration">
+
 <tito-widget event="euroscipy2017/euroscipy-2017"></tito-widget>
+
 
