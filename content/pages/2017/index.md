@@ -7,7 +7,10 @@ Template:page_with_tito
 ### 10th European Conference on Python in Science
 
 
-#### **Location:** Erlangen
+#### **Location:** Erlangen, Friedrich-Alexander-Universität Erlangen-Nürnberg
+ Hörsaal Physikum, Staudtstraße 5 91058 Erlangen
+
+[Location at Google Maps](https://www.google.com/maps?q=49.5815,11.0282+(Friedrich-Alexander-Universität+Erlangen-Nürnberg+-+Hörsaal+Physikum,+Staudtstraße+5%0A91058+Erlangen%0A))
 
 #### **Dates:**    August 28 - September 1, 2017
 
