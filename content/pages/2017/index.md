@@ -24,6 +24,8 @@ industry.
 
 ### News
 
+[Call for Contributions](https://www.papercall.io/euroscipy-2017) **extended to July 2**
+
 The [registration](#registration) is open.
 
 The [Call for Contributions](https://www.papercall.io/euroscipy-2017)
@@ -36,6 +38,7 @@ is open.
 | June 12                     | [Call for talks, posters & tutorials](https://www.papercall.io/euroscipy-2017)
 | June 14                     | [Registration](#registration) opens
 | June 24                     | Submission deadline for talks and tutorials
+| July 2                      | Extended deadline for talks and tutorials
 | July 14                     | Final program announced
 | July 27                     | End of early-bird registration
 | August 28-29 (Mon, Tue)     | Tutorials
