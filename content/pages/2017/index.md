@@ -24,6 +24,9 @@ industry.
 
 ### News
 
+[Keynote from Julia Rohrer]({filename}keynote_julia_rohrer.md)
+How to Fix a Scientific Culture: Psychology as a Cautionary Tale and Paragon
+
 The [registration](#registration) is open.
 
 The [Call for Contributions](https://www.papercall.io/euroscipy-2017)
