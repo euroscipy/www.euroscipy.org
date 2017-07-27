@@ -18,7 +18,10 @@ ARTICLE_SAVE_AS = 'news/{date:%Y}/{date:%m}/{date:%d}/{slug}/index.html'
 
 # Title menu options
 DISPLAY_PAGES_ON_MENU = False
-MENUITEMS = []
+MENUITEMS = [('About', 'index.html'),  # i.e. home
+             ('Venue', 'venue.html')
+             #('Program', 'program.html'),
+             ]
 
 NEWEST_FIRST_ARCHIVES = False
 
