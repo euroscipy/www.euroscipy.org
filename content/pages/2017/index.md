@@ -27,15 +27,6 @@ The [Call for Contributions](https://www.papercall.io/euroscipy-2017)
 is open.
 
 
-### Location
-
-Friedrich-Alexander-Universität Erlangen-Nürnberg </br>
-Hörsaal Physikum, Staudtstraße 5 91058 Erlangen
-
-See the [location at Google Maps](https://www.google.com/maps?q=49.5815,11.0282+(Friedrich-Alexander-Universität+Erlangen-Nürnberg+-+Hörsaal+Physikum,+Staudtstraße+5%0A91058+Erlangen%0A)),
-or check out the [relevant nearby locations](https://www.google.com/maps/d/embed?mid=1DnWwatmbpTOaL-frOGby6yXbUAI&ll=49.574826238696275%2C11.016347650000057&z=13).
-
-
 ### Important Dates
 
 |                             |                                                                                  |
