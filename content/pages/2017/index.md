@@ -6,21 +6,13 @@ Template:page_with_tito
 
 ### 10th European Conference on Python in Science
 
-
-#### **Location:** Erlangen
-
-**Friedrich-Alexander-Universität Erlangen-Nürnberg** </br>
-**Hörsaal Physikum, Staudtstraße 5 91058 Erlangen**
-
-[Location at Google Maps](https://www.google.com/maps?q=49.5815,11.0282+(Friedrich-Alexander-Universität+Erlangen-Nürnberg+-+Hörsaal+Physikum,+Staudtstraße+5%0A91058+Erlangen%0A))
-
-#### **Dates:**    August 28 - September 1, 2017
-
-
 The EuroSciPy meeting is a cross-disciplinary gathering focused on the use and development
 of the Python language in scientific research. This event strives to bring together both
 users and developers of scientific tools, as well as academic research and state of the art
 industry.
+
+Euroscipy 2017 takes place from August 28 to September 1 in Erlangen, Germany.
+
 
 ### News
 
@@ -33,6 +25,16 @@ The [registration](#registration) is open.
 
 The [Call for Contributions](https://www.papercall.io/euroscipy-2017)
 is open.
+
+
+### Location
+
+Friedrich-Alexander-Universität Erlangen-Nürnberg </br>
+Hörsaal Physikum, Staudtstraße 5 91058 Erlangen
+
+See the [location at Google Maps](https://www.google.com/maps?q=49.5815,11.0282+(Friedrich-Alexander-Universität+Erlangen-Nürnberg+-+Hörsaal+Physikum,+Staudtstraße+5%0A91058+Erlangen%0A)),
+or check out the [relevant nearby locations](https://www.google.com/maps/d/embed?mid=1DnWwatmbpTOaL-frOGby6yXbUAI&ll=49.574826238696275%2C11.016347650000057&z=13).
+
 
 ### Important Dates
 
@@ -47,6 +49,7 @@ is open.
 | August 28-29 (Mon, Tue)     | Tutorials
 | August 30 - 31 (Wed, Thu)   | Main conference and posters
 | September 1 (Fri)           | Sprints
+
 
 ### Topics
 
