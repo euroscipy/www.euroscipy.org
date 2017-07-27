@@ -20,8 +20,8 @@ ARTICLE_SAVE_AS = 'news/{date:%Y}/{date:%m}/{date:%d}/{slug}/index.html'
 DISPLAY_PAGES_ON_MENU = False
 MENUITEMS = [('Euroscipy 2017', 'index.html'),  # i.e. home
              #('About', 'about.html'),  # contact info and who makes up the org and committees
-             ('Venue', 'venue.html')
-             #('Program', 'program.html'),
+             ('Venue', 'venue.html'),
+             ('Program', 'program.html'),
              ]
 
 NEWEST_FIRST_ARCHIVES = False
