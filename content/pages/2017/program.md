@@ -121,7 +121,7 @@ save_as: 2017/program.html
     
     <tr>
         <td>09:00</td>
-        <td>How to Fix a Scientific Culture: Psychology as a Cautionary Tale and Paragon
+        <td><b>Keynote:</b> How to Fix a Scientific Culture: Psychology as a Cautionary Tale and Paragon
         <br> <i>Julia Rohrer</i></td>
     </tr>
     <tr>
@@ -221,7 +221,95 @@ save_as: 2017/program.html
 
 #### Thursday 31/08 - Conference day 2
 
-Coming soon ...
+<table class='conf-table'>
+    <tr class='special'>
+        <td>08:30</td>
+        <td><i>registration</i><br>&nbsp;</td>
+    </tr>
+    
+    <tr>
+        <td>09:00</td>
+        <td>Keynote: Title tbd
+        <br> <i>Soumith Chintala</i></td>
+    </tr>
+    <tr>
+        <td>10:00</td>
+        <td>Fully Convolutional Networks for Image Segmentation 
+        <br> <i>Daniil Pakhomov</i></td>
+    </tr>
+    
+    <tr class='special'>
+        <td>10:15</td>
+        <td><i>morning break</i><br>&nbsp;</td>
+    </tr>
+    
+    <tr>
+        <td>11:00</td>
+        <td>Deep Learning for Fraud Detection 
+        <br> <i>Valerio Maggio</i></td>
+    </tr>
+    <tr>
+        <td>11:15</td>
+        <td>fastmat - A simple Package for Fast Linear Transforms
+        <br> <i>Sebastian Semper and Christoph Wagner</i></td>
+    </tr>
+    <tr>
+        <td>11:30</td>
+        <td>AutoWIG: Wrapping very large C++ libraries in Python automatically 
+        <br> <i>Pierre Fernique</i></td>
+    </tr>
+    <tr>
+        <td>11:45</td>
+        <td>Leverage knowledge from under-represented classes in machine learning: an introduction to imbalanced-learn
+        <br> <i>Guillaume Lemaitre</i></td>
+    </tr>
+    
+    <tr>
+        <td>12:15</td>
+        <td> <i>buffer</i><br>&nbsp;</td>
+    </tr>
+    <tr>
+        <td>12:30</td>
+        <td>FluRS - A Library for Streaming Recommendation Algorithms 
+        <br> <i>Takuya Kitazawa</i></td>
+    </tr>
+    
+    <tr class='special'>
+        <td>12:45</td>
+        <td><i>lunch</i><br>&nbsp;</td>
+    </tr>
+    
+    <tr>
+        <td>14:30</td>
+        <td>Tricks for Efficient Multicore Computing
+        <br> <i>Oliver Grisel</i></td>
+    </tr>
+    <tr>
+        <td>15:00</td>
+        <td>AMfe - Finite Elements for Structural Dynamics with Simplicity in Mind 
+        <br> <i>Christian Meyer</i></td>
+    </tr>
+    <tr>
+        <td>15:15</td>
+        <td>Bayesian Optimization - Can you do better than randomly guessing parameters?
+        <br> <i>Tim Head</i></td>
+    </tr>
+    <tr>
+        <td>15:45</td>
+        <td>Discretization of the Laplacian operator using a multitude of overlapping cartesian grids
+        <br> <i>Federico Tesser</i></td>
+    </tr>
+    
+    <tr class='special'>
+        <td>16:00</td>
+        <td><i>afternoon break</i><br>&nbsp;</td>
+    </tr>
+    <tr class='special'>
+        <td>16:30</td>
+        <td><i>Lightning Talks</i><br>&nbsp;</td>
+    </tr>
+
+</table>
 
 
 #### Friday 01/09 - Sprints
