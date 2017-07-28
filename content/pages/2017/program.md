@@ -7,7 +7,7 @@ save_as: 2017/program.html
 
 *Preliminary - times may change*
 
-<table>
+<table style='width: 500px;'>
     <tr>
         <td></td> <th>Intro</th> <th>Advanced</th>
     </tr>
@@ -54,7 +54,7 @@ save_as: 2017/program.html
 
 *Preliminary - times may change*
 
-<table>
+<table style='width: 500px;'>
     <tr>
         <td></td> <th>Intro</th> <th>Advanced</th>
     </tr>
@@ -99,7 +99,124 @@ save_as: 2017/program.html
 
 #### Wednesday 30/08 - Conference day 1
 
-Coming soon ...
+<style>
+.conf-table {
+    width: 600px;
+}
+.conf-table td {
+    border-top: 1px solid #ddd;
+    text-align: center;
+    vertical-align: top;
+}
+.conf-table tr.special {
+    background: #ccd;
+}
+</style>
+
+<table class='conf-table'>
+    <tr class='special'>
+        <td>08:30</td>
+        <td><i>registration</i><br>&nbsp;</td>
+    </tr>
+    
+    <tr>
+        <td>09:00</td>
+        <td>How to Fix a Scientific Culture: Psychology as a Cautionary Tale and Paragon
+        <br> <i>Julia Rohrer</i></td>
+    </tr>
+    <tr>
+        <td>10:00</td>
+        <td>Getting the hang of WASM
+        <br> <i>Almar Klein</i></td>
+    </tr>
+    
+    <tr class='special'>
+        <td>10:15</td>
+        <td><i>morning break</i><br>&nbsp;</td>
+    </tr>
+    
+    <tr>
+        <td>11:00</td>
+        <td>Interactive 3D Visualization in Jupyter Notebooks
+        <br> <i>Vidar Tonaas Fauske</i></td>
+    </tr>
+    <tr>
+        <td>11:15</td>
+        <td>Arcas - Using Python to access open research literature
+        <br> <i>Nikoleta E. Glynatsi</i></td>
+    </tr>
+    <tr>
+        <td>11:30</td>
+        <td>Real-time Crowd-sourced Detection of Earthquakes 
+        <br> <i>Robert Steed</i></td>
+    </tr>
+    <tr>
+        <td>11:45</td>
+        <td>Pyrate - Optical Raytracing Based on Python 
+        <br> <i>Johannes</i></td>
+    </tr>
+    <tr>
+        <td>12:00</td>
+        <td>BluVision - An image analysis framework for quantification of plant pathogen interaction phenotypes
+        <br> <i>Stefanie Lück</i></td>
+    </tr>
+    <tr>
+        <td>12:15</td>
+        <td> <i>buffer</i><br>&nbsp;</td>
+    </tr>
+    <tr>
+        <td>12:30</td>
+        <td>Working with Audio Data in Python 
+        <br> <i>Bastian Bechtold</i></td>
+    </tr>
+    
+    <tr class='special'>
+        <td>12:45</td>
+        <td><i>lunch</i><br>&nbsp;</td>
+    </tr>
+    
+    <tr>
+        <td>14:30</td>
+        <td>GeoPandas - geospatial data in Python made easy 
+        <br> <i>Joris Van den Bossche</i></td>
+    </tr>
+    <tr>
+        <td>15:00</td>
+        <td>Learning 2D Animation with Processing 
+        <br> <i>Melanie McCall</i></td>
+    </tr>
+    <tr>
+        <td>15:15</td>
+        <td>TBD
+        <br> <i>author</i></td>
+    </tr>
+    <tr>
+        <td>15:30</td>
+        <td>nbval - Testing your notebooks 
+        <br> <i>Thomas Kluyver</i></td>
+    </tr>
+    <tr>
+        <td>15:45</td>
+        <td>Testing the unknown: how to test scientific codes 
+        <br> <i>Alice Harpole</i></td>
+    </tr>
+    
+    <tr class='special'>
+        <td>16:30</td>
+        <td><i>Poster introductions (2 minute talks)</i><br>&nbsp;</td>
+    </tr>
+    <tr class='special'>
+        <td>17:00</td>
+        <td><i>Poster session</i><br>&nbsp;</td>
+    </tr>
+    
+    <tr class='special'>
+        <td>18:00</td>
+        <td><i>Social event</i><br>&nbsp;</td>
+    </tr>
+    
+</table>
+
 
 
 #### Thursday 31/08 - Conference day 2
