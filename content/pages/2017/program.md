@@ -2,103 +2,6 @@ Title: Program
 URL: 2017/program.html
 save_as: 2017/program.html
 
-
-#### Monday 28/08 - Tutorial day 1
-
-*Preliminary - times may change*
-
-<table style='width: 500px;'>
-    <tr>
-        <td></td> <th>Intro</th> <th>Advanced</th>
-    </tr>
-    <tr>
-        <td></td>
-        <td>Python<br> <i>Guillaume Lemaître</i></td>
-        <td>Scikit-learn<br><i>Olivier Grisel & Tim Head</i></td>
-    </tr>
-    <tr>
-        <td>morning break</td>
-        <td></td>
-        <td></td>
-    </tr>
-    <tr>
-        <td></td>
-        <td>Python<br> <i>Guillaume Lemaître</i></td>
-        <td>Scikit-learn<br> <i>Olivier Grisel & Tim Head</i></td>
-    </tr>
-    <tr>
-        <td>lunch</td>
-        <td></td>
-        <td></td>
-    </tr>
-    <tr>
-        <td></td>
-        <td>Numpy<br> <i>Gert Ingold</i></td>
-        <td>Advanced Pandas<br> <i>Joris Van den Bossche</i></td>
-    </tr>
-    <tr>
-        <td>afternoon break</td>
-        <td></td>
-        <td></td>
-    </tr>
-    <tr>
-        <td></td>
-        <td>Numpy<br> <i>Gert Ingold</i></td>
-        <td>Networkx<br> <i>Mridul Seth</i></td>
-    </tr>
-    
-</table>
-
-
-#### Tuesday 29/08 - Tutorial day 2
-
-*Preliminary - times may change*
-
-<table style='width: 500px;'>
-    <tr>
-        <td></td> <th>Intro</th> <th>Advanced</th>
-    </tr>
-    <tr>
-        <td></td>
-        <td>Matplotlib<br> <i>Mike Mueller</i></td>
-        <td>Scikit-image<br><i>Emmanuelle Gouillart</i></td>
-    </tr>
-    <tr>
-        <td>morning break</td>
-        <td></td>
-        <td></td>
-    </tr>
-    <tr>
-        <td></td>
-        <td>Pandas<br> <i>Joris Van den Bossche</i></td>
-        <td>Keras<br> <i>Valerio Maggio</i></td>
-    </tr>
-    <tr>
-        <td>lunch</td>
-        <td></td>
-        <td></td>
-    </tr>
-    <tr>
-        <td></td>
-        <td>SciPy<br> <i>Gaël Varoquaux</i></td>
-        <td>Cython<br> <i>Stefan Behnel</i></td>
-    </tr>
-    <tr>
-        <td>afternoon break</td>
-        <td></td>
-        <td></td>
-    </tr>
-    <tr>
-        <td></td>
-        <td>Git<br> <i>Gert Ingold</i></td>
-        <td>SymPy<br> <i>Sartaj Singh & Gaurav Dhingra</i></td>
-    </tr>
-    
-</table>
-
-
-#### Wednesday 30/08 - Conference day 1
-
 <style>
 .conf-table {
     width: 600px;
@@ -112,6 +15,114 @@ save_as: 2017/program.html
     background: #ccd;
 }
 </style>
+
+*This program is preliminary - times may change*
+
+
+#### Monday 28/08 - Tutorial day 1
+
+
+<table class='conf-table'>
+    <tr>
+        <td></td> <th>Intro</th> <th>Advanced</th>
+    </tr>
+    
+    <tr class='special'>
+        <td>09:00</td>
+        <td colspan=2><i>registration</i><br>&nbsp;</td>
+    </tr>
+    <tr>
+        <td>9:30</td>
+        <td>Python<br> <i>Guillaume Lemaître</i></td>
+        <td>Scikit-learn<br><i>Olivier Grisel & Tim Head</i></td>
+    </tr>
+    <tr class='special'>
+        <td>11:00</td>
+        <td colspan=2><i>morning break</i><br>&nbsp;</td>
+    </tr>
+    <tr>
+        <td>11:30</td>
+        <td>Python<br> <i>Guillaume Lemaître</i></td>
+        <td>Scikit-learn<br> <i>Olivier Grisel & Tim Head</i></td>
+    </tr>
+    <tr class='special'>
+        <td>13:00</td>
+        <td colspan=2><i>lunch</i><br>&nbsp;</td>
+    </tr>
+    <tr>
+        <td>14:30</td>
+        <td>Numpy<br> <i>Gert Ingold</i></td>
+        <td>Advanced Pandas<br> <i>Joris Van den Bossche</i></td>
+    </tr>
+    <tr class='special'>
+        <td>16:00</td>
+        <td colspan=2><i>afternoon break</i><br>&nbsp;</td>
+    </tr>
+    <tr>
+        <td>16:30</td>
+        <td>Numpy<br> <i>Gert Ingold</i></td>
+        <td>Networkx<br> <i>Mridul Seth</i></td>
+    </tr>
+    <tr class='special'>
+        <td>18:00</td>
+        <td colspan=2><i>&nbsp</i><br>&nbsp;</td>
+    </tr>
+    
+</table>
+
+
+#### Tuesday 29/08 - Tutorial day 2
+
+
+<table class='conf-table'>
+    <tr>
+        <td></td> <th>Intro</th> <th>Advanced</th>
+    </tr>
+    <tr class='special'>
+        <td>09:00</td>
+        <td colspan=2><i>registration</i><br>&nbsp;</td>
+    </tr>
+    <tr>
+        <td>09:30</td>
+        <td>Matplotlib<br> <i>Mike Mueller</i></td>
+        <td>Scikit-image<br><i>Emmanuelle Gouillart</i></td>
+    </tr>
+    <tr class='special'>
+        <td>11:00</td>
+        <td colspan=2><i>morning break</i><br>&nbsp;</td>
+    </tr>
+    <tr>
+        <td>11:30</td>
+        <td>Pandas<br> <i>Joris Van den Bossche</i></td>
+        <td>Keras<br> <i>Valerio Maggio</i></td>
+    </tr>
+    <tr class='special'>
+        <td>13:00</td>
+        <td colspan=2><i>lunch</i><br>&nbsp;</td>
+    </tr>
+    <tr>
+        <td>14:30</td>
+        <td>SciPy<br> <i>Gaël Varoquaux</i></td>
+        <td>Cython<br> <i>Stefan Behnel</i></td>
+    </tr>
+    <tr class='special'>
+        <td>16:00</td>
+        <td colspan=2><i>afternoon break</i><br>&nbsp;</td>
+    </tr>
+    <tr>
+        <td>16:30</td>
+        <td>Git<br> <i>Gert Ingold</i></td>
+        <td>SymPy<br> <i>Sartaj Singh & Gaurav Dhingra</i></td>
+    </tr>
+    <tr class='special'>
+        <td>18:00</td>
+        <td colspan=2><i>&nbsp;</i><br>&nbsp;</td>
+    </tr>
+    
+</table>
+
+
+#### Wednesday 30/08 - Conference day 1
 
 <table class='conf-table'>
     <tr class='special'>
