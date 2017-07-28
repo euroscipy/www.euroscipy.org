@@ -121,7 +121,7 @@ save_as: 2017/program.html
     
     <tr>
         <td>09:00</td>
-        <td><b>Keynote:</b> How to Fix a Scientific Culture: Psychology as a Cautionary Tale and Paragon
+        <td>Keynote: How to Fix a Scientific Culture: Psychology as a Cautionary Tale and Paragon
         <br> <i>Julia Rohrer</i></td>
     </tr>
     <tr>
@@ -202,6 +202,10 @@ save_as: 2017/program.html
     </tr>
     
     <tr class='special'>
+        <td>16:00</td>
+        <td><i>afternoon break</i><br>&nbsp;</td>
+    </tr>
+    <tr class='special'>
         <td>16:30</td>
         <td><i>Poster introductions (2 minute talks)</i><br>&nbsp;</td>
     </tr>
@@ -229,7 +233,7 @@ save_as: 2017/program.html
     
     <tr>
         <td>09:00</td>
-        <td>Keynote: Title tbd
+        <td>Keynote: Title t.b.d.
         <br> <i>Soumith Chintala</i></td>
     </tr>
     <tr>
@@ -262,6 +266,11 @@ save_as: 2017/program.html
         <td>11:45</td>
         <td>Leverage knowledge from under-represented classes in machine learning: an introduction to imbalanced-learn
         <br> <i>Guillaume Lemaitre</i></td>
+    </tr>
+    <tr>
+        <td>12:00</td>
+        <td>The OpenTURNS uncertainty quantification Python module 
+        <br> <i>Michael Baudin</i></td>
     </tr>
     
     <tr>
