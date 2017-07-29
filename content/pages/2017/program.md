@@ -172,8 +172,8 @@ save_as: 2017/program.html
     </tr>
     <tr>
         <td>12:00</td>
-        <td>BluVision - An image analysis framework for quantification of plant pathogen interaction phenotypes
-        <br> <i>Stefanie Lück</i></td>
+        <td>Free slot
+        <br> <i>author</i></td>
     </tr>
     <tr>
         <td>12:15</td>
