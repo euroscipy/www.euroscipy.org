@@ -164,7 +164,7 @@ save_as: 2017/program.html
     <tr>
         <td>11:45</td>
         <td>Pyrate - Optical Raytracing Based on Python 
-        <br> <i>Johannes</i></td>
+        <br> <i>Johannes Hartung & Moritz Esslinger</i></td>
     </tr>
     <tr>
         <td>12:00</td>
@@ -266,7 +266,7 @@ save_as: 2017/program.html
     <tr>
         <td>11:15</td>
         <td>fastmat - A simple Package for Fast Linear Transforms
-        <br> <i>Sebastian Semper and Christoph Wagner</i></td>
+        <br> <i>Sebastian Semper& Christoph Wagner</i></td>
     </tr>
     <tr>
         <td>11:30</td>
