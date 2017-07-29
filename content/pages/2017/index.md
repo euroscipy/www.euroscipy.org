@@ -16,6 +16,8 @@ Euroscipy 2017 takes place from August 28 to September 1 in Erlangen, Germany.
 
 ### News
 
+The (preliminary) program is online. Early bird is extended to August 2.
+
 [Keynote from Julia Rohrer]({filename}keynote_julia_rohrer.md)
 How to Fix a Scientific Culture: Psychology as a Cautionary Tale and Paragon
 
@@ -27,15 +29,6 @@ The [Call for Contributions](https://www.papercall.io/euroscipy-2017)
 is open.
 
 
-### Location
-
-Friedrich-Alexander-Universität Erlangen-Nürnberg </br>
-Hörsaal Physikum, Staudtstraße 5 91058 Erlangen
-
-See the [location at Google Maps](https://www.google.com/maps?q=49.5815,11.0282+(Friedrich-Alexander-Universität+Erlangen-Nürnberg+-+Hörsaal+Physikum,+Staudtstraße+5%0A91058+Erlangen%0A)),
-or check out the [relevant nearby locations](https://www.google.com/maps/d/embed?mid=1DnWwatmbpTOaL-frOGby6yXbUAI&ll=49.574826238696275%2C11.016347650000057&z=13).
-
-
 ### Important Dates
 
 |                             |                                                                                  |
@@ -45,7 +38,7 @@ or check out the [relevant nearby locations](https://www.google.com/maps/d/embed
 | June 24                     | Submission deadline for talks and tutorials
 | July 2                      | Extended deadline for talks and tutorials
 | July 14                     | Final program announced
-| July 27                     | End of early-bird registration
+| <s>July 27</s> August 2     | End of early-bird registration
 | August 28-29 (Mon, Tue)     | Tutorials
 | August 30 - 31 (Wed, Thu)   | Main conference and posters
 | September 1 (Fri)           | Sprints
