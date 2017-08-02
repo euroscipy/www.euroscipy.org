@@ -18,6 +18,9 @@ Euroscipy 2017 takes place from August 28 to September 1 in Erlangen, Germany.
 
 The (preliminary) program is online. Early bird is extended to August 2.
 
+[Keynote from Soumith Chintala]({filename}keynote_soumith_chintala.md)
+PyTorch: a framework for fast, dynamic deep learning and scientific computing
+
 [Keynote from Julia Rohrer]({filename}keynote_julia_rohrer.md)
 How to Fix a Scientific Culture: Psychology as a Cautionary Tale and Paragon
 
