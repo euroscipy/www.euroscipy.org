@@ -253,7 +253,7 @@ save_as: 2017/program.html
     
     <tr>
         <td>09:00</td>
-        <td>Keynote: Title t.b.d.
+        <td>Keynote: PyTorch: a framework for fast, dynamic deep learning and scientific computing
         <br> <i>Soumith Chintala</i></td>
     </tr>
     <tr>
