@@ -17,4 +17,11 @@ computations and execute them more efficiently.
 
 #### Biographical sketch
 
-Soumith Chintala
+Soumith Chintala is a Researcher at Facebook AI Research, where he works on deep learning,
+reinforcement learning, generative image models, agents for video games and large-scale
+high-performance deep learning. Prior to joining Facebook in August 2014, he worked at
+MuseAmi, where he built deep learning models for music and vision targeted at mobile
+devices. He holds a Masters in CS from NYU, and spent time in Yann LeCun's NYU lab building
+deep learning models for pedestrian detection, natural image OCR, depth-images among others.
+
+(Reproduced from <https://research.fb.com/people/chintala-soumith/>)
