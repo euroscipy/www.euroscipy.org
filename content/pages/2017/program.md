@@ -299,8 +299,8 @@ save_as: 2017/program.html
     
     <tr>
         <td>12:15</td>
-        <td>Free slot
-        <br> <i>author</i></td>
+        <td>Handshakes, Citizen Science and Evolution
+        <br> <i>Vince Knight</i></td>
     </tr>
     <tr>
         <td>12:30</td>
