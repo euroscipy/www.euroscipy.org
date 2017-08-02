@@ -141,8 +141,12 @@ save_as: 2017/program.html
         <br> <i>Almar Klein</i></td>
     </tr>
     
-    <tr class='special'>
+    <tr>
         <td>10:15</td>
+        <td><i>buffer</i><br>&nbsp;</td>
+    </tr>
+    <tr class='special'>
+        <td>10:30</td>
         <td><i>morning break</i><br>&nbsp;</td>
     </tr>
     
@@ -168,12 +172,13 @@ save_as: 2017/program.html
     </tr>
     <tr>
         <td>12:00</td>
-        <td>BluVision - An image analysis framework for quantification of plant pathogen interaction phenotypes
-        <br> <i>Stefanie Lück</i></td>
+        <td>Free slot
+        <br> <i>author</i></td>
     </tr>
     <tr>
         <td>12:15</td>
-        <td> <i>buffer</i><br>&nbsp;</td>
+        <td>Free slot
+        <br> <i>author</i></td>
     </tr>
     <tr>
         <td>12:30</td>
@@ -181,8 +186,12 @@ save_as: 2017/program.html
         <br> <i>Bastian Bechtold</i></td>
     </tr>
     
-    <tr class='special'>
+    <tr>
         <td>12:45</td>
+        <td><i>buffer</i><br>&nbsp;</td>
+    </tr>
+    <tr class='special'>
+        <td>13:00</td>
         <td><i>lunch</i><br>&nbsp;</td>
     </tr>
     
@@ -198,7 +207,7 @@ save_as: 2017/program.html
     </tr>
     <tr>
         <td>15:15</td>
-        <td>TBD
+        <td>Free slot
         <br> <i>author</i></td>
     </tr>
     <tr>
@@ -253,8 +262,12 @@ save_as: 2017/program.html
         <br> <i>Daniil Pakhomov</i></td>
     </tr>
     
-    <tr class='special'>
+    <tr>
         <td>10:15</td>
+        <td><i>buffer</i><br>&nbsp;</td>
+    </tr>
+    <tr class='special'>
+        <td>10:30</td>
         <td><i>morning break</i><br>&nbsp;</td>
     </tr>
     
@@ -286,7 +299,8 @@ save_as: 2017/program.html
     
     <tr>
         <td>12:15</td>
-        <td> <i>buffer</i><br>&nbsp;</td>
+        <td>Free slot
+        <br> <i>author</i></td>
     </tr>
     <tr>
         <td>12:30</td>
@@ -294,8 +308,12 @@ save_as: 2017/program.html
         <br> <i>Takuya Kitazawa</i></td>
     </tr>
     
-    <tr class='special'>
+    <tr>
         <td>12:45</td>
+        <td><i>buffer</i><br>&nbsp;</td>
+    </tr>
+    <tr class='special'>
+        <td>13:00</td>
         <td><i>lunch</i><br>&nbsp;</td>
     </tr>
     
