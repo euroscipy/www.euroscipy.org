@@ -70,9 +70,20 @@ Presentations of scientific tools and libraries using the Python language, inclu
 | Early Bird    | 50 Euro               | 125 Euro
 | Regular       | 100 Euro              | 250 Euro
 
-You register for one of the two tutorial tracks (introductory or advanced) but you can
-switch between both tracks whenever you want as long as there is enough space in the lecture
-rooms.
+<div id="tutorial-space">
+You register for one of the two tutorial tracks (introductory or advanced)
+but you can switch between both tracks whenever you want as long as there is
+enough space in the lecture rooms.
+Because experience from the last conferences show that the demand for the
+advanced track is greater than the one for the beginners track, the advanced
+tutorials will be in larger lectures room.
+This room is big enough to hold all attendees.
+Therefore, all tutorial attendees will be able to attend the advanced
+tutorials, if they which.
+Based on past years numbers, the room for the beginners tutorials is also large
+enough to seat all beginner track attendees.
+</div>
+</br>
 
 |                  |                       |
 |------------------|-----------------------|-------------
