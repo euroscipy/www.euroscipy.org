@@ -70,7 +70,7 @@ Presentations of scientific tools and libraries using the Python language, inclu
 | Early Bird    | 50 Euro               | 125 Euro
 | Regular       | 100 Euro              | 250 Euro
 
-<div id="tutorial-space">
+<a name="tutorial-space"></a>
 You register for one of the two tutorial tracks (introductory or advanced)
 but you can switch between both tracks whenever you want as long as there is
 enough space in the lecture rooms.
@@ -82,8 +82,6 @@ Therefore, all tutorial attendees will be able to attend the advanced
 tutorials, if they which.
 Based on past years numbers, the room for the beginners tutorials is also large
 enough to seat all beginner track attendees.
-</div>
-</br>
 
 |                  |                       |
 |------------------|-----------------------|-------------
@@ -92,8 +90,13 @@ enough to seat all beginner track attendees.
 | Regular          | 100 Euro              | 250 Euro
 
 
-### Registration<a name="registration">
+### Registration<a name="registration"></a>
 
 <tito-widget event="euroscipy2017/euroscipy-2017"></tito-widget>
 
 
+### Questions<a name="questions"></a>
+
+If you have a question about the conference, please send an email to *info* at
+the domain *euroscipy.org*.
+(Hint: Put the *@* in between both parts of this address.)
