@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 import os
 
-AUTHOR = u'The EuroSciPy team <euroscipy-org@python.org>'
+AUTHOR = u'The EuroSciPy team <info@euroscipy.org>'
 SITENAME = u'EuroSciPy'
 SITEURL = ''
 
