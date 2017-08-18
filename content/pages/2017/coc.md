@@ -28,7 +28,7 @@ Furthermore, we believe attendees have a right to:
 
 ### Solving problems
 
-If problems covered by this code of conduct arise, please contact one of
+If problems covered by this code of conduct arise, please contact
 **info** at the domain euroscipy.org.
 Any complaint will remain confidential, be taken seriously, investigated, and
 dealt with appropriately.
@@ -37,11 +37,11 @@ The EuroSciPy organizers reserve the right to carry out any of the following
 actions relating to a complaint:
 
 * The person concerned may be told to stop/modify his/her behavior
-  appropriately and a warn* will be issued.
+  appropriately and a warning will be issued.
 * The person concerned may be warned that enforcement action may be taken if
   the behavior continues.
 * The person concerned may be asked to leave the venue immediately and/or may
-  be prohibited from continuing to attend EuroSciPy  (without refund).
+  be prohibited from continuing to attend EuroSciPy (without refund).
 * The incident may be reported to the local authorities.
 
 ### Be professional and don’t spam
