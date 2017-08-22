@@ -6,23 +6,23 @@ save_as: 2017/about.html
 #### Local organization
 
 - Thomas Pohl
-- Sepideh Alassi
+- Sepideh Alassi (University of Basel, CH)
 - Susanne Greiner
 
 
 #### Conference Manager, Sponsoring
 
-- Mike Müller
+- Mike Müller (Python Academy, DE)
 
 
 #### Tutorial Chair
 
-- Emmanuelle Gouillart (Joint Unit CNRS/Saint-Gobain, France)
+- Emmanuelle Gouillart (Joint Unit CNRS/Saint-Gobain, FR)
 
 
 #### Program Chair
 
-- Federico Vaggi (Fondazione Edmund Mach, Italy)
+- Federico Vaggi (Amazon, US)
 
 
 #### Program Committee
@@ -42,9 +42,9 @@ save_as: 2017/about.html
 
 #### Communication
 
-- Pierre de Buyl
-- Sepideh Alassi
-- Mike Müller
+- Pierre de Buyl (KU Leuven, BE)
+- Sepideh Alassi (University of Basel, CH)
+- Mike Müller (Python Academy, DE)
 
 
 #### Help Desk
@@ -55,4 +55,4 @@ save_as: 2017/about.html
 
 #### Contact
 
-- euroscipy-org (at) python (dot) org
+- info at the domain euroscipy.org

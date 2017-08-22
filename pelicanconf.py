@@ -19,7 +19,7 @@ ARTICLE_SAVE_AS = 'news/{date:%Y}/{date:%m}/{date:%d}/{slug}/index.html'
 # Title menu options
 DISPLAY_PAGES_ON_MENU = False
 MENUITEMS = [('Euroscipy 2017', 'index.html'),  # i.e. home
-             #('About', 'about.html'),  # contact info and who makes up the org and committees
+             ('About', 'about.html'),  # contact info and who makes up the org and committees
              ('Venue', 'venue.html'),
              ('Program', 'program.html'),
              ('Code of Conduct', 'coc.html'),
