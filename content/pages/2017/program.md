@@ -271,7 +271,7 @@ tutorials](https://github.com/euroscipy/www.euroscipy.org/wiki/Euroscipy-2017-tu
     <tr>
         <td>11:15</td>
         <td>fastmat - A simple Package for Fast Linear Transforms
-        <br> <i>Sebastian Semper& Christoph Wagner</i></td>
+        <br> <i>Sebastian Semper & Christoph Wagner</i></td>
     </tr>
     <tr>
         <td>11:30</td>
@@ -318,7 +318,7 @@ tutorials](https://github.com/euroscipy/www.euroscipy.org/wiki/Euroscipy-2017-tu
     <tr>
         <td>15:15</td>
         <td>Autoscaling distributed compute with Dask, Kubernetes and AWS
-        <br> <i>Alex Hilson</i></td>
+        <br> <i>Jacob Tomlinson & Alex Hilson</i></td>
     </tr>
     
     <tr class='special'>
