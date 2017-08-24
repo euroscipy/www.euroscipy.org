@@ -16,8 +16,9 @@ save_as: 2017/program.html
 }
 </style>
 
-*This program is preliminary - times may change*
-
+Tutorials are hands-on sessions, therefore you should bring your own
+laptop. Installation instructions for tutorials can be found on
+https://github.com/euroscipy/www.euroscipy.org/wiki/Euroscipy-2017-tutorial-requirements
 
 #### Monday 28/08 - Tutorial day 1
 
