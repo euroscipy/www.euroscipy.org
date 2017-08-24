@@ -317,8 +317,8 @@ tutorials](https://github.com/euroscipy/www.euroscipy.org/wiki/Euroscipy-2017-tu
     </tr>
     <tr>
         <td>15:15</td>
-        <td>Discretization of the Laplacian operator using a multitude of overlapping cartesian grids
-        <br> <i>Federico Tesser</i></td>
+        <td>Autoscaling distributed compute with Dask, Kubernetes and AWS
+        <br> <i>Alex Hilson</i></td>
     </tr>
     
     <tr class='special'>
