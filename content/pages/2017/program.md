@@ -199,8 +199,8 @@ tutorials](https://github.com/euroscipy/www.euroscipy.org/wiki/Euroscipy-2017-tu
     </tr>
     <tr>
         <td>14:45</td>
-        <td>Free slot
-        <br> <i>author</i></td>
+        <td>Introduction into the ppci project
+        <br> <i>Windel Bouwman</i></td>
     </tr>
     <tr>
         <td>15:00</td>
