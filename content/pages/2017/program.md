@@ -29,43 +29,43 @@ tutorials](https://github.com/euroscipy/www.euroscipy.org/wiki/Euroscipy-2017-tu
     </tr>
     
     <tr class='special'>
-        <td>09:00</td>
+        <td>08:30</td>
         <td colspan=2><i>registration</i><br>&nbsp;</td>
     </tr>
     <tr>
-        <td>9:30</td>
+        <td>9:00</td>
         <td>Python<br> <i>Guillaume Lemaître</i></td>
         <td>Scikit-learn<br><i>Olivier Grisel & Tim Head</i></td>
     </tr>
     <tr class='special'>
-        <td>11:00</td>
+        <td>10:30</td>
         <td colspan=2><i>morning break</i><br>&nbsp;</td>
     </tr>
     <tr>
-        <td>11:30</td>
+        <td>11:00</td>
         <td>Python<br> <i>Guillaume Lemaître</i></td>
         <td>Scikit-learn<br> <i>Olivier Grisel & Tim Head</i></td>
     </tr>
     <tr class='special'>
-        <td>13:00</td>
+        <td>12:30</td>
         <td colspan=2><i>lunch</i><br>&nbsp;</td>
     </tr>
     <tr>
-        <td>14:30</td>
+        <td>14:00</td>
         <td>Numpy<br> <i>Gert Ingold</i></td>
         <td>Advanced Pandas<br> <i>Joris Van den Bossche</i></td>
     </tr>
     <tr class='special'>
-        <td>16:00</td>
+        <td>15:30</td>
         <td colspan=2><i>afternoon break</i><br>&nbsp;</td>
     </tr>
     <tr>
-        <td>16:30</td>
+        <td>16:00</td>
         <td>Numpy<br> <i>Gert Ingold</i></td>
         <td>Networkx<br> <i>Mridul Seth</i></td>
     </tr>
     <tr class='special'>
-        <td>18:00</td>
+        <td>17:30</td>
         <td colspan=2><i>&nbsp</i><br>&nbsp;</td>
     </tr>
     
@@ -80,43 +80,43 @@ tutorials](https://github.com/euroscipy/www.euroscipy.org/wiki/Euroscipy-2017-tu
         <td></td> <th>Intro</th> <th>Advanced</th>
     </tr>
     <tr class='special'>
-        <td>09:00</td>
+        <td>08:30</td>
         <td colspan=2><i>registration</i><br>&nbsp;</td>
     </tr>
     <tr>
-        <td>09:30</td>
+        <td>09:00</td>
         <td>Matplotlib<br> <i>Mike Mueller</i></td>
         <td>Scikit-image<br><i>Emmanuelle Gouillart</i></td>
     </tr>
     <tr class='special'>
-        <td>11:00</td>
+        <td>10:30</td>
         <td colspan=2><i>morning break</i><br>&nbsp;</td>
     </tr>
     <tr>
-        <td>11:30</td>
+        <td>11:00</td>
         <td>Pandas<br> <i>Joris Van den Bossche</i></td>
         <td>Keras<br> <i>Valerio Maggio</i></td>
     </tr>
     <tr class='special'>
-        <td>13:00</td>
+        <td>12:30</td>
         <td colspan=2><i>lunch</i><br>&nbsp;</td>
     </tr>
     <tr>
-        <td>14:30</td>
+        <td>14:00</td>
         <td>SciPy<br> <i>Gaël Varoquaux</i></td>
         <td>Cython<br> <i>Stefan Behnel</i></td>
     </tr>
     <tr class='special'>
-        <td>16:00</td>
+        <td>15:30</td>
         <td colspan=2><i>afternoon break</i><br>&nbsp;</td>
     </tr>
     <tr>
-        <td>16:30</td>
+        <td>16:00</td>
         <td>Git<br> <i>Gert Ingold</i></td>
         <td>SymPy<br> <i>Sartaj Singh & Gaurav Dhingra</i></td>
     </tr>
     <tr class='special'>
-        <td>18:00</td>
+        <td>17:30</td>
         <td colspan=2><i>&nbsp;</i><br>&nbsp;</td>
     </tr>
     
@@ -133,19 +133,20 @@ tutorials](https://github.com/euroscipy/www.euroscipy.org/wiki/Euroscipy-2017-tu
     
     <tr>
         <td>09:00</td>
+        <td>Opening notes
+        <br>&nbsp;</td>
+    </tr>
+    <tr>
+        <td>09:15</td>
         <td>Keynote: How to Fix a Scientific Culture: Psychology as a Cautionary Tale and Paragon
         <br> <i>Julia Rohrer</i></td>
     </tr>
     <tr>
-        <td>10:00</td>
+        <td>10:15</td>
         <td>Getting the hang of WASM
         <br> <i>Almar Klein</i></td>
     </tr>
     
-    <tr>
-        <td>10:15</td>
-        <td><i>buffer</i><br>&nbsp;</td>
-    </tr>
     <tr class='special'>
         <td>10:30</td>
         <td><i>morning break</i><br>&nbsp;</td>
@@ -173,70 +174,60 @@ tutorials](https://github.com/euroscipy/www.euroscipy.org/wiki/Euroscipy-2017-tu
     </tr>
     <tr>
         <td>12:00</td>
-        <td>Free slot
-        <br> <i>author</i></td>
-    </tr>
-    <tr>
-        <td>12:15</td>
-        <td>Free slot
-        <br> <i>author</i></td>
-    </tr>
-    <tr>
-        <td>12:30</td>
         <td>Working with Audio Data in Python 
         <br> <i>Bastian Bechtold</i></td>
     </tr>
     
     <tr>
-        <td>12:45</td>
-        <td><i>buffer</i><br>&nbsp;</td>
+        <td>12:15</td>
+        <td>Sponsored talks<br>&nbsp;</td>
     </tr>
     <tr class='special'>
-        <td>13:00</td>
+        <td>12:30</td>
         <td><i>lunch</i><br>&nbsp;</td>
     </tr>
     
     <tr>
-        <td>14:30</td>
+        <td>14:00</td>
         <td>GeoPandas - geospatial data in Python made easy 
         <br> <i>Joris Van den Bossche</i></td>
     </tr>
     <tr>
-        <td>15:00</td>
+        <td>14:30</td>
         <td>Learning 2D Animation with Processing 
         <br> <i>Melanie McCall</i></td>
     </tr>
     <tr>
-        <td>15:15</td>
-        <td>Free slot
-        <br> <i>author</i></td>
+        <td>14:45</td>
+        <td>Introduction into the ppci project
+        <br> <i>Windel Bouwman</i></td>
     </tr>
     <tr>
-        <td>15:30</td>
+        <td>15:00</td>
         <td>nbval - Testing your notebooks 
         <br> <i>Thomas Kluyver</i></td>
     </tr>
     <tr>
-        <td>15:45</td>
+        <td>15:15</td>
         <td>Testing the unknown: how to test scientific codes 
         <br> <i>Alice Harpole</i></td>
     </tr>
     
     <tr class='special'>
-        <td>16:00</td>
+        <td>15:30</td>
         <td><i>afternoon break</i><br>&nbsp;</td>
     </tr>
     <tr class='special'>
-        <td>16:30</td>
+        <td>16:00</td>
         <td><i>Poster introductions (2 minute talks)</i><br>&nbsp;</td>
     </tr>
     <tr class='special'>
-        <td>17:00</td>
+        <td>16:30</td>
         <td><i>Poster session</i><br>&nbsp;</td>
     </tr>
     
     <tr class='special'>
-        <td>18:00</td>
+        <td>17:30</td>
         <td><i>Social event</i><br>&nbsp;</td>
     </tr>
     
@@ -262,10 +253,10 @@ tutorials](https://github.com/euroscipy/www.euroscipy.org/wiki/Euroscipy-2017-tu
         <td>Fully Convolutional Networks for Image Segmentation 
         <br> <i>Daniil Pakhomov</i></td>
     </tr>
-    
     <tr>
         <td>10:15</td>
-        <td><i>buffer</i><br>&nbsp;</td>
+        <td>FluRS - A Library for Streaming Recommendation Algorithms 
+        <br> <i>Takuya Kitazawa</i></td>
     </tr>
     <tr class='special'>
         <td>10:30</td>
@@ -280,7 +271,7 @@ tutorials](https://github.com/euroscipy/www.euroscipy.org/wiki/Euroscipy-2017-tu
     <tr>
         <td>11:15</td>
         <td>fastmat - A simple Package for Fast Linear Transforms
-        <br> <i>Sebastian Semper& Christoph Wagner</i></td>
+        <br> <i>Sebastian Semper & Christoph Wagner</i></td>
     </tr>
     <tr>
         <td>11:30</td>
@@ -303,48 +294,39 @@ tutorials](https://github.com/euroscipy/www.euroscipy.org/wiki/Euroscipy-2017-tu
         <td>Handshakes, Citizen Science and Evolution
         <br> <i>Vince Knight</i></td>
     </tr>
-    <tr>
-        <td>12:30</td>
-        <td>FluRS - A Library for Streaming Recommendation Algorithms 
-        <br> <i>Takuya Kitazawa</i></td>
-    </tr>
     
-    <tr>
-        <td>12:45</td>
-        <td><i>buffer</i><br>&nbsp;</td>
-    </tr>
     <tr class='special'>
-        <td>13:00</td>
+        <td>12:30</td>
         <td><i>lunch</i><br>&nbsp;</td>
     </tr>
     
     <tr>
-        <td>14:30</td>
+        <td>14:00</td>
         <td>Tricks for Efficient Multicore Computing
         <br> <i>Oliver Grisel</i></td>
     </tr>
     <tr>
-        <td>15:00</td>
+        <td>14:30</td>
         <td>AMfe - Finite Elements for Structural Dynamics with Simplicity in Mind 
         <br> <i>Christian Meyer</i></td>
     </tr>
     <tr>
-        <td>15:15</td>
+        <td>14:45</td>
         <td>Bayesian Optimization - Can you do better than randomly guessing parameters?
         <br> <i>Tim Head</i></td>
     </tr>
     <tr>
-        <td>15:45</td>
-        <td>Discretization of the Laplacian operator using a multitude of overlapping cartesian grids
-        <br> <i>Federico Tesser</i></td>
+        <td>15:15</td>
+        <td>Autoscaling distributed compute with Dask, Kubernetes and AWS
+        <br> <i>Jacob Tomlinson & Alex Hilson</i></td>
     </tr>
     
     <tr class='special'>
-        <td>16:00</td>
+        <td>15:30</td>
         <td><i>afternoon break</i><br>&nbsp;</td>
     </tr>
     <tr class='special'>
-        <td>16:30</td>
+        <td>16:00</td>
         <td><i>Lightning Talks</i><br>&nbsp;</td>
     </tr>
 
