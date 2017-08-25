@@ -14,11 +14,23 @@ save_as: 2017/program.html
 .conf-table tr.special {
     background: #ccd;
 }
+
+@media all {
+    .page-break	{ display: none; }
+}
+@media print {
+    .page-break	{ display: block; page-break-before: always; }
+}
 </style>
+
+A printable PDF of the program can be found [here](https://dl.dropbox.com/s/awcn23rv8y2cm9w/euroscipy%202017%20program.pdf).
 
 Tutorials are hands-on sessions, therefore you should bring your own laptop and
 follow our [installation instructions for
 tutorials](https://github.com/euroscipy/www.euroscipy.org/wiki/Euroscipy-2017-tutorial-requirements)
+
+<div class="page-break"></div>
+
 
 #### Monday 28/08 - Tutorial day 1
 
@@ -123,6 +135,8 @@ tutorials](https://github.com/euroscipy/www.euroscipy.org/wiki/Euroscipy-2017-tu
 </table>
 
 
+<div class="page-break"></div>
+
 #### Wednesday 30/08 - Conference day 1
 
 <table class='conf-table'>
@@ -138,8 +152,8 @@ tutorials](https://github.com/euroscipy/www.euroscipy.org/wiki/Euroscipy-2017-tu
     </tr>
     <tr>
         <td>09:15</td>
-        <td>Keynote: How to Fix a Scientific Culture: Psychology as a Cautionary Tale and Paragon
-        <br> <i>Julia Rohrer</i></td>
+        <td>How to Fix a Scientific Culture: Psychology as a Cautionary Tale and Paragon
+        <br> <i>Keynote by Julia Rohrer</i></td>
     </tr>
     <tr>
         <td>10:15</td>
@@ -234,6 +248,7 @@ tutorials](https://github.com/euroscipy/www.euroscipy.org/wiki/Euroscipy-2017-tu
 </table>
 
 
+<div class="page-break"></div>
 
 #### Thursday 31/08 - Conference day 2
 
@@ -245,8 +260,8 @@ tutorials](https://github.com/euroscipy/www.euroscipy.org/wiki/Euroscipy-2017-tu
     
     <tr>
         <td>09:00</td>
-        <td>Keynote: PyTorch: a framework for fast, dynamic deep learning and scientific computing
-        <br> <i>Soumith Chintala</i></td>
+        <td>PyTorch: a framework for fast, dynamic deep learning and scientific computing
+        <br> <i>Keynote by Soumith Chintala</i></td>
     </tr>
     <tr>
         <td>10:00</td>
@@ -332,6 +347,8 @@ tutorials](https://github.com/euroscipy/www.euroscipy.org/wiki/Euroscipy-2017-tu
 
 </table>
 
+
+<div class="page-break"></div>
 
 #### Friday 01/09 - Sprints
 
