@@ -22,6 +22,7 @@ MENUITEMS = [('Euroscipy 2017', 'index.html'),  # i.e. home
              ('About', 'about.html'),  # contact info and who makes up the org and committees
              ('Venue', 'venue.html'),
              ('Program', 'program.html'),
+             #('Sponsors', 'sponsors.html'),
              ('Code of Conduct', 'coc.html'),
              ]
 
@@ -52,7 +53,7 @@ TRANSLATION_FEED_ATOM = None
 
 DEFAULT_PAGINATION = 5
 
-STATIC_PATHS = ['images', 'pdf', 'CNAME']
+STATIC_PATHS = ['static2017', 'images', 'pdf', 'CNAME']
 
 # Uncomment following line if you want document-relative URLs when developing
 RELATIVE_URLS = True
