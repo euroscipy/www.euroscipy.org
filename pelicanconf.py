@@ -22,7 +22,7 @@ MENUITEMS = [('Euroscipy 2017', 'index.html'),  # i.e. home
              ('About', 'about.html'),  # contact info and who makes up the org and committees
              ('Venue', 'venue.html'),
              ('Program', 'program.html'),
-             ('Sponsors', 'sponsors.html'),
+             #('Sponsors', 'sponsors.html'),
              ('Code of Conduct', 'coc.html'),
              ]
 
