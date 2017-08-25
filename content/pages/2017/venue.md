@@ -18,7 +18,7 @@ Friedrich-Alexander-Universität Erlangen-Nürnberg </br>
 Physics department </br>
 Staudtstraße 5 91058 Erlangen
 
-See also the [location at Google Maps](https://www.google.com/maps?q=49.5815,11.0282+(Friedrich-Alexander-Universität+Erlangen-Nürnberg+-+Hörsaal+Physikum,+Staudtstraße+5%0A91058+Erlangen%0A)).
+See also the [location at Google Maps](https://goo.gl/maps/MSkaijsHbL52)
 
 The beginner tutorials will be in lecture room (Hörsaal in German) F, and the advanced tutorials in lecture room G.
 The conference talks will be in lecture room G. The sprints will be in seminar rooms 00.732 and 00.103.
