@@ -29,7 +29,7 @@ Among the organisers, the following persons are the privileged contacts about
 this code of conduct. You may contact one of them either directly or via the
 coordinates below:
 
-- Person 1, person1@domain, cell phone +123456789
+- Thomas Pohl, tpx AT gmx_dot_de +49 172 3109486
 - Person 2, person2@domain, cell phone +123456789
 
 Furthermore, participants are hereby reminded that they should abide by
