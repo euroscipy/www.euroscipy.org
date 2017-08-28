@@ -80,8 +80,42 @@ def make_links_in_program():
     """ Make the talk titles in the program link to description pages,
     as far as we can, anyway. The rest should be done by hand by making use of
     the descriptions.index.md.
+    
+    Beware, this is ugly, and makes all kinds of assumptions about how the program
+    table is formatted, and it needs manual corrections, and it does not work after
+    it has applied the changes. We should probably just throw it away.
     """
-    raise NotImplementedError()
+    
+    # Build reverse index
+    rindex = {}
+    fname = os.path.join(THIS_DIR, 'content', 'pages', '2017', 'descriptions', 'index.md')
+    with open(fname, 'rb') as f:
+        for line in f.read().decode().splitlines():
+            if line.strip():
+                id, _, title = line.partition('-')
+                rindex[title.strip().lower()] = 'descriptions/' + id.strip() + '.html'
+    default_link = 'descriptions/oops.html'
+    
+    # Add links
+    fname = os.path.join(THIS_DIR, 'content', 'pages', '2017', 'program.md')
+    text = open(fname, 'rb').read().decode()
+    lines = text.splitlines()
+    for i in range(len(lines)-1):
+        line = lines[i]
+        if line.lstrip().startswith("<td>") and not line.rstrip().endswith(">"):
+            if '&nbsp' not in lines[i+1]:
+                title = line.lstrip()[4:]
+                id = rindex.get(title.strip().lower(), default_link)
+                lines[i] = "        <td><a href='%s'>%s</a>" % (id, title)
+        if line.lstrip().startswith("<td>") and line.rstrip().endswith("</td>"):
+            if '<br>' in line and '&nbsp' not in line:
+                title, _, rest = line.lstrip()[4:].partition('<br>')
+                id = rindex.get(title.strip().lower(), default_link)
+                lines[i] = "        <td><a href='%s'>%s</a><br>%s" % (id, title, rest)
+        
+    with open(fname, 'wb') as f:
+        text = '\n'.join(lines)
+        f.write(text.encode())
 
 
 if __name__ == '__main__':
