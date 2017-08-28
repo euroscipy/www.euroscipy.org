@@ -123,4 +123,3 @@ if __name__ == '__main__':
     # get_reviewer_list()
     # get_talk_descriptions()
     # make_links_in_program()
-    
