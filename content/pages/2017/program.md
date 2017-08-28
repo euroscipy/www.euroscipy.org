@@ -47,7 +47,7 @@ tutorials](https://github.com/euroscipy/www.euroscipy.org/wiki/Euroscipy-2017-tu
     <tr>
         <td>9:00</td>
         <td>Python<br> <i>Guillaume Lemaître</i></td>
-        <td>Scikit-learn<br><i>Olivier Grisel & Tim Head</i></td>
+        <td><a href='descriptions/19813.html'>Scikit-learn</a><br><i>Olivier Grisel & Tim Head</i></td>
     </tr>
     <tr class='special'>
         <td>10:30</td>
@@ -56,7 +56,7 @@ tutorials](https://github.com/euroscipy/www.euroscipy.org/wiki/Euroscipy-2017-tu
     <tr>
         <td>11:00</td>
         <td>Python<br> <i>Guillaume Lemaître</i></td>
-        <td>Scikit-learn<br> <i>Olivier Grisel & Tim Head</i></td>
+        <td><a href='descriptions/19813.html'>Scikit-learn</a><br> <i>Olivier Grisel & Tim Head</i></td>
     </tr>
     <tr class='special'>
         <td>12:30</td>
@@ -65,7 +65,7 @@ tutorials](https://github.com/euroscipy/www.euroscipy.org/wiki/Euroscipy-2017-tu
     <tr>
         <td>14:00</td>
         <td>Numpy<br> <i>Gert Ingold</i></td>
-        <td>Advanced Pandas<br> <i>Joris Van den Bossche</i></td>
+        <td><a href='descriptions/19834.html'>Advanced Pandas</a><br> <i>Joris Van den Bossche</i></td>
     </tr>
     <tr class='special'>
         <td>15:30</td>
@@ -74,7 +74,7 @@ tutorials](https://github.com/euroscipy/www.euroscipy.org/wiki/Euroscipy-2017-tu
     <tr>
         <td>16:00</td>
         <td>Numpy<br> <i>Gert Ingold</i></td>
-        <td>Networkx<br> <i>Mridul Seth</i></td>
+        <td><a href='descriptions/19240.html'>Networkx</a><br> <i>Mridul Seth</i></td>
     </tr>
     <tr class='special'>
         <td>17:30</td>
@@ -97,7 +97,7 @@ tutorials](https://github.com/euroscipy/www.euroscipy.org/wiki/Euroscipy-2017-tu
     </tr>
     <tr>
         <td>09:00</td>
-        <td>Matplotlib<br> <i>Mike Mueller</i></td>
+        <td><a href='descriptions/19885.html'>Matplotlib</a><br> <i>Mike Mueller</i></td>
         <td>Scikit-image<br><i>Emmanuelle Gouillart</i></td>
     </tr>
     <tr class='special'>
@@ -106,8 +106,8 @@ tutorials](https://github.com/euroscipy/www.euroscipy.org/wiki/Euroscipy-2017-tu
     </tr>
     <tr>
         <td>11:00</td>
-        <td>Pandas<br> <i>Joris Van den Bossche</i></td>
-        <td>Keras<br> <i>Valerio Maggio</i></td>
+        <td><a href='descriptions/19833.html'>Pandas</a><br> <i>Joris Van den Bossche</i></td>
+        <td><a href='descriptions/20538.html'>Keras</a><br> <i>Valerio Maggio</i></td>
     </tr>
     <tr class='special'>
         <td>12:30</td>
@@ -116,7 +116,7 @@ tutorials](https://github.com/euroscipy/www.euroscipy.org/wiki/Euroscipy-2017-tu
     <tr>
         <td>14:00</td>
         <td>SciPy<br> <i>Gaël Varoquaux</i></td>
-        <td>Cython<br> <i>Stefan Behnel</i></td>
+        <td><a href='descriptions/19431.html'>Cython</a><br> <i>Stefan Behnel</i></td>
     </tr>
     <tr class='special'>
         <td>15:30</td>
@@ -125,7 +125,7 @@ tutorials](https://github.com/euroscipy/www.euroscipy.org/wiki/Euroscipy-2017-tu
     <tr>
         <td>16:00</td>
         <td>Git<br> <i>Gert Ingold</i></td>
-        <td>SymPy<br> <i>Sartaj Singh & Gaurav Dhingra</i></td>
+        <td><a href='descriptions/19824.html'>SymPy</a><br> <i>Sartaj Singh & Gaurav Dhingra</i></td>
     </tr>
     <tr class='special'>
         <td>17:30</td>
@@ -152,12 +152,12 @@ tutorials](https://github.com/euroscipy/www.euroscipy.org/wiki/Euroscipy-2017-tu
     </tr>
     <tr>
         <td>09:15</td>
-        <td>How to Fix a Scientific Culture: Psychology as a Cautionary Tale and Paragon
+        <td><a href='keynote_julia_rohrer.html'>How to Fix a Scientific Culture: Psychology as a Cautionary Tale and Paragon</a>
         <br> <i>Keynote by Julia Rohrer</i></td>
     </tr>
     <tr>
         <td>10:15</td>
-        <td>Getting the hang of WASM
+        <td><a href='descriptions/19633.html'>Getting the hang of WASM</a>
         <br> <i>Almar Klein</i></td>
     </tr>
     
@@ -168,27 +168,27 @@ tutorials](https://github.com/euroscipy/www.euroscipy.org/wiki/Euroscipy-2017-tu
     
     <tr>
         <td>11:00</td>
-        <td>Interactive 3D Visualization in Jupyter Notebooks
+        <td><a href='descriptions/19783.html'>Interactive 3D Visualization in Jupyter Notebooks</a>
         <br> <i>Vidar Tonaas Fauske</i></td>
     </tr>
     <tr>
         <td>11:15</td>
-        <td>Arcas - Using Python to access open research literature
+        <td><a href='descriptions/19440.html'>Arcas - Using Python to access open research literature</a>
         <br> <i>Nikoleta E. Glynatsi</i></td>
     </tr>
     <tr>
         <td>11:30</td>
-        <td>Real-time Crowd-sourced Detection of Earthquakes 
+        <td><a href='descriptions/20315.html'>Real-time Crowd-sourced Detection of Earthquakes </a>
         <br> <i>Robert Steed</i></td>
     </tr>
     <tr>
         <td>11:45</td>
-        <td>Pyrate - Optical Raytracing Based on Python 
+        <td><a href='descriptions/20531.html'>Pyrate - Optical Raytracing Based on Python </a>
         <br> <i>Johannes Hartung & Moritz Esslinger</i></td>
     </tr>
     <tr>
         <td>12:00</td>
-        <td>Working with Audio Data in Python 
+        <td><a href='descriptions/19819.html'>Working with Audio Data in Python </a>
         <br> <i>Bastian Bechtold</i></td>
     </tr>
     
@@ -203,27 +203,27 @@ tutorials](https://github.com/euroscipy/www.euroscipy.org/wiki/Euroscipy-2017-tu
     
     <tr>
         <td>14:00</td>
-        <td>GeoPandas - geospatial data in Python made easy 
+        <td><a href='descriptions/19837.html'>GeoPandas - geospatial data in Python made easy </a>
         <br> <i>Joris Van den Bossche</i></td>
     </tr>
     <tr>
         <td>14:30</td>
-        <td>Learning 2D Animation with Processing 
+        <td><a href='descriptions/19316.html'>Learning 2D Animation with Processing </a>
         <br> <i>Melanie McCall</i></td>
     </tr>
     <tr>
         <td>14:45</td>
-        <td>Introduction into the ppci project
+        <td><a href='descriptions/20514.html'>Introduction into the ppci project</a>
         <br> <i>Windel Bouwman</i></td>
     </tr>
     <tr>
         <td>15:00</td>
-        <td>nbval - Testing your notebooks 
+        <td><a href='descriptions/19681.html'>nbval - Testing your notebooks </a>
         <br> <i>Thomas Kluyver</i></td>
     </tr>
     <tr>
         <td>15:15</td>
-        <td>Testing the unknown: how to test scientific codes 
+        <td><a href='descriptions/19358.html'>Testing the unknown: how to test scientific codes </a>
         <br> <i>Alice Harpole</i></td>
     </tr>
     
@@ -260,17 +260,17 @@ tutorials](https://github.com/euroscipy/www.euroscipy.org/wiki/Euroscipy-2017-tu
     
     <tr>
         <td>09:00</td>
-        <td>PyTorch: a framework for fast, dynamic deep learning and scientific computing
+        <td><a href='keynote_soumith_chintala.html'>PyTorch - a framework for fast, dynamic deep learning and scientific computing</a>
         <br> <i>Keynote by Soumith Chintala</i></td>
     </tr>
     <tr>
         <td>10:00</td>
-        <td>Fully Convolutional Networks for Image Segmentation 
+        <td><a href='descriptions/20523.html'>Fully Convolutional Networks for Image Segmentation </a>
         <br> <i>Daniil Pakhomov</i></td>
     </tr>
     <tr>
         <td>10:15</td>
-        <td>FluRS - A Library for Streaming Recommendation Algorithms 
+        <td><a href='descriptions/19827.html'>FluRS - A Library for Streaming Recommendation Algorithms </a>
         <br> <i>Takuya Kitazawa</i></td>
     </tr>
     <tr class='special'>
@@ -280,33 +280,33 @@ tutorials](https://github.com/euroscipy/www.euroscipy.org/wiki/Euroscipy-2017-tu
     
     <tr>
         <td>11:00</td>
-        <td>Deep Learning for Fraud Detection 
+        <td><a href='descriptions/20537.html'>Deep Learning for Fraud Detection </a>
         <br> <i>Valerio Maggio</i></td>
     </tr>
     <tr>
         <td>11:15</td>
-        <td>fastmat - A simple Package for Fast Linear Transforms
+        <td><a href='descriptions/19779.html'>fastmat - A simple Package for Fast Linear Transforms</a>
         <br> <i>Sebastian Semper & Christoph Wagner</i></td>
     </tr>
     <tr>
         <td>11:30</td>
-        <td>AutoWIG: Wrapping very large C++ libraries in Python automatically 
+        <td><a href='descriptions/19828.html'>AutoWIG: Wrapping very large C++ libraries in Python automatically </a>
         <br> <i>Pierre Fernique</i></td>
     </tr>
     <tr>
         <td>11:45</td>
-        <td>Leverage knowledge from under-represented classes in machine learning: an introduction to imbalanced-learn
+        <td><a href='descriptions/19826.html'>Leverage knowledge from under-represented classes in machine learning: an introduction to imbalanced-learn</a>
         <br> <i>Guillaume Lemaitre</i></td>
     </tr>
     <tr>
         <td>12:00</td>
-        <td>The OpenTURNS uncertainty quantification Python module 
+        <td><a href='descriptions/19782.html'>The OpenTURNS uncertainty quantification Python module </a>
         <br> <i>Michael Baudin</i></td>
     </tr>
     
     <tr>
         <td>12:15</td>
-        <td>Handshakes, Citizen Science and Evolution
+        <td><a href='descriptions/19186.html'>Handshakes, Citizen Science and Evolution</a>
         <br> <i>Vince Knight</i></td>
     </tr>
     
@@ -317,17 +317,17 @@ tutorials](https://github.com/euroscipy/www.euroscipy.org/wiki/Euroscipy-2017-tu
     
     <tr>
         <td>14:00</td>
-        <td>Tricks for Efficient Multicore Computing
+        <td><a href='descriptions/19817.html'>Tricks for Efficient Multicore Computing</a>
         <br> <i>Oliver Grisel</i></td>
     </tr>
     <tr>
         <td>14:30</td>
-        <td>AMfe - Finite Elements for Structural Dynamics with Simplicity in Mind 
+        <td><a href='descriptions/20320.html'>AMfe - Finite Elements for Structural Dynamics with Simplicity in Mind </a>
         <br> <i>Christian Meyer</i></td>
     </tr>
     <tr>
         <td>14:45</td>
-        <td>Bayesian Optimization - Can you do better than randomly guessing parameters?
+        <td><a href='descriptions/19765.html'>Bayesian Optimization - Can you do better than randomly guessing parameters?</a>
         <br> <i>Tim Head</i></td>
     </tr>
     <tr>
