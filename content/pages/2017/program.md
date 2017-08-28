@@ -241,8 +241,8 @@ tutorials](https://github.com/euroscipy/www.euroscipy.org/wiki/Euroscipy-2017-tu
     </tr>
     
     <tr class='special'>
-        <td>17:30</td>
-        <td><i>Social event</i><br>&nbsp;</td>
+        <td>19:00</td>
+        <td><i>Social event: guided tour in Entlas Keller</i><br>&nbsp;</td>
     </tr>
     
 </table>
