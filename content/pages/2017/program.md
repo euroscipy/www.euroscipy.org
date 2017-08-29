@@ -46,7 +46,7 @@ tutorials](https://github.com/euroscipy/www.euroscipy.org/wiki/Euroscipy-2017-tu
     </tr>
     <tr>
         <td>9:00</td>
-        <td>Python<br> <i>Guillaume Lemaître</i></td>
+        <td><a href='https://github.com/euroscipy/www.euroscipy.org/wiki/Euroscipy-2017-tutorial-requirements#python'>Python</a><br> <i>Guillaume Lemaître</i></td>
         <td><a href='descriptions/19813.html'>Scikit-learn</a><br><i>Olivier Grisel & Tim Head</i></td>
     </tr>
     <tr class='special'>
@@ -55,7 +55,7 @@ tutorials](https://github.com/euroscipy/www.euroscipy.org/wiki/Euroscipy-2017-tu
     </tr>
     <tr>
         <td>11:00</td>
-        <td>Python<br> <i>Guillaume Lemaître</i></td>
+        <td><a href='https://github.com/euroscipy/www.euroscipy.org/wiki/Euroscipy-2017-tutorial-requirements#python'>Python</a><br> <i>Guillaume Lemaître</i></td>
         <td><a href='descriptions/19813.html'>Scikit-learn</a><br> <i>Olivier Grisel & Tim Head</i></td>
     </tr>
     <tr class='special'>
@@ -64,7 +64,7 @@ tutorials](https://github.com/euroscipy/www.euroscipy.org/wiki/Euroscipy-2017-tu
     </tr>
     <tr>
         <td>14:00</td>
-        <td>Numpy<br> <i>Gert Ingold</i></td>
+        <td><a href='https://github.com/euroscipy/www.euroscipy.org/wiki/Euroscipy-2017-tutorial-requirements#numpy'>Numpy</a><br> <i>Gert Ingold</i></td>
         <td><a href='descriptions/19834.html'>Advanced Pandas</a><br> <i>Joris Van den Bossche</i></td>
     </tr>
     <tr class='special'>
@@ -73,7 +73,7 @@ tutorials](https://github.com/euroscipy/www.euroscipy.org/wiki/Euroscipy-2017-tu
     </tr>
     <tr>
         <td>16:00</td>
-        <td>Numpy<br> <i>Gert Ingold</i></td>
+        <td><a href='https://github.com/euroscipy/www.euroscipy.org/wiki/Euroscipy-2017-tutorial-requirements#numpy'>Numpy</a><br> <i>Gert Ingold</i></td>
         <td><a href='descriptions/19240.html'>Networkx</a><br> <i>Mridul Seth</i></td>
     </tr>
     <tr class='special'>
@@ -98,7 +98,7 @@ tutorials](https://github.com/euroscipy/www.euroscipy.org/wiki/Euroscipy-2017-tu
     <tr>
         <td>09:00</td>
         <td><a href='descriptions/19885.html'>Matplotlib</a><br> <i>Mike Mueller</i></td>
-        <td>Scikit-image<br><i>Emmanuelle Gouillart</i></td>
+        <td><a href='https://github.com/euroscipy/www.euroscipy.org/wiki/Euroscipy-2017-tutorial-requirements#scikit-image'>Scikit-image</a><br><i>Emmanuelle Gouillart</i></td>
     </tr>
     <tr class='special'>
         <td>10:30</td>
@@ -115,7 +115,7 @@ tutorials](https://github.com/euroscipy/www.euroscipy.org/wiki/Euroscipy-2017-tu
     </tr>
     <tr>
         <td>14:00</td>
-        <td>SciPy<br> <i>Gaël Varoquaux</i></td>
+        <td><a href='https://github.com/euroscipy/www.euroscipy.org/wiki/Euroscipy-2017-tutorial-requirements#scipy'>SciPy</a><br> <i>Gaël Varoquaux</i></td>
         <td><a href='descriptions/19431.html'>Cython</a><br> <i>Stefan Behnel</i></td>
     </tr>
     <tr class='special'>
@@ -124,7 +124,7 @@ tutorials](https://github.com/euroscipy/www.euroscipy.org/wiki/Euroscipy-2017-tu
     </tr>
     <tr>
         <td>16:00</td>
-        <td>Git<br> <i>Gert Ingold</i></td>
+        <td><a href='https://github.com/euroscipy/www.euroscipy.org/wiki/Euroscipy-2017-tutorial-requirements#git'>Git</a><br> <i>Gert Ingold</i></td>
         <td><a href='descriptions/19824.html'>SymPy</a><br> <i>Sartaj Singh & Gaurav Dhingra</i></td>
     </tr>
     <tr class='special'>
