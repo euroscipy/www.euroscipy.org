@@ -194,7 +194,8 @@ tutorials](https://github.com/euroscipy/www.euroscipy.org/wiki/Euroscipy-2017-tu
     
     <tr>
         <td>12:15</td>
-        <td>Sponsored talks<br>&nbsp;</td>
+        <td><a href='descriptions/19773.html'>Simphony-Remote - Accessing containerized desktop and web applications with a web browser </a>
+        <br> <i>Stefano Borini</i></td>
     </tr>
     <tr class='special'>
         <td>12:30</td>
