@@ -353,6 +353,7 @@ tutorials](https://github.com/euroscipy/www.euroscipy.org/wiki/Euroscipy-2017-tu
 
 #### Friday 01/09 - Sprints
 
-Several projects will be sprinting on Friday. These sprints are a great opportunity to
+[Several projects](https://github.com/euroscipy/www.euroscipy.org/wiki/Euroscipy-2017-sprints)
+will be sprinting on Friday. These sprints are a great opportunity to
 get started with contributing to your favorite project. If you want to organize a sprint,
-please contact the organization.
+please contact the organization. 
