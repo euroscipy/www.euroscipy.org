@@ -242,6 +242,11 @@ tutorials](https://github.com/euroscipy/www.euroscipy.org/wiki/Euroscipy-2017-tu
     </tr>
     
     <tr class='special'>
+        <td>17:30</td>
+        <td><i>BOF about organizing Euroscipy 2018</i><br>&nbsp;</td>
+    </tr>
+    
+    <tr class='special'>
         <td>19:00</td>
         <td><i>Social event: guided tour in Entlas Keller</i><br>&nbsp;</td>
     </tr>
