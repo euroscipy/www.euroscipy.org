@@ -39,7 +39,7 @@ tutorials](https://github.com/euroscipy/www.euroscipy.org/wiki/Euroscipy-2017-tu
     <tr>
         <td></td> <th>Intro</th> <th>Advanced</th>
     </tr>
-    
+
     <tr class='special'>
         <td>08:30</td>
         <td colspan=2><i>registration</i><br>&nbsp;</td>
@@ -80,7 +80,7 @@ tutorials](https://github.com/euroscipy/www.euroscipy.org/wiki/Euroscipy-2017-tu
         <td>17:30</td>
         <td colspan=2><i>&nbsp</i><br>&nbsp;</td>
     </tr>
-    
+
 </table>
 
 
@@ -131,7 +131,7 @@ tutorials](https://github.com/euroscipy/www.euroscipy.org/wiki/Euroscipy-2017-tu
         <td>17:30</td>
         <td colspan=2><i>&nbsp;</i><br>&nbsp;</td>
     </tr>
-    
+
 </table>
 
 
@@ -144,7 +144,7 @@ tutorials](https://github.com/euroscipy/www.euroscipy.org/wiki/Euroscipy-2017-tu
         <td>08:30</td>
         <td><i>registration</i><br>&nbsp;</td>
     </tr>
-    
+
     <tr>
         <td>09:00</td>
         <td>Opening notes
@@ -160,12 +160,12 @@ tutorials](https://github.com/euroscipy/www.euroscipy.org/wiki/Euroscipy-2017-tu
         <td><a href='descriptions/19633.html'>Getting the hang of WASM</a>
         <br> <i>Almar Klein</i></td>
     </tr>
-    
+
     <tr class='special'>
         <td>10:30</td>
         <td><i>morning break</i><br>&nbsp;</td>
     </tr>
-    
+
     <tr>
         <td>11:00</td>
         <td><a href='descriptions/19783.html'>Interactive 3D Visualization in Jupyter Notebooks</a>
@@ -191,7 +191,7 @@ tutorials](https://github.com/euroscipy/www.euroscipy.org/wiki/Euroscipy-2017-tu
         <td><a href='descriptions/19819.html'>Working with Audio Data in Python </a>
         <br> <i>Bastian Bechtold</i></td>
     </tr>
-    
+
     <tr>
         <td>12:15</td>
         <td><a href='descriptions/19773.html'>Simphony-Remote - Accessing containerized desktop and web applications with a web browser </a>
@@ -201,7 +201,7 @@ tutorials](https://github.com/euroscipy/www.euroscipy.org/wiki/Euroscipy-2017-tu
         <td>12:30</td>
         <td><i>lunch</i><br>&nbsp;</td>
     </tr>
-    
+
     <tr>
         <td>14:00</td>
         <td><a href='descriptions/19837.html'>GeoPandas - geospatial data in Python made easy </a>
@@ -227,7 +227,7 @@ tutorials](https://github.com/euroscipy/www.euroscipy.org/wiki/Euroscipy-2017-tu
         <td><a href='descriptions/19358.html'>Testing the unknown: how to test scientific codes </a>
         <br> <i>Alice Harpole</i></td>
     </tr>
-    
+
     <tr class='special'>
         <td>15:30</td>
         <td><i>afternoon break</i><br>&nbsp;</td>
@@ -240,17 +240,18 @@ tutorials](https://github.com/euroscipy/www.euroscipy.org/wiki/Euroscipy-2017-tu
         <td>16:30</td>
         <td><i>Poster session</i><br>&nbsp;</td>
     </tr>
-    
+
     <tr class='special'>
         <td>17:30</td>
-        <td><i>BOF about organizing Euroscipy 2018</i><br>&nbsp;</td>
+        <td><i>BOF about organizing EuroSciPy 2018 in Hörsaal F
+               (a.k.a. the small room)</i><br>&nbsp;</td>
     </tr>
-    
+
     <tr class='special'>
         <td>19:00</td>
         <td><i>Social event: guided tour in Entlas Keller</i><br>&nbsp;</td>
     </tr>
-    
+
 </table>
 
 
@@ -263,7 +264,7 @@ tutorials](https://github.com/euroscipy/www.euroscipy.org/wiki/Euroscipy-2017-tu
         <td>08:30</td>
         <td><i>registration</i><br>&nbsp;</td>
     </tr>
-    
+
     <tr>
         <td>09:00</td>
         <td><a href='keynote_soumith_chintala.html'>PyTorch - a framework for fast, dynamic deep learning and scientific computing</a>
@@ -283,7 +284,7 @@ tutorials](https://github.com/euroscipy/www.euroscipy.org/wiki/Euroscipy-2017-tu
         <td>10:30</td>
         <td><i>morning break</i><br>&nbsp;</td>
     </tr>
-    
+
     <tr>
         <td>11:00</td>
         <td><a href='descriptions/20537.html'>Deep Learning for Fraud Detection </a>
@@ -309,18 +310,18 @@ tutorials](https://github.com/euroscipy/www.euroscipy.org/wiki/Euroscipy-2017-tu
         <td><a href='descriptions/19782.html'>The OpenTURNS uncertainty quantification Python module </a>
         <br> <i>Michael Baudin</i></td>
     </tr>
-    
+
     <tr>
         <td>12:15</td>
         <td><a href='descriptions/19186.html'>Handshakes, Citizen Science and Evolution</a>
         <br> <i>Vince Knight</i></td>
     </tr>
-    
+
     <tr class='special'>
         <td>12:30</td>
         <td><i>lunch</i><br>&nbsp;</td>
     </tr>
-    
+
     <tr>
         <td>14:00</td>
         <td><a href='descriptions/19817.html'>Tricks for Efficient Multicore Computing</a>
@@ -341,7 +342,7 @@ tutorials](https://github.com/euroscipy/www.euroscipy.org/wiki/Euroscipy-2017-tu
         <td>Autoscaling distributed compute with Dask, Kubernetes and AWS
         <br> <i>Jacob Tomlinson & Alex Hilson</i></td>
     </tr>
-    
+
     <tr class='special'>
         <td>15:30</td>
         <td><i>afternoon break</i><br>&nbsp;</td>
@@ -361,4 +362,4 @@ tutorials](https://github.com/euroscipy/www.euroscipy.org/wiki/Euroscipy-2017-tu
 [Several projects](https://github.com/euroscipy/www.euroscipy.org/wiki/Euroscipy-2017-sprints)
 will be sprinting on Friday. These sprints are a great opportunity to
 get started with contributing to your favorite project. If you want to organize a sprint,
-please contact the organization. 
+please contact the organization.
