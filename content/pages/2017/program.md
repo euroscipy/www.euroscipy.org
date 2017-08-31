@@ -287,7 +287,7 @@ tutorials](https://github.com/euroscipy/www.euroscipy.org/wiki/Euroscipy-2017-tu
 
 
     <tr>
-        <td>12:15</td>
+        <td>11:00</td>
         <td><a href='descriptions/19186.html'>Handshakes, Citizen Science and Evolution</a>
         <br> <i>Vince Knight</i></td>
     </tr>
@@ -316,7 +316,7 @@ tutorials](https://github.com/euroscipy/www.euroscipy.org/wiki/Euroscipy-2017-tu
     </tr>
 
     <tr>
-        <td>11:00</td>
+        <td>12:15</td>
         <td><a href='descriptions/20537.html'>Deep Learning for Fraud Detection </a>
         <br> <i>Valerio Maggio</i></td>
     </tr>
