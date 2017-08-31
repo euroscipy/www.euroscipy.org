@@ -285,11 +285,15 @@ tutorials](https://github.com/euroscipy/www.euroscipy.org/wiki/Euroscipy-2017-tu
         <td><i>morning break</i><br>&nbsp;</td>
     </tr>
 
+
     <tr>
-        <td>11:00</td>
-        <td><a href='descriptions/20537.html'>Deep Learning for Fraud Detection </a>
-        <br> <i>Valerio Maggio</i></td>
+        <td>12:15</td>
+        <td><a href='descriptions/19186.html'>Handshakes, Citizen Science and Evolution</a>
+        <br> <i>Vince Knight</i></td>
     </tr>
+
+
+
     <tr>
         <td>11:15</td>
         <td><a href='descriptions/19779.html'>fastmat - A simple Package for Fast Linear Transforms</a>
@@ -312,9 +316,9 @@ tutorials](https://github.com/euroscipy/www.euroscipy.org/wiki/Euroscipy-2017-tu
     </tr>
 
     <tr>
-        <td>12:15</td>
-        <td><a href='descriptions/19186.html'>Handshakes, Citizen Science and Evolution</a>
-        <br> <i>Vince Knight</i></td>
+        <td>11:00</td>
+        <td><a href='descriptions/20537.html'>Deep Learning for Fraud Detection </a>
+        <br> <i>Valerio Maggio</i></td>
     </tr>
 
     <tr class='special'>
