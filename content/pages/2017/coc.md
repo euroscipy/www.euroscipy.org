@@ -29,8 +29,8 @@ Among the organisers, the following persons are the privileged contacts about
 this code of conduct. You may contact one of them either directly or via the
 coordinates below:
 
-- Thomas Pohl, tpx AT gmx_dot_de +49 172 3109486
-- Emmanuelle Gouillart emmanuelle <dot> gouillart AT normalesup dot_org  +33 6 64 13 99 67
+- Thomas Pohl
+- Emmanuelle Gouillart
 
 Furthermore, participants are hereby reminded that they should abide by
 the laws of the country hosting EuroSciPy, with discrimination and
