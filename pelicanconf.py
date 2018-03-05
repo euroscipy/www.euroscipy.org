@@ -20,12 +20,17 @@ ARTICLE_SAVE_AS = 'news/{date:%Y}/{date:%m}/{date:%d}/{slug}/index.html'
 DISPLAY_PAGES_ON_MENU = False
 
 SUBMENU = {}
-SUBMENU['euroscipy_2017'] = [('Euroscipy 2017', '2017/index.html'),
+SUBMENU['euroscipy_2017'] = [('Euroscipy 2017', '2017/'),
                              ('About', '2017/about.html'),
                              ('Venue', '2017/venue.html'),
                              ('Program', '2017/program.html'),
                              ('Sponsors', '2017/sponsors.html'),
                              ('Code of Conduct', '2017/coc.html'),
+]
+
+SUBMENU['euroscipy_2018'] = [('Euroscipy 2017', '2017/'),
+                             ('About', '2018/about.html'),
+                             ('Venue', '2018/venue.html'),
 ]
 
 NEWEST_FIRST_ARCHIVES = False
@@ -37,21 +42,10 @@ THEME_NAME = "tuxlite_zf"
 THEME = os.path.join(THEME_DIR, THEME_NAME)
 RECENT_ARTICLES_COUNT = 3
 
-
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
-
-# Blogroll
-# LINKS =  (('Pelican', 'http://getpelican.com/'),
-#           ('Python.org', 'http://python.org/'),
-#           ('Jinja2', 'http://jinja.pocoo.org/'),
-#           ('You can modify those links in your config file', '#'),)
-
-# Social widget
-#SOCIAL = (('You can add links in your config file', '#'),
-#          ('Another social link', '#'),)
 
 DEFAULT_PAGINATION = 5
 
