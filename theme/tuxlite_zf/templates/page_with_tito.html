@@ -4,6 +4,19 @@
     <script src='https://js.tito.io/v1' async></script>
     <link rel="stylesheet" type="text/css" href='https://css.tito.io/v1.1' />
 {% endblock %}
+
+{% block menu %}
+{% if page.section %}
+{% for title, link in SUBMENU[page.section] %}
+<li class="button secondary small"><a href="{{ SITEURL }}/{{ link }}" class="navbar-link">{{ title }}</a></li>
+{% endfor %}
+{% else %}
+{% for title, link in MENUITEMS %}
+<li class="button secondary small"><a href="{{ SITEURL }}/{{ link }}" class="navbar-link">{{ title }}</a></li>
+{% endfor %}
+{% endif %}
+{% endblock menu %}
+
 {% block content %}        
     <h3>{{ page.title }}</h3>
     {% import 'translations.html' as translations with context %}

@@ -22,7 +22,7 @@
 <div class="top-bar">
 <div class="row">
     <div class="large-9 large-centered columns">
-      <a href=""><img src="{{ SITEURL }}/theme/images/euroscipy_logo.png" alt="EuroSciPy Website"/></a>
+      <a href="{{ SITEURL }}"><img src="{{ SITEURL }}/theme/images/euroscipy_logo.png" alt="EuroSciPy Website"/></a>
       <h1>{{ SITENAME }}</h1>
     </div>
 </div>
@@ -36,11 +36,13 @@
     <li><a href="{{ link }}" class="button secondary small">{{ title }}</a></li>
     {% endfor %}
 
+    {% block menu %}
     {% if DISPLAY_PAGES_ON_MENU %}
         {% for page in PAGES %}
             <li><a href="{{ SITEURL }}/{{ page.url }}" class="button secondary small">{{ page.title }}</a></li>
         {% endfor %}
     {% endif %}
+    {% endblock menu %}
     </ul>
 </div>
 </div>
