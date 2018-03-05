@@ -11,7 +11,7 @@ section: euroscipy_2017
 <table style="table-layout:fixed">
 <tr>
   <td style="width:25%">
-  <img src='../static2017/NumFocus.png' width=150>
+  <img src='../static/2017/NumFocus.png' width=150>
   </td>
   <td style="width:75%">
 
@@ -44,7 +44,7 @@ Most individual projects, even the wildly successful ones, find the overhead of 
 
 <tr>
   <td style="width:25%">
-  <img src='../static2017/fau-logo.png' width=150>
+  <img src='../static/2017/fau-logo.png' width=150>
   </td>
   <td style="width:75%">
   Founded in 1743, <a "href=https://www.fau.de/">  FAU </a>
@@ -56,7 +56,7 @@ has a rich history. It is a strong research university with an international per
 
 <tr>
   <td style="width:25%">
-  <img src='../static2017/pysv_logo.png' width=150>
+  <img src='../static/2017/pysv_logo.png' width=150>
 
   </td>
   <td style="width:75%">
@@ -69,7 +69,7 @@ has a rich history. It is a strong research university with an international per
 
 <tr>
   <td style="width:25%">
-  <img src='../static2017/pya_logo.png' width=150>
+  <img src='../static/2017/pya_logo.png' width=150>
 
   </td>
   <td style="width:75%">
@@ -92,7 +92,7 @@ In addition to training, we consult companies that migrate to Python and develop
 <table style="table-layout:fixed">
 <tr>
   <td style="width:25%">
-  <img src='../static2017/psf-logo.png' width=150>
+  <img src='../static/2017/psf-logo.png' width=150>
   </td>
   <td style="width:75%">
   The mission of the
@@ -111,7 +111,7 @@ In addition to training, we consult companies that migrate to Python and develop
 <table style="table-layout:fixed">
 <tr>
   <td style="width:25%">
-  <img src='../static2017/enthought.png' width=150>
+  <img src='../static/2017/enthought.png' width=150>
   </td>
   <td style="width:75%">
     <a "href=https://www.enthought.com"> Enthought's</a> mission is to
