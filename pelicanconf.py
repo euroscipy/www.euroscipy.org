@@ -18,13 +18,15 @@ ARTICLE_SAVE_AS = 'news/{date:%Y}/{date:%m}/{date:%d}/{slug}/index.html'
 
 # Title menu options
 DISPLAY_PAGES_ON_MENU = False
-MENUITEMS = [('Euroscipy 2017', 'index.html'),  # i.e. home
-             ('About', 'about.html'),  # contact info and who makes up the org and committees
-             ('Venue', 'venue.html'),
-             ('Program', 'program.html'),
-             ('Sponsors', 'sponsors.html'),
-             ('Code of Conduct', 'coc.html'),
-             ]
+
+SUBMENU = {}
+SUBMENU['euroscipy_2017'] = [('Euroscipy 2017', '2017/index.html'),
+                             ('About', '2017/about.html'),
+                             ('Venue', '2017/venue.html'),
+                             ('Program', '2017/program.html'),
+                             ('Sponsors', '2017/sponsors.html'),
+                             ('Code of Conduct', '2017/coc.html'),
+]
 
 NEWEST_FIRST_ARCHIVES = False
 
