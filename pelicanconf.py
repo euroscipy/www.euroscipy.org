@@ -28,7 +28,7 @@ SUBMENU['euroscipy_2017'] = [('Euroscipy 2017', '2017/'),
                              ('Code of Conduct', '2017/coc.html'),
 ]
 
-SUBMENU['euroscipy_2018'] = [('Euroscipy 2017', '2017/'),
+SUBMENU['euroscipy_2018'] = [('Euroscipy 2018', '2018/'),
                              ('About', '2018/about.html'),
                              ('Venue', '2018/venue.html'),
 ]
