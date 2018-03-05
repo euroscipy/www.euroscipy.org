@@ -2,6 +2,7 @@ Title: EuroSciPy 2017
 URL: 2017/
 save_as: 2017/index.html
 Template:page_with_tito
+section: euroscipy_2017
 
 
 ### 10th European Conference on Python in Science

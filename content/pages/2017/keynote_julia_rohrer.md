@@ -1,6 +1,7 @@
 Title: Keynote by Julia Rohrer
 URL: 2017/keynote_julia_rohrer.html
 save_as: 2017/keynote_julia_rohrer.html
+section: euroscipy_2017
 
 
 ### How to Fix a Scientific Culture: Psychology as a Cautionary Tale and Paragon

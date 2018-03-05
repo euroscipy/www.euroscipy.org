@@ -1,6 +1,7 @@
 Title: Sponsors
 URL: 2017/sponsors.html
 save_as: 2017/sponsors.html
+section: euroscipy_2017
 
 
 

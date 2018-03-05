@@ -1,6 +1,7 @@
 Title: Venue
 URL: 2017/venue.html
 save_as: 2017/venue.html
+section: euroscipy_2017
 
 The conference is held in the Friedrich-Alexander University Erlangen-Nürnberg, or FAU for short.
 

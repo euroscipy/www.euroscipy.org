@@ -1,6 +1,7 @@
 Title: Keynote by Soumith Chintala
 URL: 2017/keynote_soumith_chintala.html
 save_as: 2017/keynote_soumith_chintala.html
+section: euroscipy_2017
 
 
 ### PyTorch: a framework for fast, dynamic deep learning and scientific computing

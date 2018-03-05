@@ -1,6 +1,7 @@
 Title: Program
 URL: 2017/program.html
 save_as: 2017/program.html
+section: euroscipy_2017
 
 <style>
 .conf-table {

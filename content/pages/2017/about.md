@@ -1,6 +1,7 @@
 Title: About
 URL: 2017/about.html
 save_as: 2017/about.html
+section: euroscipy_2017
 
 
 #### Local organization

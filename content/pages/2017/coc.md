@@ -1,6 +1,7 @@
 Title: Code of Conduct
 URL: 2017/coc.html
 save_as: 2017/coc.html
+section: euroscipy_2017
 
 The EuroSciPy conference benefits from a diverse community, which has grown
 as a friendly, welcoming and dynamic group.
