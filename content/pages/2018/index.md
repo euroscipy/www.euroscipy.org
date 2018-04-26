@@ -19,6 +19,13 @@ Euroscipy 2018 takes place from August 28 to September 1 in Trento, Italy.
 **2018, march 5:** website online
 
 
+### Important Dates
+
+|                             |                                                                                  |
+|-----------------------------|-----------------------------------------------------------------------------------
+| Apr 26                      | [Call for talks, posters & tutorials](https://pretalx.com/euroscipy18/)
+| May 13                      | Submission deadline for talks and tutorials
+
 ### Topics
 
 
