@@ -44,3 +44,7 @@ cache
 \#*
 *~
 .#*
+
+# Pipenv
+Pipfile
+Pipfile.lock
