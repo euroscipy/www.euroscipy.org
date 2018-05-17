@@ -9,6 +9,20 @@ section: euroscipy_2018
 - Valerio Maggio
 - Ernesto Arbitrio
 
+#### Program chair
+
+- Alexander CS Hendorf (Königsweg GmbH, DE)
+
+#### Tutorials chair
+
+- Emmanuelle Gouillart (Joint Unit CNRS/Saint-Gobain, FR)
+
+#### Organizing committee
+
+- Pierre de Buyl (KU Leuven, BE)
+- Mike Müller (Python Academy, DE)
+- Alessia Marcolini
+- Susan Greiner
 
 #### Contact
 
