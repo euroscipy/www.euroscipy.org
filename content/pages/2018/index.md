@@ -28,7 +28,7 @@ Euroscipy 2018 takes place from August 28 to September 1 in Trento, Italy.
 | Aug 6                       | **Start** of late ticket fare
 | Aug 22                      | **End** of online registration
 | Aug 28                      | Start of **EuroSciPy** Tutorial
-| Aug 31                      | Start of **EuroSciPy** Main Conference
+| Aug 30                      | Start of **EuroSciPy** Main Conference
 | Sept 1                      | **EuroSciPy** Sprints
 
 
