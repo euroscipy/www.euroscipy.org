@@ -26,7 +26,7 @@ Thanks to FBK we got a prior rate agreement with the following hotels; in order 
  - [Albergo Accademia](http://www.accademiahotel.it/)
  - [Hotel Buonconsiglio](http://www.hotelbuonconsiglio.com/)
  - [Grand Hotel Trento](http://www.grandhoteltrento.com/en)
- - [NH hotel Trento](http://www.nh-hotels.com/hotel/nh-trento)
+ - [Hotel Venezia](http://www.hotelveneziatn.it/)
 
 **3-stars hotels:**
 
