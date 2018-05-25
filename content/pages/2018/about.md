@@ -6,9 +6,23 @@ section: euroscipy_2018
 
 #### Conference chairs
 
-- Valerio Maggio
-- Ernesto Arbitrio
+- Valerio Maggio (Fondazione Bruno Kessler - FBK)
+- Ernesto Arbitrio (Fondazione Bruno Kessler - FBK)
 
+#### Program chair
+
+- Alexander CS Hendorf (Königsweg GmbH, DE)
+
+#### Tutorials chair
+
+- Emmanuelle Gouillart (Joint Unit CNRS/Saint-Gobain, FR)
+
+#### Organizing committee
+
+- Pierre de Buyl (KU Leuven, BE)
+- Mike Müller (Python Academy, DE)
+- Alessia Marcolini (Fondazione Bruno Kessler - FBK)
+- Susanne Greiner
 
 #### Contact
 
