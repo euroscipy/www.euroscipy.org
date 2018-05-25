@@ -14,11 +14,6 @@ industry.
 Euroscipy 2018 takes place from August 28 to September 1 in Trento, Italy.
 
 
-### News
-
-**2018, march 5:** website online
-
-
 ### Important Dates
 
 |                             |                                                                                  |
@@ -89,6 +84,7 @@ enough to seat all beginner track attendees.
 | Early Bird (till July, 1st) | € 50,00  | € 70,00             | € 125,00 |
 | Regular (till Aug, 5th      | € 100,00 | € 110,00            | € 250,00 |
 | Late (till Aug, 22nd)       | € 135,00 | € 135,00            | € 300,00 |
+
 
 &#42; **A proof of student status will be required at time of the registration. After the registration send your student qualifying proof at students@euroscupy.org**
 

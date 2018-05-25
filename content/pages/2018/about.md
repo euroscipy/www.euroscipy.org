@@ -24,6 +24,7 @@ section: euroscipy_2018
 - Alessia Marcolini (Fondazione Bruno Kessler - FBK)
 - Susanne Greiner
 
+
 #### Contact
 
 - info at the domain euroscipy.org
