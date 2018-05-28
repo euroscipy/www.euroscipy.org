@@ -85,7 +85,8 @@ enough to seat all beginner track attendees.
 | Regular (till Aug, 5th      | € 100,00 | € 110,00            | € 250,00 |
 | Late (till Aug, 22nd)       | € 135,00 | € 135,00            | € 300,00 |
 
-&#42; **A proof of student status will be required at time of the registration**
+
+&#42; **A proof of student status will be required at time of the registration. After the registration send your student qualifying proof at students@euroscupy.org**
 
 <a name="registration"></a>
 ### Registration

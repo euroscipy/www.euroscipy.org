@@ -2,7 +2,7 @@ Title: Code of Conduct
 URL: 2018/code_of_conduct.html
 save_as: 2018/code_of_conduct.html
 section: euroscipy_2018
-slug: coc2018
+
 
 The EuroSciPy conference benefits from a diverse community, which has grown
 as a friendly, welcoming and dynamic group.

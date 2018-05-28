@@ -6,8 +6,8 @@ section: euroscipy_2018
 
 #### Conference chairs
 
-- Valerio Maggio
-- Ernesto Arbitrio
+- Valerio Maggio (Fondazione Bruno Kessler - FBK)
+- Ernesto Arbitrio (Fondazione Bruno Kessler - FBK)
 
 #### Program chair
 
@@ -21,8 +21,9 @@ section: euroscipy_2018
 
 - Pierre de Buyl (KU Leuven, BE)
 - Mike Müller (Python Academy, DE)
-- Alessia Marcolini
-- Susan Greiner
+- Alessia Marcolini (Fondazione Bruno Kessler - FBK)
+- Susanne Greiner
+
 
 #### Contact
 
