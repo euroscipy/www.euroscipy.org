@@ -14,13 +14,13 @@ comply with regulations requirements.
 
 Personal data will be handled, either manually or electronically, for the following purposes:
 
-o registration participation to the conference;
-o processing and compliance with pre-contractual requirements;
-o processing and compliance with contract related requirements;
-o supply of contract related main and/or optional services;
-o processing and compliance with provisions under Acts, regulations and EU requirements;
-o processing, operational and reliability&solvency needs, processing of questions of law;
-o mailing of institutional promotional material.
+- registration participation to the conference;
+- processing and compliance with pre-contractual requirements;
+- processing and compliance with contract related requirements;
+- supply of contract related main and/or optional services;
+- processing and compliance with provisions under Acts, regulations and EU requirements;
+- processing, operational and reliability&solvency needs, processing of questions of law;
+- mailing of institutional promotional material.
 
 The collection of some personal data is also mandatory in order to be compliant with regulatory and tax requirements and refusal to provide such information will make it impossible for you to establish relationships with FBK.
 
