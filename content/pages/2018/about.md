@@ -22,6 +22,8 @@ section: euroscipy_2018
 - Pierre de Buyl (KU Leuven, BE)
 - Mike Müller (Python Academy, DE)
 - Alessia Marcolini (Fondazione Bruno Kessler - FBK)
+- Annalisa Armani (Fondazione Bruno Kessler - FBK)
+- Francesca Hueller (Fondazione Bruno Kessler - FBK)
 - Susanne Greiner
 
 #### Contact
