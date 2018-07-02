@@ -26,6 +26,7 @@ section: euroscipy_2018
 - Francesca Hueller (Fondazione Bruno Kessler - FBK)
 - Susanne Greiner
 
+
 #### Contact
 
 - info at the domain euroscipy.org

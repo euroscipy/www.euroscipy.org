@@ -33,6 +33,7 @@ SUBMENU['euroscipy_2018'] = [('Euroscipy 2018', '2018/'),
                              ('Venue', '2018/venue.html'),
                              ('Sponsors', '2018/sponsors.html'),
                              ('Code of Conduct', '2018/code_of_conduct.html'),
+                             ('Program', '2018/program.html'),
 ]
 
 NEWEST_FIRST_ARCHIVES = False
