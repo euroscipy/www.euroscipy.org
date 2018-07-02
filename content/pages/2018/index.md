@@ -14,6 +14,14 @@ industry.
 Euroscipy 2018 takes place from August 28 to September 1 in Trento, Italy.
 
 
+### News
+
+
+**2018, july 2:** early bird fare extended till July the 7th
+
+**2018, march 5:** website online
+
+
 ### Important Dates
 
 |                             |                                                                                  |
@@ -22,7 +30,7 @@ Euroscipy 2018 takes place from August 28 to September 1 in Trento, Italy.
 | May 13                      | *extended* to the 31 Submission deadline for talks and tutorial
 | May 17                      | **<a href="#registration">Registrations open</a>**
 | May 31                      | Submission deadline for talks and tutorials
-| July 1                      | **End** of early bird ticket fare
+| <del>July 1</del> July 7    | **End** of early bird ticket fare
 | July 2                      | **Start** of regular ticket fare
 | Aug 5                       | **End** of regulard ticket fare
 | Aug 6                       | **Start** of late ticket fare
@@ -62,8 +70,8 @@ Presentations of scientific tools and libraries using the Python language, inclu
 
 | Tutorials                   | Student*  | Academic/Individual | Industry |
 |-----------------------------|----------|---------------------|----------|
-| Early Bird (till July, 1st) | € 50,00  | € 70,00             | € 125,00 |
-| Regular (till Aug, 5th      | € 100,00 | € 110,00            | € 250,00 |
+| Early Bird (till July, 7th) | € 50,00  | € 70,00             | € 125,00 |
+| Regular (till Aug, 5th)     | € 100,00 | € 110,00            | € 250,00 |
 | Late (till Aug, 22nd)       | € 135,00 | € 135,00            | € 300,00 |
 
 <a name="tutorial-space"></a>
@@ -81,12 +89,12 @@ enough to seat all beginner track attendees.
 
 | Main Conference             | Student*  | Academic/Individual | Industry |
 |-----------------------------|----------|---------------------|----------|
-| Early Bird (till July, 1st) | € 50,00  | € 70,00             | € 125,00 |
-| Regular (till Aug, 5th      | € 100,00 | € 110,00            | € 250,00 |
+| Early Bird (till July, 7th) | € 50,00  | € 70,00             | € 125,00 |
+| Regular (till Aug, 5th)     | € 100,00 | € 110,00            | € 250,00 |
 | Late (till Aug, 22nd)       | € 135,00 | € 135,00            | € 300,00 |
 
+**A proof of student status will be required at time of the registration. After the registration send your student qualifying proof at students@euroscipy.org**
 
-&#42; **A proof of student status will be required at time of the registration. After the registration send your student qualifying proof at students@euroscupy.org**
 
 <a name="registration"></a>
 ### Registration
