@@ -14,8 +14,8 @@ breaks.
 
 Time           | Introductory                  | Advanced                 | Applications
 -------------- | ----------------------------- | ------------------------ | -------------------
-      9:00     | Introduction to Jupyter, M. Muller | Advanced Python constructs for scientists and engineers,  Pietro Berkes |	Doing bioinformatics with scikit-bio and BioPython, Joris Vankerschaver
-     11:00     | Introduction to Python, M. Rastgoo & G. Lemaitre | Databases for scientists, A. Hendorf | Geospatial data I
+      9:00     | Introduction to Jupyter, M. Muller | Databases for scientists, A. Hendorf | Doing bioinformatics with scikit-bio and BioPython, Joris Vankerschaver
+     11:00     | Introduction to Python, M. Rastgoo & G. Lemaitre | NoSQL databases, A. Herlihy & N. Leniz | Geospatial data I
      14:00     | Introduction to Python, M. Rastgoo & G. Lemaitre | From exploratory computing to performances, a tour of Python profiling and optimization, A. Ingargiola | Geospatial data II
      16:00     | NumPy I, G. Ingold    | Privacy for Data Scientists, Katharine Jarmul | Topic Modelling, Parul Sethi
 
@@ -27,7 +27,7 @@ Time           | Introductory                  | Advanced                 | Appl
 -------------- | ----------------------------- | ------------------------ | -------------------
       9:00     | NumPy II, G. Ingold           | The Hitchhiker's Guide to Parallelism with Python, D. Valters | Advanced machine learning, Y. Peleg
      11:00     | Matplotlib, Alexandre de Siqueira | Parallel Data Analysis with Dask, Ian Stokes Rees | Understanding and diagnosing your machine-learning models, G. Varoquaux
-     14:00     | Pandas, TBA                   | Data visualization -- from default and suboptimal to efficient and awesome, B. Gorelik | Deep Diving into GANs: From Theory to Production Michele De Simoni, Paolo Galeone
+     14:00     | Pandas, Marc Garcia & S. Greiner | Data visualization -- from default and suboptimal to efficient and awesome, B. Gorelik | Deep Diving into GANs: From Theory to Production Michele De Simoni, Paolo Galeone
      16:00     | Scipy, TBA                    | CFFI, Ctypes, Cython: the Good, the Bad and the Ugly, M. Picus |Deep Learning in Python using Chainer, C. Loomis
 
 ### Thursday 30 August (DRAFT)
