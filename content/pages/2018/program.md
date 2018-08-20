@@ -111,8 +111,8 @@ Time           | Introductory                  | Advanced                 | Appl
     </tr>
     <tr>
       <td>16:00</td>
-      <td class='has-link'>How PyPy can help for high-performance computing<br><i>Antonio Cuni	</i></td>
-      <td class='has-link'>Deep Residual Learning for Image Segmentation <br><i>Daniil Pakhomov</i></td>
+      <td class='has-link'>How PyPy can help for high-performance computing<br><i>Antonio Cuni</i></td>
+      <td class='has-link'>Using OpenCV + Games to help Parkinsons Patients<br><i>Jayaditya Gupta</i></td>
     </tr>
     <tr>
       <td>16:15</td>
@@ -122,7 +122,7 @@ Time           | Introductory                  | Advanced                 | Appl
     <tr>
       <td>16:30</td>
       <td class='has-link'>Pyccel, a Fortran static compiler for scientific High-Performance Computing<br><i>Ratnani Ahmed</i></td>
-      <td class='has-link'>Using OpenCV + Games to help Parkinsons Patients<br><i>Jayaditya Gupta</i></td>
+      <td class=''>-</td>
     </tr>
     <tr>
       <td>16:45</td>
@@ -200,7 +200,7 @@ Time           | Introductory                  | Advanced                 | Appl
     </tr>
     <tr>
       <td>14:30</td>
-      <td class='has-link'>Scientific Computing Using Cython: Best of Both Worlds!<br><i>Simmi Mourya</i></td>
+      <td class='has-link'>Benchmarking and performance analysis for scientific Python<br><i>Roman Yurchak</i></i></td>
       <td class='has-link'>Pythonizing workflows with with modern and legacy chemistry softwares.<br><i>Olav Vahtras	</i></td>
     </tr>
     <tr>
@@ -222,13 +222,7 @@ Time           | Introductory                  | Advanced                 | Appl
       <td class='has-link'>Machine Learning for microcontrollers with Python and C<br><i>Jon Nordby	</i></td>
       <td class='has-link'>Data Science Security — Protect Against Data Privacy Breaches<br><i>Justin Mayer	</i></td>
     </tr>
-    <tr>
-      <td>16:00</td>
-      <td class='has-link'>Benchmarking and performance analysis for scientific Python<br><i>Roman Yurchak</i></td>
-      <td class='has-link'>PyUnfold: the Iterative Unfolding Package<br><i>Zigfried Hampel-Arias</i></td>
-    </tr>
-    <tr>
-      <td>16:30</td>
+   <td>16:00</td>
       <td colspan=2 align=center>Lightning Talks</td>
     </tr>
     <tr>
