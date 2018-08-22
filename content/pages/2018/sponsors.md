@@ -37,6 +37,37 @@ As from the 2012/13 academic year it has taken over the functions of the Faculty
   </td>
 </tr>
 
+<tr>
+  <td style="width:25%">
+  <img src='../static/2018/wp.png' width=150>
+  </td>
+  <td style="width:75%">
+  We are a software company belonging to the Würth-Group, world market leader in the trade of assembly and fastening materials, offering business management software for ERP, CRM and IT System Management.
+<br><br>
+Our outright and irrevocable aim is to support our customers with a strict orientation towards excellent service performance, with our hands-on industry and consulting experience in wholesale distribution, sales automation and service processes.  </td>
+</tr>
+
+<tr>
+  <td style="width:25%">
+  <img src='../static/2018/ent.png' width=150>
+  </td>
+  <td style="width:75%">
+ <b>About Enthought</b><br>
+
+We are scientists who code. Our people pair in-depth science expertise with unparalleled AI acumen to transform the business of science. Enthought is headquartered in Austin, Texas, with offices in Houston, Texas, Cambridge, United Kingdom, Zürich, Switzerland, and Tokyo, Japan (opening 2019).
+
+ 
+
+<b>Working at Enthought</b><br>
+
+Enthought is a highly collaborative, low-hierarchy workplace. "Enthoughters" are passionate about life, intellectually curious, dedicated to doing quality work, friendly, and fun.
+
+ <br>
+
+<b>Learn More and Apply</b><br>
+
+Please visit <a href='www.enthought.com/careers'>www.enthought.com/careers</a> to learn more about our open positions. Resumes may be submitted to <a href='mailto:jobs@enthought.com'>jobs@enthought.com</a>.</td>
+</tr>
 
 
 </table>
