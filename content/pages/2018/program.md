@@ -76,7 +76,7 @@ Time           | Introductory                  | Advanced                 | Appl
     <tr>
       <td>11:30</td>
       <td class='has-link'>Extending Python 3.7s Data Classes <br><i>Geir Arne Hjelle</i></td>
-      <td class='has-link'>modAL: A module active learning framework for Python <br><i>Tivadar Danka</i>	</td>
+      <td class='has-link'>modAL: A modular active learning framework for Python <br><i>Tivadar Danka</i>	</td>
     </tr>
     <tr>
       <td>11:45</td>
