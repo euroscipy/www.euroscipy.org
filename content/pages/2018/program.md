@@ -14,8 +14,8 @@ breaks.
 
 Time           | Introductory                  | Advanced                 | Applications
 -------------- | ----------------------------- | ------------------------ | -------------------
-      9:00     | Introduction to Jupyter, M. Muller | Databases for scientists, A. Hendorf | Doing bioinformatics with scikit-bio and BioPython, Joris Vankerschaver
-     11:00     | Introduction to Python, M. Rastgoo & G. Lemaitre | NoSQL databases, A. Herlihy & N. Leniz | Geospatial data I
+      9:00     | Introduction to Jupyter, M. Muller | Databases for Scientists & SQL, Alexander CS Hendorf | Doing bioinformatics with scikit-bio and BioPython, Joris Vankerschaver
+     11:00     | Introduction to Python, M. Rastgoo & G. Lemaitre | NoSQL databases, Anna Herlihy & Nathan Leniz | Geospatial data I
      14:00     | Introduction to Python, M. Rastgoo & G. Lemaitre | From exploratory computing to performances, a tour of Python profiling and optimization, A. Ingargiola | Geospatial data II
      16:00     | NumPy I, G. Ingold    | Privacy for Data Scientists, Katharine Jarmul | Topic Modelling, Parul Sethi
 
@@ -112,7 +112,7 @@ Time           | Introductory                  | Advanced                 | Appl
     <tr>
       <td>16:00</td>
       <td class='has-link'>How PyPy can help for high-performance computing<br><i>Antonio Cuni</i></td>
-      <td class='has-link'>Using OpenCV + Games to help Parkinsons Patients<br><i>Jayaditya Gupta</i></td>
+      <td class=''>-</td>
     </tr>
     <tr>
       <td>16:15</td>
@@ -167,11 +167,11 @@ Time           | Introductory                  | Advanced                 | Appl
     <tr>
       <td>10:30</td>
       <td class='has-link'>CatBoost - the new generation of Gradient Boosting<br><i>Anna Veronika Dorogush</i></td>
-      <td class='has-link'>Useful Decorators for Data Science<br><i>Uri Goren</i></td>
+      <td class=''>-</td>
     </tr>
     <tr>
       <td>11:00</td>
-      <td class='has-link'>From Zero to JupyterHub with Kubernetes<br><i>Camilla Montonen</i></td>
+      <td class=''>-</td>
       <td class='has-link'>Big geospatial data visualization and analysis in Jupyter<br><i>Davide De Marchi</i></td>
     </tr>
     <tr>
@@ -182,7 +182,7 @@ Time           | Introductory                  | Advanced                 | Appl
     <tr>
       <td>11:30</td>
       <td class='has-link'>Teaching programming with Jupyterhub and Nbgrader<br><i>Gert-Ludwig Ingold</i></td>
-      <td class='has-link'>Remapping or Regridding between Spherical Grids for Earth Modeling<br><i>Ki-Hwan Kim	</i></td>
+      <td class='has-link'>Remapping or Regridding between Spherical Grids for Earth Modeling<br><i>Ki-Hwan Kim</i></td>
     </tr>
     <tr>
       <td>11:45</td>
@@ -201,7 +201,7 @@ Time           | Introductory                  | Advanced                 | Appl
     <tr>
       <td>14:30</td>
       <td class='has-link'>Benchmarking and performance analysis for scientific Python<br><i>Roman Yurchak</i></i></td>
-      <td class='has-link'>Pythonizing workflows with with modern and legacy chemistry softwares.<br><i>Olav Vahtras	</i></td>
+      <td class='has-link'>Pythonizing workflows with with modern and legacy chemistry softwares.<br><i>Olav Vahtras</i></td>
     </tr>
     <tr>
       <td>14:45</td>
@@ -211,7 +211,7 @@ Time           | Introductory                  | Advanced                 | Appl
     <tr>
       <td>15:00</td>
       <td class='has-link'>RepSeP - Reproducible Self-Publishing for Python-Based Research.<br><i>Christian Horea</i></td>
-      <td class='has-link'>Explaining model predictions using Shapley values<br><i>Ankur Ankan	</i></td>
+      <td class='has-link'>Explaining model predictions using Shapley values<br><i>Ankur Ankan</i></td>
     </tr>
     <tr>
       <td>15:15</td>
