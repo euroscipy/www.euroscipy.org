@@ -91,7 +91,7 @@ enough to seat all beginner track attendees.
 |-----------------------------|----------|---------------------|----------|
 | Early Bird (till July, 7th) | € 50,00  | € 70,00             | € 125,00 |
 | Regular (till Aug, 5th)     | € 100,00 | € 110,00            | € 250,00 |
-| Late (till Aug, 22nd)       | € 135,00 | € 135,00            | € 300,00 |
+| Late      | € 135,00 | € 135,00            | € 300,00 |
 
 **A proof of student status will be required at time of the registration. After the registration send your student qualifying proof at students@euroscipy.org**
 
