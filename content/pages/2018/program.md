@@ -18,7 +18,7 @@ breaks.
 
 Time           | Introductory                  | Advanced                 | Applications
 -------------- | ----------------------------- | ------------------------ | -------------------
-      9:00     | Introduction to Jupyter, M. Muller | Databases for scientists, A. Hendorf | Doing bioinformatics with scikit-bio and BioPython, Joris Vankerschaver
+      9:00     | Introduction to Jupyter, M. Muller | Databases for Scientists / SQL Into, Alexander CS Hendorf | Doing bioinformatics with scikit-bio and BioPython, Joris Vankerschaver
       10:30    | Coffee Break | Coffee Break | Coffee Break
      11:00     | Introduction to Python, M. Rastgoo & G. Lemaitre | NoSQL databases, A. Herlihy & N. Leniz | Geospatial data I
      12:30     | Lunch | Lunch | Lunch
@@ -86,7 +86,7 @@ Time           | Introductory                  | Advanced                 | Appl
     <tr>
       <td>12:00</td>
       <td class='has-link'>ModelXplore, a python based model exploration <br><i>Nicolas Cellier</i></td>
-      <td class='has-link'>Efficient Biomedical Named Entity Recognition in Python<br><i>Fabio Rinaldi</i></td>
+      <td class='has-link'>Efficient Biomedical Named Entity Recognition in Python<br><i>Tilia Ellendorff</i></td>
     </tr>
     <tr>
       <td>12.30</td>
