@@ -18,7 +18,7 @@ breaks.
 
 Time           | Introductory                  | Advanced                 | Applications
 -------------- | ----------------------------- | ------------------------ | -------------------
-      9:00     | Introduction to Jupyter, M. Muller | Databases for Scientists / SQL Into, Alexander CS Hendorf | Doing bioinformatics with scikit-bio and BioPython, Joris Vankerschaver
+      9:00     | Introduction to Jupyter, M. Muller | Databases for Scientists / SQL Intro, Alexander CS Hendorf | Doing bioinformatics with scikit-bio and BioPython, Joris Vankerschaver
       10:30    | Coffee Break | Coffee Break | Coffee Break
      11:00     | Introduction to Python, M. Rastgoo & G. Lemaitre | Blending MongoDB's Aggregation Framework with Numpy and Pandas, A. Herlihy & N. Leniz | Handling Geospatial Data using Python, Part I: Base Modules, M. Christen
      12:30     | Lunch | Lunch | Lunch
