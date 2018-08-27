@@ -36,7 +36,11 @@ Being the result of a history that is more than half a century old, through 2 sc
 As from the 2012/13 academic year it has taken over the functions of the Faculty of Medicine following the reorganisation of the university system brought into force by Law no. 240/2010.
   </td>
 </tr>
+</table>
 
+### Platinum sponsors
+
+<table style="table-layout:fixed">
 <tr>
   <td style="width:25%">
   <img src='../static/2018/wp.png' width=150>
@@ -47,6 +51,20 @@ As from the 2012/13 academic year it has taken over the functions of the Faculty
 Our outright and irrevocable aim is to support our customers with a strict orientation towards excellent service performance, with our hands-on industry and consulting experience in wholesale distribution, sales automation and service processes.  </td>
 </tr>
 
+<tr>
+  <td style="width:25%">
+  <img src='../static/2018/bcg.jpg' width=150>
+  </td>
+  <td style="width:75%">
+  Since its founding, BCG (Boston Consulting Group) has grown at an extraordinary rate without diminishing the unique qualities that make people want to work for—and with—the firm. It’s an exceptional feat, and it’s due in no small part to our values.<br><br>
+  Our mission is clear. We go deep to unlock insight and have the courage to act. We bring the right people together to challenge established thinking and drive transformation. We work with our clients to build the capabilities that enable organizations to achieve sustainable advantage. We are shaping the future. Together.</td>
+</tr>
+
+</table>
+
+### Silver sponsors
+
+<table style="table-layout:fixed">
 <tr>
   <td style="width:25%">
   <img src='../static/2018/ent.png' width=150>
