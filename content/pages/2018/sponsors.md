@@ -48,7 +48,10 @@ As from the 2012/13 academic year it has taken over the functions of the Faculty
   <td style="width:75%">
   We are a software company belonging to the Würth-Group, world market leader in the trade of assembly and fastening materials, offering business management software for ERP, CRM and IT System Management.
 <br><br>
-Our outright and irrevocable aim is to support our customers with a strict orientation towards excellent service performance, with our hands-on industry and consulting experience in wholesale distribution, sales automation and service processes.  </td>
+Our outright and irrevocable aim is to support our customers with a strict orientation towards excellent service performance, with our hands-on industry and consulting experience in wholesale distribution, sales automation and service processes. <br>
+<b>Get in touch with us and BE OUR NEXT INSPIRATION MAKER</b>
+<br>Check out our vacancies <a href="www.wuerth-phoenix.com/jobs">www.wuerth-phoenix.com/jobs</a>
+ </td>
 </tr>
 
 <tr>
