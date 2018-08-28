@@ -125,16 +125,16 @@ Time           | Introductory                  | Advanced                 | Appl
       <td class='has-link'>Phase-space analysis of chaotic deterministic dynamics with Python: the case of biological systems with many degrees of freedom<br><i>Paola Lecca</i></td>
     </tr>
     <tr>
-      <td>16:15</td>
+      <td>16:30</td>
       <td class='has-link'>Pyccel, a Fortran static compiler for scientific High-Performance Computing<br><i>Ratnani Ahmed</i></td>
       <td class='has-link'>Fission track counting in mineral samples using pytracks<br><i>Alexandre de Siqueira</i></td>
     </tr>
     <tr>
-      <td>16:30</td>
+      <td>16:45</td>
       <td colspan=2 align=center>Poster Introduction</td>
     </tr>
     <tr>
-      <td>16:45</td>
+      <td>17:00</td>
       <td colspan=2 align=center>Poster Session</td>
     </tr>
     <tr>
