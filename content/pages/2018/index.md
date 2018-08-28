@@ -3,6 +3,11 @@ URL: 2018/
 save_as: 2018/index.html
 section: euroscipy_2018
 
+## Streaming channels
+**Tutorial Session 1**: [https://www.youtube.com/watch?v=naW4ptoaDR8](https://www.youtube.com/watch?v=naW4ptoaDR8)
+
+**Tutorial Session 2**: [https://youtu.be/OljMZ5ipI-k](https://youtu.be/OljMZ5ipI-k)
+
 
 ### 11th European Conference on Python in Science
 
