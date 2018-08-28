@@ -18,11 +18,11 @@ breaks.
 
 Time           | Introductory                  | Advanced                 | Applications
 -------------- | ----------------------------- | ------------------------ | -------------------
-      9:00     | Introduction to Jupyter, M. Muller | Databases for scientists, A. Hendorf | Doing bioinformatics with scikit-bio and BioPython, Joris Vankerschaver
+      9:00     | Introduction to Jupyter, M. Muller | Databases for Scientists / SQL Intro, Alexander CS Hendorf | Doing bioinformatics with scikit-bio and BioPython, Joris Vankerschaver
       10:30    | Coffee Break | Coffee Break | Coffee Break
-     11:00     | Introduction to Python, M. Rastgoo & G. Lemaitre | NoSQL databases, A. Herlihy & N. Leniz | Geospatial data I
+     11:00     | Introduction to Python, M. Rastgoo & G. Lemaitre | Blending MongoDB's Aggregation Framework with Numpy and Pandas, A. Herlihy & N. Leniz | Handling Geospatial Data using Python, Part I: Base Modules, M. Christen
      12:30     | Lunch | Lunch | Lunch
-     14:00     | Introduction to Python, M. Rastgoo & G. Lemaitre | From exploratory computing to performances, a tour of Python profiling and optimization, A. Ingargiola | Geospatial data II
+     14:00     | Introduction to Python, M. Rastgoo & G. Lemaitre | From exploratory computing to performances, a tour of Python profiling and optimization, A. Ingargiola | Handling Geospatial Data using Python, Part II: Geopandas, Joris Van den Bosche
      15:30     | Coffee Break | Coffee Break | Coffee Break
      16:00     | NumPy I, G. Ingold    | Privacy for Data Scientists, Katharine Jarmul | -
 
@@ -38,7 +38,7 @@ Time           | Introductory                  | Advanced                 | Appl
      12:30     | Lunch | Lunch | Lunch
      14:00     | Pandas, Marc Garcia & S. Greiner | Data visualization -- from default and suboptimal to efficient and awesome, B. Gorelik | Deep Diving into GANs: From Theory to Production Michele De Simoni, Paolo Galeone
      15:30     | Coffee Break | Coffee Break | Coffee Break
-     16:00     | Scipy, TBA                    | CFFI, Ctypes, Cython: the Good, the Bad and the Ugly, M. Picus |Deep Learning in Python using Chainer, C. Loomis
+     16:00     | Scipy, M. Mueller and E. Gouillart                    | CFFI, Ctypes, Cython: the Good, the Bad and the Ugly, M. Picus |Deep Learning in Python using Chainer, C. Loomis
 
 ### Thursday 30 August
 <table border="1" class="dataframe">
@@ -89,7 +89,7 @@ Time           | Introductory                  | Advanced                 | Appl
     <tr>
       <td>12:00</td>
       <td class='has-link'>ModelXplore, a python based model exploration <br><i>Nicolas Cellier</i></td>
-      <td class='has-link'>Efficient Biomedical Named Entity Recognition in Python<br><i>Fabio Rinaldi</i></td>
+      <td class='has-link'>Efficient Biomedical Named Entity Recognition in Python<br><i>Tilia Ellendorff</i></td>
     </tr>
     <tr>
       <td>12.30</td>
