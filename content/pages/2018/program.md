@@ -33,8 +33,11 @@ Time           | Introductory                  | Advanced                 | Appl
 Time           | Introductory                  | Advanced                 | Applications
 -------------- | ----------------------------- | ------------------------ | -------------------
       9:00     | NumPy II, G. Ingold           | The Hitchhiker's Guide to Parallelism with Python, D. Valters | Advanced machine learning, Y. Peleg
+     10:30    | Coffee Break | Coffee Break | Coffee Break
      11:00     | Matplotlib, Alexandre de Siqueira | Parallel Data Analysis with Dask, Ian Stokes Rees | Understanding and diagnosing your machine-learning models, G. Varoquaux
+     12:30     | Lunch | Lunch | Lunch
      14:00     | Pandas, Marc Garcia & S. Greiner | Data visualization -- from default and suboptimal to efficient and awesome, B. Gorelik | Deep Diving into GANs: From Theory to Production Michele De Simoni, Paolo Galeone
+     15:30     | Coffee Break | Coffee Break | Coffee Break
      16:00     | Scipy, M. Mueller and E. Gouillart                    | CFFI, Ctypes, Cython: the Good, the Bad and the Ugly, M. Picus |Deep Learning in Python using Chainer, C. Loomis
 
 ### Thursday 30 August
