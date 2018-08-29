@@ -91,6 +91,11 @@ Time           | Introductory                  | Advanced                 | Appl
       <td class='has-link'>ModelXplore, a python based model exploration <br><i>Nicolas Cellier</i></td>
       <td class='has-link'>Efficient Biomedical Named Entity Recognition in Python<br><i>Tilia Ellendorff</i></td>
     </tr>
+   <tr>
+      <td>12:15</td>
+      <td class='has-link'>tba<br><i>Gael Varoquaux</i></td>
+      <td class='has-link'>Going full Python for Machine Learning in Biomedical engineering<br><i>Jérémy Laforêt</i></td>
+    </tr>
     <tr>
       <td>12.30</td>
       <td colspan=2 align=center>Lunch</td>
