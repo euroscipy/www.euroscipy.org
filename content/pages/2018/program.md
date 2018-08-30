@@ -93,7 +93,7 @@ Time           | Introductory                  | Advanced                 | Appl
     </tr>
    <tr>
       <td>12:15</td>
-      <td class='has-link'>tba<br><i>Gael Varoquaux</i></td>
+      <td class='has-link'>Simpler data science: dirty categories and scikit-learn updates<br><i>Gael Varoquaux</i></td>
       <td class='has-link'>Going full Python for Machine Learning in Biomedical engineering<br><i>Jérémy Laforêt</i></td>
     </tr>
     <tr>
