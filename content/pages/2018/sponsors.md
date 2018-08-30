@@ -93,3 +93,21 @@ Please visit <a href='www.enthought.com/careers'>www.enthought.com/careers</a> t
 
 </table>
  
+### Prize Sponsors
+
+<table style="table-layout:fixed">
+<tr>
+  <td style="width:25%">
+  <img src='../static/2018/Manninglogo_outline.png' width=150>
+  </td>
+  <td style="width:75%">
+ <b>Manning pubblications</b><br>
+ For EuroScipy 2018 Manning Pubblications will offer 5 free coupons of our live
+video course Data Science at Scale with Python and Dask by Jesse C. Daniel, as well as a 40% discount code, good for
+all of our products in all formats, to all conference attendees.
+
+</td>
+</tr>
+
+
+</table>
