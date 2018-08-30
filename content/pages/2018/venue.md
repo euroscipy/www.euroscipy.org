@@ -3,7 +3,7 @@ URL: 2018/venue.html
 save_as: 2018/venue.html
 section: euroscipy_2018
 
-EuroSciPy 2018 will take place in Trento, Italy, 28 august - 1 september.
+EuroSciPy 2018 takes place in Trento, Italy from Tuesday, 28 August until Friday, 1 September.
 
 ### Locations of interest
 

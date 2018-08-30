@@ -3,11 +3,9 @@ URL: 2018/sponsors.html
 save_as: 2018/sponsors.html
 section: euroscipy_2018
 
-### Sponsors
 Are you interested in becoming a sponsor of the EuroSciPy2018? 
 Please get in touch and contact us via <a href=mailto:sponsoring@euroscipy.org>sponsoring@euroscipy.org</a>.
 
-#### Brochure
 For detailed info, download our sponsorship brochure here <a href='../static/2018/euroscipy2018_sponsor.pdf'><img src='../static/2018/PDF-Download-Icon.png'></a>
 
 ### Institutional Sponsors

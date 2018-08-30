@@ -4,17 +4,13 @@ save_as: 2018/program.html
 slug: 2018_program
 section: euroscipy_2018
 
-Tutorials last either 90 minutes or 180 minutes. In the latter case, they are split in two
-sessions.
-
+Tutorials last either 90 minutes or 180 minutes. In the latter case, they are split in two sessions.
 The exact hours are subject to change to account for the logistics of coffee and lunch
 breaks.
-
-### Tutorial istructions
-[https://github.com/euroscipy/www.euroscipy.org/wiki/Euroscipy-2018-tutorial-requirements](https://github.com/euroscipy/www.euroscipy.org/wiki/Euroscipy-2018-tutorial-requirements)
+Tutorial istructions can be found under [https://github.com/euroscipy/www.euroscipy.org/wiki/Euroscipy-2018-tutorial-requirements](https://github.com/euroscipy/www.euroscipy.org/wiki/Euroscipy-2018-tutorial-requirements)
 
 
-### Tuesday 28 august
+### Tuesday, 28 August
 
 Time           | Introductory                  | Advanced                 | Applications
 -------------- | ----------------------------- | ------------------------ | -------------------
@@ -27,7 +23,7 @@ Time           | Introductory                  | Advanced                 | Appl
      16:00     | NumPy I, G. Ingold    | Privacy for Data Scientists, Katharine Jarmul | -
 
 
-### Wednesday 29 august
+### Wednesday, 29 August
 
 
 Time           | Introductory                  | Advanced                 | Applications
@@ -40,7 +36,9 @@ Time           | Introductory                  | Advanced                 | Appl
      15:30     | Coffee Break | Coffee Break | Coffee Break
      16:00     | Scipy, M. Mueller and E. Gouillart                    | CFFI, Ctypes, Cython: the Good, the Bad and the Ugly, M. Picus |Deep Learning in Python using Chainer, C. Loomis
 
-### Thursday 30 August
+
+### Thursday, 30 August
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: center;">
@@ -148,10 +146,9 @@ Time           | Introductory                  | Advanced                 | Appl
     </tr>
     </tbody>
   </table>
+  
 
-### Friday 31 August
-
-
+### Friday, 31 August
 
   <table border="1" class="dataframe">
     <thead>

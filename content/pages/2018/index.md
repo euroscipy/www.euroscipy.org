@@ -3,11 +3,6 @@ URL: 2018/
 save_as: 2018/index.html
 section: euroscipy_2018
 
-## Streaming channels
-
-See our [YouTube channel](https://www.youtube.com/channel/UCruMegFU9dg2doEGOUaAWTg)
-for all live-streamed sessions.
-
 
 ### 11th European Conference on Python in Science
 
@@ -16,15 +11,16 @@ of the Python language in scientific research. This event strives to bring toget
 users and developers of scientific tools, as well as academic research and state of the art
 industry.
 
-Euroscipy 2018 takes place from August 28 to September 1 in Trento, Italy.
+Euroscipy 2018 takes place from Tuesday, 28 August to Friday, 1 September in Trento, Italy.
 
 
 ### News
 
+**2018, August 28:** See our [YouTube channel](https://www.youtube.com/channel/UCruMegFU9dg2doEGOUaAWTg) for all live-streamed sessions.
 
-**2018, july 2:** early bird fare extended till July the 7th
+**2018, July 2:** early bird fare extended till July the 7th
 
-**2018, march 5:** website online
+**2018, March 5:** website online
 
 
 ### Important Dates
