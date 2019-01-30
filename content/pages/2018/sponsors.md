@@ -90,6 +90,41 @@ Please visit <a href='www.enthought.com/careers'>www.enthought.com/careers</a> t
 
 
 </table>
+
+### Grant sponsors
+
+<table style="table-layout:fixed">
+<tr>
+  <td style="width:25%">
+  <img src='../static/2018/europython-society.png' width=150>
+  </td>
+  <td style="width:75%">
+ <b>EuroPython Society</b><br>
+ The <a href="http://www.europython-society.org/">EuroPython Society (EPS)</a> is a Swedish non-profit 
+ organization which organizes <a href="http://www.europython.eu/" target="_blank">EuroPython</a> conferences, 
+ supports the Python community in Europe and holds&nbsp;the rights to the <a href="/europython">EuroPython 
+ conference series</a> and <a href="http://www.europython-society.org/trademarks">trademarks</a>.
+</tr>
+
+<tr>
+  <td style="width:25%">
+  <img src='../static/2018/python-software-foundation.png' width=150>
+  </td>
+  <td style="width:75%">
+ <b>The Python Software Foundation</b><br>
+ The 
+ <a href="https://www.python.org/psf/" title="Python Software Foundation">Python Software Foundation</a> 
+ (PSF) is a 501(c)(3) non-profit corporation that
+ holds the intellectual property rights behind the Python programming language.
+ 
+ The mission of the Python Software Foundation is to promote, protect, and advance the Python programming language, 
+ and to support and facilitate the growth of a <a class="reference external" href="diversity/">diverse</a>
+ and international community of Python programmers.
+ 
+</tr>
+
+
+</table>
  
 ### Prize Sponsors
 
