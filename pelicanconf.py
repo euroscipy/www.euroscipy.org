@@ -36,6 +36,9 @@ SUBMENU['euroscipy_2018'] = [('Euroscipy 2018', '2018/'),
                              ('Program', '2018/program.html'),
 ]
 
+SUBMENU['euroscipy_2019'] = [('Euroscipy 2019', '2019/'),
+]
+
 NEWEST_FIRST_ARCHIVES = False
 
 DIRECT_TEMPLATES = ('index', )
