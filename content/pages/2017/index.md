@@ -65,7 +65,7 @@ Presentations of scientific tools and libraries using the Python language, inclu
 
 ### Fees
 
-|               |                       |
+|               |                       |            |
 |---------------|-----------------------|-------------
 | Tutorials     | Academic / Individual | Industry
 | Early Bird    | 50 Euro               | 125 Euro
@@ -84,7 +84,7 @@ tutorials, if they which.
 Based on past years numbers, the room for the beginners tutorials is also large
 enough to seat all beginner track attendees.
 
-|                  |                       |
+|                  |                       |            |
 |------------------|-----------------------|-------------
 | Main Conference  | Academic / Individual | Industry
 | Early Bird       | 50 Euro               | 125 Euro
