@@ -11,5 +11,5 @@ of the Python language in scientific research. This event strives to bring toget
 users and developers of scientific tools, as well as academic research and state of the art
 industry.
 
-Euroscipy 2019 takes place from end August in Bilbao, Spain.
+Euroscipy 2019 takes place **2-6 September 2019** in **Bilbao**, Spain.
 

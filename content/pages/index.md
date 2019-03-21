@@ -3,8 +3,8 @@ URL: index.html
 save_as: index.html
 
 Welcome to the website of EuroSciPy!
-The next edition of EuroSciPy is [EuroSciPy 2018](https://www.euroscipy.org/2018/).
-It will take place in Trento (Italy) from the 28 of August to the 1st of September 2018.
+The next edition of EuroSciPy is [EuroSciPy 2019](https://www.euroscipy.org/2019/).
+It will take place in Bilbao (Spain) from the 2 to the 6 of September 2019.
 
 News come on twitter: [@EuroSciPy](https://twitter.com/EuroSciPy).
 
