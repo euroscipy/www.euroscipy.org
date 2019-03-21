@@ -11,7 +11,7 @@ PUBLISHCONF=$(BASEDIR)/publishconf.py
 SSH_HOST=
 SSH_PORT=22
 SSH_USER=
-SSH_TARGET_DIR=
+SSH_TARGET_DIR=/web/static/
 
 DEBUG ?= 0
 ifeq ($(DEBUG), 1)
@@ -66,7 +66,7 @@ publish:
 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(PUBLISHCONF) $(PELICANOPTS)
 
 rsync: publish
-	rsync -e "ssh -p $(SSH_PORT)" -P -rvz --delete --exclude="2013" --exclude="2014" --exclude="2015" --exclude="2016" --exclude="2016_static_20160429" $(OUTPUTDIR)/ $(SSH_USER)@$(SSH_HOST):$(SSH_TARGET_DIR)
+	rsync -e "ssh -p $(SSH_PORT)" -P -auvz --delete --exclude="2013" --exclude="2014" --exclude="2015" --exclude="2016" --exclude="2016_static_20160429" $(OUTPUTDIR)/ $(SSH_USER)@$(SSH_HOST):$(SSH_TARGET_DIR)
 
 
 .PHONY: html help clean regenerate serve devserver publish rsync
