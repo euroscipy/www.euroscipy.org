@@ -6,9 +6,9 @@ section: euroscipy_2019
 
 #### Conference chairs
 
-- Darya Chyzhyk (ACPySS) 
+- Darya Chyzhyk, PhD (ACPySS) 
 - Oier Etxaniz (ACPySS)
-- Alexandre Manhaes Savio (ACPySS)
+- Alexandre Manhães Savio, PhD (ACPySS)
 
 #### Program chair
 
@@ -16,14 +16,16 @@ section: euroscipy_2019
 
 #### Tutorials chair
 
-- Emmanuelle Gouillart (Joint Unit CNRS/Saint-Gobain, FR)
+- Giovanni De Gasperis, Ph.D (Computer Science and Mathematics University of L'Aquila)
 
 #### Organizing committee
 
 - Pierre de Buyl (KU Leuven, BE)
 - Mike Müller (Python Academy, DE)
 - Alessia Marcolini (Fondazione Bruno Kessler - FBK)
-- Susanne Greiner
+- Susanne Greiner, PhD
+- Oswald Yinyeh (Nordcloud Deutschland GmbH, DE)
+- Marc Garcia
 
 #### Contact
 
