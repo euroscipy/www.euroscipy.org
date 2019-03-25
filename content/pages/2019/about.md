@@ -16,13 +16,14 @@ section: euroscipy_2019
 
 #### Tutorials chair
 
-- Giovanni De Gasperis, Ph.D (Computer Science and Mathematics University of L'Aquila)
+- Giovanni De Gasperis, Ph.D (University of L'Aquila, IT)
 
 #### Organizing committee
 
 - Pierre de Buyl (KU Leuven, BE)
 - Mike Müller (Python Academy, DE)
-- Alessia Marcolini (Fondazione Bruno Kessler - FBK)
+- Alessia Marcolini (Fondazione Bruno Kessler, IT)
+- Valerio Maggio (Fondazione Bruno Kessler, IT)
 - Susanne Greiner, PhD
 - Oswald Yinyeh (Nordcloud Deutschland GmbH, DE)
 - Marc Garcia
