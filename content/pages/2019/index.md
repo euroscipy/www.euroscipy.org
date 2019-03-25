@@ -13,3 +13,51 @@ industry.
 
 Euroscipy 2019 takes place **2-6 September 2019** in **Bilbao**, Spain.
 
+
+### News
+
+
+**2019, March 25:** website online
+
+
+### Important Dates
+
+|                             |                                                 |
+|-----------------------------|-----------------------------------------------------------------------------------
+| Sept 2                      | Start of **EuroSciPy** Tutorial
+| Sept 4                      | Start of **EuroSciPy** Main Conference
+| Sept 6                      | **EuroSciPy** Sprints
+
+
+### Topics
+
+
+Presentations of scientific tools and libraries using the Python language, including but not limited to:
+
+ - Algorithms implemented or exposed in Python
+ - Astronomy
+ - Data Visualisation
+ - Deep Learning & AI
+ - Earth, Ocean and Geo Science
+ - General-purpose Python tools that can be of special interest to the scientific community.
+ - Image Processing
+ - Materials Science
+ - Parallel computing
+ - Political and Social Sciences
+ - Project Jupyter
+ - Reports on the use of Python in scientific achievements or ongoing projects.
+ - Robotics & IoT
+ - Scientific data flow and persistence
+ - Scientific visualization
+ - Simulation
+ - Statistics
+ - Vector and array manipulation
+ - Web applications and portals for science and engineering
+ - 3D Printing
+
+
+### Questions<a name="questions"></a>
+
+If you have a question about the conference, please ask in the public Telegram group EuroSciPy
+or please send an email to *info* at the domain *euroscipy.org*.
+(Hint: Put the *@* in between both parts of this address.)
