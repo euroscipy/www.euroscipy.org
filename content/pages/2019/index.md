@@ -17,16 +17,20 @@ Euroscipy 2019 takes place **2-6 September 2019** in **Bilbao**, Spain.
 ### News
 
 
+**2019, March 26:** CfP is open!
+
 **2019, March 25:** website online
 
 
 ### Important Dates
 
-|                             |                                                 |
-|-----------------------------|-----------------------------------------------------------------------------------
-| Sept 2                      | Start of **EuroSciPy** Tutorial
-| Sept 4                      | Start of **EuroSciPy** Main Conference
-| Sept 6                      | **EuroSciPy** Sprints
+|        |                                                                            |
+| ------ | -------------------------------------------------------------------------- |
+| Mar 26 | [Call for talks, posters & tutorials](https://pretalx.com/euroscipy-2019/) |
+| Apr 28 | Submission deadline for talks and tutorials                                |
+| Sept 2 | Start of **EuroSciPy** Tutorial                                            |
+| Sept 4 | Start of **EuroSciPy** Main Conference                                     |
+| Sept 6 | **EuroSciPy** Sprints                                                      |
 
 
 ### Topics
