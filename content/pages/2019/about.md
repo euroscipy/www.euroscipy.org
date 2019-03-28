@@ -7,7 +7,8 @@ section: euroscipy_2019
 #### Conference chairs
 
 - Darya Chyzhyk, PhD (ACPySS) 
-- Oier Etxaniz (ACPySS)
+- Oier Echaniz (ACPySS)
+- Manuel Graña Romay, Prof. (University of the Basque Country, ES. ACPySS)
 - Alexandre Manhães Savio, PhD (ACPySS)
 
 #### Program chair
