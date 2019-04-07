@@ -39,6 +39,7 @@ SUBMENU['euroscipy_2018'] = [('Euroscipy 2018', '2018/'),
 SUBMENU['euroscipy_2019'] = [('Euroscipy 2019', '2019/'),
                              ('About', '2019/about.html'),
                              ('Venue', '2019/venue.html'),
+                             ('Sponsors', '2019/sponsors.html'),
                              ('Code of Conduct', '2019/code_of_conduct.html'),
 ]
 
