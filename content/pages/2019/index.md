@@ -28,6 +28,11 @@ Euroscipy 2019 takes place **2-6 September 2019** in **Bilbao**, Spain.
 | ------ | -------------------------------------------------------------------------- |
 | Mar 26 | [Call for talks, posters & tutorials](https://pretalx.com/euroscipy-2019/) |
 | Apr 28 | Submission deadline for talks and tutorials                                |
+| July 7 | **End** of early bird ticket fare                                          |
+| July 2 | **Start** of regular ticket fare                                           |
+| Aug 5  | **End** of regulard ticket fare                                            |
+| Aug 6  | **Start** of late ticket fare                                              |
+| Aug 22 | **End** of online registration                                             |
 | Sept 2 | Start of **EuroSciPy** Tutorial                                            |
 | Sept 4 | Start of **EuroSciPy** Main Conference                                     |
 | Sept 6 | **EuroSciPy** Sprints                                                      |
@@ -58,6 +63,39 @@ Presentations of scientific tools and libraries using the Python language, inclu
  - Vector and array manipulation
  - Web applications and portals for science and engineering
  - 3D Printing
+
+
+### Fees
+
+
+| Tutorials                   | Student* | Academic/Individual | Industry |
+|-----------------------------|----------|---------------------|----------|
+| Early Bird (till July, 7th) | € 55,00  | € 80,00             | € 135,00 |
+| Regular (till Aug 5th)      | € 100,00 | € 110,00            | € 250,00 |
+| Late (till Aug, 22nd)       | € 135,00 | € 135,00            | € 300,00 |
+
+<a name="tutorial-space"></a>
+You register for one of the two tutorial tracks (introductory or advanced)
+but you can switch between both tracks whenever you want as long as there is
+enough space in the lecture rooms.
+Because experience from the last conferences show that the demand for the
+advanced track is greater than the one for the beginners track, the advanced
+tutorials will be in larger lectures room.
+This room is big enough to hold all attendees.
+Therefore, all tutorial attendees will be able to attend the advanced
+tutorials, if they which.
+Based on past years numbers, the room for the beginners tutorials is also large
+enough to seat all beginner track attendees.
+
+| Main Conference             | Student* | Academic/Individual | Industry |
+|-----------------------------|----------|---------------------|----------|
+| Early Bird (till July, 7th) | € 55,00  | € 80,00             | € 135,00 |
+| Regular (till Aug, 5th)     | € 100,00 | € 110,00            | € 250,00 |
+| Late                        | € 135,00 | € 135,00            | € 300,00 |
+
+The prices include VAT.
+
+**A proof of student status will be required at time of the registration. After the registration send your student qualifying proof at students@euroscipy.org**
 
 
 ### Questions<a name="questions"></a>
