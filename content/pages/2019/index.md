@@ -16,9 +16,8 @@ Euroscipy 2019 takes place **2-6 September 2019** in **Bilbao**, Spain.
 
 ### News
 
-
-**2019, March 26:** CfP is open!
-
+**2019, April 29:** deadline extension!  
+**2019, March 26:** CfP is open!  
 **2019, March 25:** website online
 
 
@@ -27,7 +26,8 @@ Euroscipy 2019 takes place **2-6 September 2019** in **Bilbao**, Spain.
 |        |                                                                            |
 | ------ | -------------------------------------------------------------------------- |
 | Mar 26 | [Call for talks, posters & tutorials](https://pretalx.com/euroscipy-2019/) |
-| Apr 28 | Submission deadline for talks and tutorials                                |
+| Apr 28 | <s>Submission deadline for talks and tutorials</s>                         |
+| May 12 | *deadline extension*                                                       |
 | July 7 | **End** of early bird ticket fare                                          |
 | July 2 | **Start** of regular ticket fare                                           |
 | Aug 5  | **End** of regulard ticket fare                                            |
