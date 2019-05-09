@@ -29,8 +29,8 @@ Euroscipy 2019 takes place **2-6 September 2019** in **Bilbao**, Spain.
 | Apr 28 | <s>Submission deadline for talks and tutorials</s>                         |
 | May 12 | *deadline extension*                                                       |
 | July 7 | **End** of early bird ticket fare                                          |
-| July 2 | **Start** of regular ticket fare                                           |
-| Aug 5  | **End** of regulard ticket fare                                            |
+| July 8 | **Start** of regular ticket fare                                           |
+| Aug 5  | **End** of regular ticket fare                                            |
 | Aug 6  | **Start** of late ticket fare                                              |
 | Aug 22 | **End** of online registration                                             |
 | Sept 2 | Start of **EuroSciPy** Tutorial                                            |
