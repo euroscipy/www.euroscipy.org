@@ -13,6 +13,8 @@ industry.
 
 Euroscipy 2019 takes place **2-6 September 2019** in **Bilbao**, Spain.
 
+<a href="https://ti.to/acpyss/euroscipy-2019">Buy tickets!</a>
+
 
 ### News
 
@@ -21,7 +23,7 @@ Euroscipy 2019 takes place **2-6 September 2019** in **Bilbao**, Spain.
 **2019, March 25:** website online
 **2019, May 5:** CfP is extended until May 12th!
 **2019, May 12:** CfP is over!
-**2019, May 12:** The [Registration](#registration) is open!
+**2019, May 12:** The [Registration](https://ti.to/acpyss/euroscipy-2019) is open!
 
 
 ### Important Dates
@@ -68,7 +70,7 @@ Presentations of scientific tools and libraries using the Python language, inclu
  - 3D Printing
 
 
-### Fees
+### Fees<a name="fees"></a>
 
 
 | Tutorials                   | Student* | Academic/Individual | Industry |
@@ -103,15 +105,7 @@ The prices include VAT.
 
 ### Registration<a name="registration"></a>
 
-<!-- place this in your head tag -->
-<script src='https://js.tito.io/v1' async></script>
-
-<!-- place this where you want the widget to appear -->
-<tito-widget event="acpyss/euroscipy-2019"></tito-widget>
-
-<!-- for basic styles include a link to our stylesheet. -->
-<!-- fancy something more adventurous? Copy it and roll your own! -->
-<link rel="stylesheet" type="text/css" href='https://css.tito.io/v1.1' />
+<a href="https://ti.to/acpyss/euroscipy-2019">Buy tickets!</a>
 
 
 ### Questions<a name="questions"></a>
