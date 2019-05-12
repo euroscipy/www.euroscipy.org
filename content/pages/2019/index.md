@@ -19,6 +19,9 @@ Euroscipy 2019 takes place **2-6 September 2019** in **Bilbao**, Spain.
 **2019, April 29:** deadline extension!  
 **2019, March 26:** CfP is open!  
 **2019, March 25:** website online
+**2019, May 5:** CfP is extended until May 12th!
+**2019, May 12:** CfP is over!
+**2019, May 12:** The [Registration](#registration) is open!
 
 
 ### Important Dates
@@ -30,7 +33,7 @@ Euroscipy 2019 takes place **2-6 September 2019** in **Bilbao**, Spain.
 | May 12 | *deadline extension*                                                       |
 | July 7 | **End** of early bird ticket fare                                          |
 | July 8 | **Start** of regular ticket fare                                           |
-| Aug 5  | **End** of regular ticket fare                                            |
+| Aug 5  | **End** of regular ticket fare                                             |
 | Aug 6  | **Start** of late ticket fare                                              |
 | Aug 22 | **End** of online registration                                             |
 | Sept 2 | Start of **EuroSciPy** Tutorial                                            |
@@ -96,6 +99,19 @@ enough to seat all beginner track attendees.
 The prices include VAT.
 
 **A proof of student status will be required at time of the registration. After the registration send your student qualifying proof at students@euroscipy.org**
+
+
+### Registration<a name="registration"></a>
+
+<!-- place this in your head tag -->
+<script src='https://js.tito.io/v1' async></script>
+
+<!-- place this where you want the widget to appear -->
+<tito-widget event="acpyss/euroscipy-2019"></tito-widget>
+
+<!-- for basic styles include a link to our stylesheet. -->
+<!-- fancy something more adventurous? Copy it and roll your own! -->
+<link rel="stylesheet" type="text/css" href='https://css.tito.io/v1.1' />
 
 
 ### Questions<a name="questions"></a>
