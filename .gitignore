@@ -48,3 +48,4 @@ cache
 # Pipenv
 Pipfile
 Pipfile.lock
+.python-version
