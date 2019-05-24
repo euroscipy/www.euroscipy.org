@@ -23,7 +23,7 @@ For detailed info, download our sponsorship brochure here <a href='../static/201
 Intrepid Control Systems provides measurement and data logging hardware solutions for Python developers. Our tools capture
 industrial and laboratory type measurements such as temperature, pressure, voltage, and other process measurements.
 Intrepid hardware can store data in the cloud (IoT) backed by integrated analysis using Python on the server.
-Recognized worldwide for our innovative engineering tools, we have offices in the USA, China, Japan
+Recognized worldwide for our innovative engineering tools, we have offices in the USA, China, Japan,
 England, Germany, India, Korea, and Australia for direct sales and support. Find out more at <a href="https://www.intrepidcs.com">www.intrepidcs.com</a>.
  </td>
 </tr>
