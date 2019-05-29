@@ -13,12 +13,17 @@ industry.
 
 Euroscipy 2019 takes place **2-6 September 2019** in **Bilbao**, Spain.
 
+<a href="https://ti.to/acpyss/euroscipy-2019">Buy tickets!</a>
+
 
 ### News
 
 **2019, April 29:** deadline extension!  
 **2019, March 26:** CfP is open!  
 **2019, March 25:** website online
+**2019, May 5:** CfP is extended until May 12th!  
+**2019, May 12:** CfP is over!  
+**2019, May 12:** The [Registration](https://ti.to/acpyss/euroscipy-2019) is open!
 
 
 ### Important Dates
@@ -29,8 +34,8 @@ Euroscipy 2019 takes place **2-6 September 2019** in **Bilbao**, Spain.
 | Apr 28 | <s>Submission deadline for talks and tutorials</s>                         |
 | May 12 | *deadline extension*                                                       |
 | July 7 | **End** of early bird ticket fare                                          |
-| July 2 | **Start** of regular ticket fare                                           |
-| Aug 5  | **End** of regulard ticket fare                                            |
+| July 8 | **Start** of regular ticket fare                                           |
+| Aug 5  | **End** of regular ticket fare                                             |
 | Aug 6  | **Start** of late ticket fare                                              |
 | Aug 22 | **End** of online registration                                             |
 | Sept 2 | Start of **EuroSciPy** Tutorial                                            |
@@ -65,7 +70,7 @@ Presentations of scientific tools and libraries using the Python language, inclu
  - 3D Printing
 
 
-### Fees
+### Fees<a name="fees"></a>
 
 
 | Tutorials                   | Student* | Academic/Individual | Industry |
@@ -96,6 +101,11 @@ enough to seat all beginner track attendees.
 The prices include VAT.
 
 **A proof of student status will be required at time of the registration. After the registration send your student qualifying proof at students@euroscipy.org**
+
+
+### Registration<a name="registration"></a>
+
+<a href="https://ti.to/acpyss/euroscipy-2019">Buy tickets!</a>
 
 
 ### Questions<a name="questions"></a>
