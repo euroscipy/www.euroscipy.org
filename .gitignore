@@ -45,6 +45,9 @@ cache
 *~
 .#*
 
+# Vim
+# *.swp
+#
 # Pipenv
 Pipfile
 Pipfile.lock

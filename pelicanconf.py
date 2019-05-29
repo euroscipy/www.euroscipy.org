@@ -50,6 +50,7 @@ DIRECT_TEMPLATES = ('index', )
 THEME_DIR = os.path.join(os.getcwd(), "theme")
 THEME_NAME = "tuxlite_zf"
 THEME = os.path.join(THEME_DIR, THEME_NAME)
+THEME_TEMPLATES_OVERRIDES = [os.path.join(os.getcwd(), 'templates')]
 RECENT_ARTICLES_COUNT = 3
 
 # Feed generation is usually not desired when developing

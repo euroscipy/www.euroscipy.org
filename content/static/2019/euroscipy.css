@@ -1,0 +1,10 @@
+.top-bar {
+    border-bottom: 1px solid #005db8;
+}
+.top-bar h1 {
+    padding-top: 15px;
+    text-shadow: 2px 2px #005db8;
+}
+ul {
+    list-style-position: inside;
+}
