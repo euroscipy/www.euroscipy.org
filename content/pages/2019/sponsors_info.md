@@ -80,7 +80,10 @@ From EuroSciPy 2018:
         <td style="width: 75%;">
             <h4>Maintainers sponsor</h4>
 
-            <p>Your contribution will be used to 
+            <p>
+                Your contribution will be used to support maintainers attending the conference with
+                discounted or free tickets, and reimbursement of travel expenses.
+            </p>
             <ul>
                 <li><b>Passes:</b> 2 conference passes for all conference days</li>
                 <li><b>Logo:</b> Website maintainers page and opening and closing slides</li>
