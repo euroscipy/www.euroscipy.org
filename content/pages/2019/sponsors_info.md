@@ -57,7 +57,7 @@ From EuroSciPy 2018:
             </ul>
         </td>
     </tr>
-    <tr>
+    <tr style="background: none;">
         <td style="width: 25%;">
             <img src="../static/2019/sponsors/levels/platinum.jpg">
         </td>
@@ -75,7 +75,7 @@ From EuroSciPy 2018:
     </tr>
     <tr>
         <td style="width: 25%;">
-            <img src="../static/2019/sponsors/levels/maintainers.png">
+            <img src="../static/2019/sponsors/levels/maintainers.jpg">
         </td>
         <td style="width: 75%;">
             <h4>Maintainers sponsor</h4>

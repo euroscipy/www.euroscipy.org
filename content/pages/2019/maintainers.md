@@ -126,4 +126,4 @@ a maintainer planning to attend the conference and your project is not listed.
 
 If your organization is covering the expenses of an open source maintainer to attend the conference,
 <a href="mailto:maintainers@euroscipy.org">let us know</a> and we will list it here.
-Also you can become a <a href="sponsors.html">maintainers sponsor</a> and help maintainers attend.
+Also you can become a <a href="sponsors_info.html">maintainers sponsor</a> and help maintainers attend.
