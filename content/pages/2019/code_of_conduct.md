@@ -20,19 +20,17 @@ that all delegates may expect to
 - enjoy an environment free from unwelcome behaviour, inappropriate language and unsuitable imagery.
 
 If problems covered by this code of conduct arise, please contact a
-EuroSciPy organiser directly. Any complaint will remain
-confidential and will be investigated. The EuroSciPy
+EuroSciPy organiser directly or send an email to [info@euroscipy.org](mailto:info@euroscipy.org).
+Any complaint will remain confidential and will be investigated. The EuroSciPy
 organisers will do their best to resolve any conflict and preserve the
 welcoming character of the conference. As a last resort, a participant
 may be requested to leave the venue of the conference, without
 reimbursment.
 
-Among the organisers, the following persons are the privileged contacts about
-this code of conduct. You may contact one of them either directly or via the
-coordinates below:
+The members of the code of conduct workgroup are:
 
-- Alexandre Manhaes Savio
 - Darya Chyzhyk
+- Alexandre Manhaes Savio
 
 Furthermore, participants are hereby reminded that they should abide by
 the laws of the country hosting EuroSciPy, with discrimination and
