@@ -23,11 +23,11 @@ All the sessions will take place in the **Elhuyar room**.
 |--------|---------------------------------------------------------------------------------------------|
 |  8:30  | Open space                                                                                  |
 | 10:30  | (available)                                                                                 |
-| 11:00  | Python visualisation                                                                        |
+| 11:00  | Python visualisation tools                                                                  |
 | 12:00  | <span class="light">Lunch</span>                                                            |
-| 13:30  | Problems and solution in CI systems                                                         |
+| 13:30  | Problems and solutions in CI systems                                                        |
 | 15:00  | <span class="light">Coffe break</span>                                                      |
-| 16:00  | Standards and best practices in testing                                                     |
+| 16:00  | Best practices in testing                                                                   |
 | 17:00  | Open space                                                                                  |
 
 ##### Thursday, 5 September

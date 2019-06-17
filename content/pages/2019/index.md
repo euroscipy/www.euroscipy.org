@@ -58,5 +58,5 @@ _Prices include VAT._
 ### Questions <a name="questions"></a>
 
 If you have a question about the conference, you can ask in the public
-[EuroSciPy Telegram group](https://t.me/euroscipy) or send an email to
-the organisers at <a href="info@euroscipy.org">info@euroscipy.org</a>.
+[EuroSciPy Telegram group](https://t.me/euroscipy) or you can send an email
+to the organisers at <a href="info@euroscipy.org">info@euroscipy.org</a>.
