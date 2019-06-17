@@ -35,7 +35,7 @@ From EuroSciPy 2018:
 - **12** tutorials
 - Academics from the **top universities** and research institutions in Europe
 - **Maintainers** of most of the top scientific open source Python projects
-- Excellent **food** (according to attendees rating)
+- **Excellent food** (according to attendees survey answers)
 
 #### Sponsorship levels
 
