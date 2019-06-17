@@ -50,6 +50,7 @@ From EuroSciPy 2018:
                 <li><b>Exclusivity:</b> Only one diamond level company</li>
                 <li><b>Passes:</b> 10 conference passes for all conference days</li>
                 <li><b>Booth:</b> Double booth in the best location for all days</li>
+                <li><b>Talk:</b> 30 minutes talk of relevant content (approved by the organisers)</li>
                 <li><b>Logo:</b> Website home page and opening and closing slides (single slide)</li>
                 <li><b>Main stage:</b> Biggest logo in the main stage roller banner</li>
                 <li><b>Registration desk:</b> Biggest logo in the registration desk roller banner</li>
