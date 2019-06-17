@@ -6,6 +6,8 @@ section: euroscipy_2019
 
 ### 12th European Conference on Python in Science
 
+![](../static/2019/bilbao.jpeg)
+
 The EuroSciPy meeting is a cross-disciplinary gathering focused on the use and development
 of the Python language in scientific research. This event strives to bring together both
 users and developers of scientific tools, as well as academic research and state of the art
@@ -15,59 +17,17 @@ Euroscipy 2019 takes place **2-6 September 2019** in **Bilbao**, Spain.
 
 <a href="https://ti.to/acpyss/euroscipy-2019">Buy tickets!</a>
 
-
-### News
-
-**2019, April 29:** deadline extension!  
-**2019, March 26:** CfP is open!  
-**2019, March 25:** website online
-**2019, May 5:** CfP is extended until May 12th!  
-**2019, May 12:** CfP is over!  
-**2019, May 12:** The [Registration](https://ti.to/acpyss/euroscipy-2019) is open!
-
-
 ### Important Dates
 
-|        |                                                                            |
-| ------ | -------------------------------------------------------------------------- |
-| Mar 26 | [Call for talks, posters & tutorials](https://pretalx.com/euroscipy-2019/) |
-| Apr 28 | <s>Submission deadline for talks and tutorials</s>                         |
-| May 12 | *deadline extension*                                                       |
-| July 7 | **End** of early bird ticket fare                                          |
-| July 8 | **Start** of regular ticket fare                                           |
-| Aug 5  | **End** of regular ticket fare                                             |
-| Aug 6  | **Start** of late ticket fare                                              |
-| Aug 22 | **End** of online registration                                             |
-| Sept 2 | Start of **EuroSciPy** Tutorial                                            |
-| Sept 4 | Start of **EuroSciPy** Main Conference                                     |
-| Sept 6 | **EuroSciPy** Sprints                                                      |
-
-
-### Topics
-
-
-Presentations of scientific tools and libraries using the Python language, including but not limited to:
-
- - Algorithms implemented or exposed in Python
- - Astronomy
- - Data Visualisation
- - Deep Learning & AI
- - Earth, Ocean and Geo Science
- - General-purpose Python tools that can be of special interest to the scientific community.
- - Image Processing
- - Materials Science
- - Parallel computing
- - Political and Social Sciences
- - Project Jupyter
- - Reports on the use of Python in scientific achievements or ongoing projects.
- - Robotics & IoT
- - Scientific data flow and persistence
- - Scientific visualization
- - Simulation
- - Statistics
- - Vector and array manipulation
- - Web applications and portals for science and engineering
- - 3D Printing
+|            |                                                                                   |
+| ---------- | --------------------------------------------------------------------------------- |
+| May 12     | <s>[Call for talks, posters & tutorials](https://pretalx.com/euroscipy-2019/)</s> |
+| July 7     | **End** of early bird ticket fare                                                 |
+| Aug 5      | **End** of regular ticket fare                                                    |
+| Aug 22     | **End** of online ticket sales                                                    |
+| Sept 2 - 3 | Start of **EuroSciPy** Tutorials                                                  |
+| Sept 4 - 5 | **EuroSciPy** Main Conference                                                     |
+| Sept 6     | **EuroSciPy** Sprints                                                             |
 
 
 ### Fees<a name="fees"></a>
@@ -79,18 +39,7 @@ Presentations of scientific tools and libraries using the Python language, inclu
 | Regular (till Aug 5th)      | € 100,00 | € 110,00            | € 250,00 |
 | Late (till Aug, 22nd)       | € 135,00 | € 135,00            | € 300,00 |
 
-<a name="tutorial-space"></a>
-You register for one of the two tutorial tracks (introductory or advanced)
-but you can switch between both tracks whenever you want as long as there is
-enough space in the lecture rooms.
-Because experience from the last conferences show that the demand for the
-advanced track is greater than the one for the beginners track, the advanced
-tutorials will be in larger lectures room.
-This room is big enough to hold all attendees.
-Therefore, all tutorial attendees will be able to attend the advanced
-tutorials, if they which.
-Based on past years numbers, the room for the beginners tutorials is also large
-enough to seat all beginner track attendees.
+_Tutorial tickets are valid for all tracks_
 
 | Main Conference             | Student* | Academic/Individual | Industry |
 |-----------------------------|----------|---------------------|----------|
@@ -100,7 +49,8 @@ enough to seat all beginner track attendees.
 
 The prices include VAT.
 
-**A proof of student status will be required at time of the registration. After the registration send your student qualifying proof at students@euroscipy.org**
+(*) **Proof of student status required.**  After registration, please send your student
+qualifying proof at <a href="mailto">students@euroscipy.org">students@euroscipy.org</a>
 
 
 ### Registration<a name="registration"></a>
