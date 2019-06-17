@@ -3,8 +3,8 @@ URL: 2019/sponsors_info.html
 save_as: 2019/sponsors_info.html
 section: euroscipy_2019
 
-[Sign up](https://forms.gle/1FHPEqybSgJjakbp8) or contact us at <a href=mailto:sponsoring@euroscipy.org>sponsoring@euroscipy.org</a>.
-if you want your company to become a sponsor.
+If you want your company to become a sponsor, [sign up](https://forms.gle/1FHPEqybSgJjakbp8)
+or contact us at <a href=mailto:sponsoring@euroscipy.org>sponsoring@euroscipy.org</a>.
 
 #### European meeting for users of scientific Python software
 
@@ -52,23 +52,23 @@ From EuroSciPy 2018:
                 <li><b>Booth:</b> Double booth in the best location for all days</li>
                 <li><b>Logo:</b> Website home page and opening and closing slides (single slide)</li>
                 <li><b>Main stage:</b> Biggest logo in the main stage roller banner</li>
-                <li><b>Registration desk:</b> Biggest logo in the registration desk roller banner/li>
+                <li><b>Registration desk:</b> Biggest logo in the registration desk roller banner</li>
                 <li><b>Price:</b> 12,000 € + VAT</li>
             </ul>
         </td>
     </tr>
     <tr>
         <td style="width: 25%;">
-            <img src="../static/2019/sponsors/levels/platinium.jpg">
+            <img src="../static/2019/sponsors/levels/platinum.jpg">
         </td>
         <td style="width: 75%;">
-            <h4>Platinium sponsor</h4>
+            <h4>Platinum sponsor</h4>
             <ul>
                 <li><b>Passes:</b> 4 conference passes for all conference days</li>
                 <li><b>Booth:</b> Booth in the conference venue</li>
                 <li><b>Logo:</b> Website sponsors page and opening and closing slides</li>
                 <li><b>Main stage:</b> Logo in the main stage roller banner</li>
-                <li><b>Registration desk:</b> Logo in the registration desk roller banner/li>
+                <li><b>Registration desk:</b> Logo in the registration desk roller banner</li>
                 <li><b>Price:</b> 3,000 € + VAT</li>
             </ul>
         </td>
@@ -133,12 +133,12 @@ Other sponsorship levels:
     </tr>
 </table>
 
-**Do you have an innovative sponsorship idea?** We are open to custom sponsorship proposals
+**Do you have an innovative sponsorship idea?** We are open to custom sponsorship proposals.
 
 #### Sponsorhip committee members
 
 - Alexandre Savio
 - Oswald Yinyeh
 
-[Sign up](https://forms.gle/1FHPEqybSgJjakbp8) or contact us at <a href=mailto:sponsoring@euroscipy.org>sponsoring@euroscipy.org</a>.
-if you want your company to become a sponsor.
+If you want your company to become a sponsor, [sign up](https://forms.gle/1FHPEqybSgJjakbp8)
+or contact us at <a href=mailto:sponsoring@euroscipy.org>sponsoring@euroscipy.org</a>.

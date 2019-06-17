@@ -19,10 +19,10 @@ Avda. Abandoibarra, 3, 48009 Bilbao, Bizkaia, Spain
 
 See also the [location at Google Maps](https://goo.gl/maps/qTCWw8cEdoN2)
 
-### Accomodation
+### Accommodation
 
 Here are some hotels you may consider. They are all at less than 20 minutes walk to the venue.
-It is an area a bit expensive for hotels, we 
+It is an area a bit expensive for hotels.
 
 
 **Hostels:**
