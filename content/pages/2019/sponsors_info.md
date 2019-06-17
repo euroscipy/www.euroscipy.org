@@ -117,7 +117,7 @@ Other sponsorship levels:
                 <li><b>Passes:</b> 2 conference passes for all conference days</li>
                 <li><b>Logo:</b> Website sponsors page and opening and closing slides</li>
                 <li><b>Registration desk:</b> Logo in the registration desk roller banner</li>
-                <li><b>Price:</b> 1,2000 € + VAT</li>
+                <li><b>Price:</b> 1,200 € + VAT</li>
             </ul>
         </td>
         <td style="width: 33%;">
