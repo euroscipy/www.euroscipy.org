@@ -41,10 +41,11 @@ EuroSciPy 2019 takes place **2-6 September 2019** in **Bilbao**, Spain.
 | Regular (till Aug, 5th)     | € 100,00 | € 110,00            | € 250,00 |
 | Late                        | € 135,00 | € 135,00            | € 300,00 |
 
-_Prices include VAT._
 
-(*) **Proof of student status required.**  After registration, please send your student
-qualifying proof at <a href="mailto:students@euroscipy.org">students@euroscipy.org</a>
+(*)  After registration, please send your student qualifying proof at
+<a href="mailto:students@euroscipy.org">students@euroscipy.org</a>
+
+_Prices include VAT._
 
 <div style="width: 100%; text-align: center;">
     <div class="button" style="background-color: #005db8;">
