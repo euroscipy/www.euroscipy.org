@@ -22,32 +22,28 @@ All the sessions will take place in the **Elhuyar room**.
 | Time   | Maintainers track                                                                           |
 |--------|---------------------------------------------------------------------------------------------|
 |  8:30  | Open space                                                                                  |
-| 10:15  | <span class="light">Coffe break</span>                                                      |
-| 10:45  | Testing best practices                                                                      |
-| 11:30  | Python visualization summit                                                                 |
-| 12:30  | <span class="light">Lunch</span>                                                            |
-| 14:00  | (available)                                                                                 |
-| 14:45  | (available)                                                                                 |
-| 15:30  | <span class="light">Coffe break</span>                                                      |
-| 16:00  | pandas roadmap and ecosystem                                                                |
-| 16:30  | (available)                                                                                 |
-| 17:00  | <span class="light">End</span>                                                              |
+| 10:30  | (available)                                                                                 |
+| 11:00  | Python visualisation                                                                        |
+| 12:00  | <span class="light">Lunch</span>                                                            |
+| 13:30  | Problems and solution in CI systems                                                         |
+| 15:00  | <span class="light">Coffe break</span>                                                      |
+| 16:00  | Standards and best practices in testing                                                     |
+| 17:00  | Open space                                                                                  |
 
 ##### Thursday, 5 September
 
 | Time   | Maintainers track                                                                           |
 |--------|---------------------------------------------------------------------------------------------|
 |  8:30  | Open space                                                                                  |
-| 10:15  | <span class="light">Coffe break</span>                                                      |
-| 10:45  | (available)                                                                                 |
+| 10:30  | (available)                                                                                 |
+| 11:00  | (available)                                                                                 |
 | 11:30  | (available)                                                                                 |
-| 12:30  | <span class="light">Lunch</span>                                                            |
+| 12:00  | <span class="light">Lunch</span>                                                            |
 | 14:00  | (available)                                                                                 |
 | 14:45  | (available)                                                                                 |
-| 15:30  | <span class="light">Coffe break</span>                                                      |
-| 16:00  | (available)                                                                                 |
-| 16:30  | (available)                                                                                 |
-| 17:00  | <span class="light">End</span>                                                              |
+| 15:00  | <span class="light">Coffe break</span>                                                      |
+| 15:30  | (available)                                                                                 |
+| 16:15  | Open space                                                                                  |
 
 #### Participating projects
 
@@ -94,6 +90,8 @@ Maintainers of the next projects have confirmed attendance to the conference:
             <a href="https://geopandas.readthedocs.io/en/latest/">GeoPandas</a>
         </td>
         <td>
+            <a href="https://bokeh.pydata.org/en/latest/"><img src='../static/2019/projects/bokeh.png'></a>
+            <a href="https://bokeh.pydata.org/en/latest/">Bokeh</a>
         </td>
         <td>
         </td>
