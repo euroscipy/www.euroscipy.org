@@ -78,8 +78,8 @@ Maintainers of the next projects have confirmed attendance to the conference:
     </tr>
     <tr style="background: none;">
         <td>
-            <a href="http://www.blosc.org/"><img src='../static/2019/projects/blosc.png'></a>
-            <a href="http://www.blosc.org/">Blosc</a>
+            <a href="https://jupyter.org/"><img src='../static/2019/projects/jupyter.png'></a>
+            <a href="https://jupyter.org/">Jupyter</a>
         </td>
         <td>
             <a href="https://docs.poliastro.space/en/stable/"><img src='../static/2019/projects/poliastro.png'></a>
@@ -94,8 +94,12 @@ Maintainers of the next projects have confirmed attendance to the conference:
             <a href="https://bokeh.pydata.org/en/latest/">Bokeh</a>
         </td>
         <td>
+            <a href="http://www.blosc.org/"><img src='../static/2019/projects/blosc.png'></a>
+            <a href="http://www.blosc.org/">Blosc</a>
         </td>
         <td>
+            <a href="https://xtensor.readthedocs.io/en/latest/"><img src='../static/2019/projects/xtensor.png'></a>
+            <a href="https://xtensor.readthedocs.io/en/latest/">xtensor</a>
         </td>
     </tr>
 </table>
@@ -120,6 +124,8 @@ a maintainer planning to attend the conference and your project is not listed.
             <a href="https://ursalabs.org/">Ursa Labs</a>
         </td>
         <td>
+            <a href="http://quantstack.net/"><img src='../static/2019/projects/quantstack.png'></a>
+            <a href="http://quantstack.net/">QuantStack</a>
         </td>
     </tr>
 </table>
