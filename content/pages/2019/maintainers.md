@@ -102,6 +102,30 @@ Maintainers of the next projects have confirmed attendance to the conference:
             <a href="https://xtensor.readthedocs.io/en/latest/">xtensor</a>
         </td>
     </tr>
+    <tr style="background: none;">
+        <td>
+            <a href="https://numba.pydata.org/"><img src='../static/2019/projects/numba.png'></a>
+            <a href="https://numba.pydata.org/">Numba</a>
+        </td>
+        <td>
+            <a href="https://github.com/HypothesisWorks/hypothesis"><img src='../static/2019/projects/hypothesis.png'></a>
+            <a href="https://github.com/HypothesisWorks/hypothesis">Hypothesis</a>
+        </td>
+        <td>
+            <a href="https://github.com/vaexio/vaex"><img src='../static/2019/projects/vaex.png'></a>
+            <a href="https://github.com/vaexio/vaex">Vaex</a>
+        </td>
+        <td>
+            <a href="http://www.pytables.org/"><img src='../static/2019/projects/pytables.png'></a>
+            <a href="http://www.pytables.org/">PyTables</a>
+        </td>
+        <td>
+            <a href="https://caterva.readthedocs.io/en/latest/"><img src='../static/2019/projects/caterva.png'></a>
+            <a href="https://caterva.readthedocs.io/en/latest/">Caterva</a>
+        </td>
+        <td>
+        </td>
+    </tr>
 </table>
 
 <a href="mailto:maintainers@euroscipy.org">Let us know</a> if you are
@@ -126,6 +150,18 @@ a maintainer planning to attend the conference and your project is not listed.
         <td>
             <a href="http://quantstack.net/"><img src='../static/2019/projects/quantstack.png'></a>
             <a href="http://quantstack.net/">QuantStack</a>
+        </td>
+    </tr>
+    <tr style="background: none;">
+        <td>
+            <a href="https://www.anaconda.com/"><img src='../static/2019/projects/anaconda.png'></a>
+            <a href="https://www.anaconda.com/">Anaconda</a>
+        </td>
+        <td>
+        </td>
+        <td>
+        </td>
+        <td>
         </td>
     </tr>
 </table>
