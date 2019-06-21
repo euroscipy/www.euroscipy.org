@@ -8,6 +8,16 @@
 ul {
     list-style-position: inside;
 }
+table {
+    table-layout: fixed;
+}
+table th {
+    text-align: center !important;
+}
+table th:first-child {
+    width: 200px;
+    text-align: left !important;
+}
 table.projects {
     table-layout: fixed;
 }
