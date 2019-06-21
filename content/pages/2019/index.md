@@ -14,6 +14,26 @@ industry.
 
 EuroSciPy 2019 takes place **2-6 September 2019** in **Bilbao**, Spain.
 
+### Keynote speakers
+
+<table class="projects">
+    <tr>
+        <td>
+            <img src="../static/2019/keynotes/sara.png"/>
+            <p style="margin-bottom: 3px;">
+                <b style="font-size: 1.2em;">Sara Issaoun</b>
+            </p>
+            <p>
+                Event Horizon Telescope scientist
+            </p>
+        </td>
+        <td>
+        </td>
+        <td>
+        </td>
+    </tr>
+</table>
+
 ### Important Dates
 
 |            |                                                                                   |
