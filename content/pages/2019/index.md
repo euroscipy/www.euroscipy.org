@@ -49,7 +49,7 @@ EuroSciPy 2019 takes place **2-6 September 2019** in **Bilbao**, Spain.
 
 ### Registration<a name="registration"></a>
 
-| Tutorials                   | Student* | Academic/Individual | Industry                 |
+| Tutorials                   | Student* | Academic/Individual | Industry |
 |-----------------------------|---------:|--------------------:|---------:|
 | Early Bird (till July, 7th) | 55 €     | 80 €                | 135 €    |
 | Regular (till Aug 5th)      | 100 €    | 110 €               | 250 €    |
