@@ -74,7 +74,13 @@ _Prices include VAT._
     </div>
 </div>
 
-### Questions <a name="questions"></a>
+### Visa letters<a name="visa"></a>
+
+If you require a visa letter to be able to travel to the conference, please fill in
+[this form](https://docs.google.com/forms/d/e/1FAIpQLScOwZfIHoBj1dvMD4_FPWmqaEmDL615VkXXf0E_Iw2NLCxrOw) and we will get back to you with the letter as soon as possible.
+
+
+### Questions<a name="questions"></a>
 
 If you have a question about the conference, you can ask in the public
 [EuroSciPy Telegram group](https://t.me/euroscipy) or you can send an email
