@@ -78,7 +78,7 @@ _Prices include VAT._
 ### Visa letters<a name="visa"></a>
 
 If you require a visa letter to be able to travel to the conference, please fill in 
-[this form](https://docs.google.com/forms/d/e/1FAIpQLScOwZfIHoBj1dvMD4_FPWmqaEmDL615VkXXf0E_Iw2NLCxrOw) and we will get back to you with the letter as soon as possible.
+[this form](https://forms.gle/6VcSPh5sMSzNtJap9) and we will get back to you with the letter as soon as possible.
 
 
 ### Questions <a name="questions"></a>
