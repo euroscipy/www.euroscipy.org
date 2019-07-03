@@ -14,6 +14,9 @@ table {
 table th {
     text-align: center !important;
 }
+table.program th:first-child {
+    width: auto;
+}
 table th:first-child {
     width: 200px;
     text-align: left !important;
