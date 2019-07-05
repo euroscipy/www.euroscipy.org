@@ -14,6 +14,20 @@ industry.
 
 EuroSciPy 2019 takes place **2-6 September 2019** in **Bilbao**, Spain.
 
+Join us on social media:
+
+<table style="width: 400px;">
+  <tr>
+  <td style="width: 150px">
+<a href="https://twitter.com/euroscipy?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @euroscipy</a>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+  </td>
+  <td style="width: 250px; padding-top: 8px;">
+  <a target="_blank" href="https://t.me/euroscipy" style=" background-image: url(../static/2019/telegram.ico); background-repeat: no-repeat; background-color: #27a5e7; background-position: 3px 2px; color: white; height: 20; font-size: 11px; padding: 4px 10px 4px 20px; border-radius: 3px;">EuroSciPy Telegram channel</a>
+  </td>
+</table>
+
+
 ### Keynote speakers
 
 <table class="projects">
@@ -24,10 +38,19 @@ EuroSciPy 2019 takes place **2-6 September 2019** in **Bilbao**, Spain.
                 <b style="font-size: 1.2em;">Sara Issaoun</b>
             </p>
             <p>
-                Event Horizon Telescope scientist
+                Scientist<br/>
+                Event Horizon Telescope
             </p>
         </td>
         <td>
+            <img src="../static/2019/keynotes/david.png"/>
+            <p style="margin-bottom: 3px;">
+                <b style="font-size: 1.2em;">David Liu</b>
+            </p>
+            <p>
+                HPC Specialist<br/>
+                Intel Corporation
+            </p>
         </td>
         <td>
         </td>

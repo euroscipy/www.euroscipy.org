@@ -364,7 +364,50 @@ With the tutorial tickets you can attend any tutorial of any track.
 
 #### Friday, 6 September
 
-Sprints will be announced shortly.
+More sprints will be added when they are proposed.
 
 If you want to propose a sprint, please send us a message to
 <a href="mailto:maintainers@euroscipy.org">maintainers@euroscipy.org</a>.
+
+<table class="program">
+<tr>
+    <th>Time</th>
+    <th>Chillida</th>
+    <th>Oteiza</th>
+    <th>Axular</th>
+</tr>
+<tr>
+    <td>10:00</td>
+    <td colspan="3" style="text-align: center;">Sprint presentations</td>
+</tr>
+<tr>
+    <td>10:30</td>
+    <td>
+        <ul>
+            <li>scikit-learn</li>
+            <li><a target="_blank" href="https://github.com/python-sprints/dataframe-summit/">Dataframe summit</a></li>
+        </ul>
+    </td>
+    <td>
+        <ul>
+            <li>Improving docs for Blosc2 & Caterva</li>
+            <li>PyPy</li>
+        </ul>
+    </td>
+    <td>Mentored sprint for beginners in open source from underrepresented minorities</td>
+</tr>
+<tr>
+    <td>12:30</td>
+    <td colspan="3" style="text-align: center; color: #404040;">Lunch</td>
+</tr>
+<tr>
+    <td>14:00</td>
+    <td>(continue)</td>
+    <td>(continue)</td>
+    <td>(continue)</td>
+</tr>
+<tr>
+    <td>18:30</td>
+    <td colspan="3" style="text-align: center; color: #404040;">End</td>
+</tr>
+</table>
