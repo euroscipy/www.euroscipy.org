@@ -32,7 +32,7 @@ Join us on social media:
 
 <table class="projects">
     <tr>
-        <td >
+        <td>
             <img src="../static/2019/keynotes/sara.png"/>
             <p style="margin-bottom: 3px;">
                 <b style="font-size: 1.2em;">Sara Issaoun</b>
@@ -48,7 +48,7 @@ Join us on social media:
                 <b style="font-size: 1.2em;">David Liu</b>
             </p>
             <p>
-                HPC in Python Specialist<br/>
+                HPC Specialist<br/>
                 Intel Corporation
             </p>
         </td>
