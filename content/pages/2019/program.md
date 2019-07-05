@@ -364,7 +364,10 @@ With the tutorial tickets you can attend any tutorial of any track.
 
 #### Friday, 6 September
 
-More sprints will be added as they are proposed:
+More sprints will be added when they are proposed.
+
+If you want to propose a sprint, please send us a message to
+<a href="mailto:maintainers@euroscipy.org">maintainers@euroscipy.org</a>.
 
 <table class="program">
 <tr>
@@ -408,8 +411,3 @@ More sprints will be added as they are proposed:
     <td colspan="3" style="text-align: center; color: #404040;">End</td>
 </tr>
 </table>
-
-Sprints will be announced shortly.
-
-If you want to propose a sprint, please send us a message to
-<a href="mailto:maintainers@euroscipy.org">maintainers@euroscipy.org</a>.
