@@ -22,12 +22,12 @@ All the sessions will take place in the **Elhuyar room**.
 | Time   | Maintainers track                                                                           |
 |--------|---------------------------------------------------------------------------------------------|
 |  8:30  | Open space                                                                                  |
-| 10:30  | (available)                                                                                 |
-| 11:00  | Python visualisation tools                                                                  |
-| 12:00  | <span class="light">Lunch</span>                                                            |
-| 13:30  | Problems and solutions in CI systems                                                        |
-| 15:00  | <span class="light">Coffe break</span>                                                      |
-| 16:00  | Best practices in testing                                                                   |
+| 11:30  | Python visualisation tools                                                                  |
+| 12:30  | <span class="light">Lunch</span>                                                            |
+| 14:00  | <span class="light">Open source project updates (main track)</span>                         |
+| 14:45  | CI and testing<br/><i>Moderated by Zac Hatfield-Dodds</i>                                   |
+| 16:00  | <span class="light">Coffe break</span>                                                      |
+| 16:30  | (available)                                                                                 |
 | 17:00  | Open space                                                                                  |
 
 ##### Thursday, 5 September
@@ -35,15 +35,14 @@ All the sessions will take place in the **Elhuyar room**.
 | Time   | Maintainers track                                                                           |
 |--------|---------------------------------------------------------------------------------------------|
 |  8:30  | Open space                                                                                  |
-| 10:30  | (available)                                                                                 |
-| 11:00  | (available)                                                                                 |
-| 11:30  | (available)                                                                                 |
-| 12:00  | <span class="light">Lunch</span>                                                            |
-| 14:00  | (available)                                                                                 |
+| 10:30  | <a href="https://github.com/python-sprints/dataframe-summit/">Dataframe summit</a>          |
+| 12:30  | <span class="light">Lunch</span>                                                            |
+| 14:00  | <span class="light">Open space</span>                                                       |    |
 | 14:45  | (available)                                                                                 |
-| 15:00  | <span class="light">Coffe break</span>                                                      |
-| 15:30  | (available)                                                                                 |
-| 16:15  | Open space                                                                                  |
+| 15:30  | Blosc and its ecosystem<br/><i>Moderated by Francesc Alted</i>                              |
+| 16:00  | <span class="light">Coffe break</span>                                                      |
+| 16:30  | (available)                                                                                 |
+| 17:00  | Open space                                                                                  |
 
 #### Participating projects
 
