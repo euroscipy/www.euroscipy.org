@@ -2,6 +2,7 @@ Title: Venue for EuroSciPy 2019
 URL: 2019/venue.html
 save_as: 2019/venue.html
 section: euroscipy_2019
+slug: venue2019
 
 EuroSciPy 2019 takes place in Bilbao, Spain from Monday, September 2nd until Friday, September 6th.
 

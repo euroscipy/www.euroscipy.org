@@ -2,6 +2,7 @@ Title: Sponsorship information EuroSciPy 2019
 URL: 2019/sponsors_info.html
 save_as: 2019/sponsors_info.html
 section: euroscipy_2019
+slug: sponsors-info2019
 
 If you want your company to become a sponsor, [sign up](https://forms.gle/1FHPEqybSgJjakbp8)
 or contact us at <a href=mailto:sponsoring@euroscipy.org>sponsoring@euroscipy.org</a>.

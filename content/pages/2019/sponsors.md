@@ -2,6 +2,7 @@ Title: Sponsoring EuroSciPy 2019
 URL: 2019/sponsors.html
 save_as: 2019/sponsors.html
 section: euroscipy_2019
+slug: sponsors2019
 
 
 Information about sponsorship is available at the [sponsorship information page](sponsors_info.html).

@@ -2,6 +2,7 @@ Title: About EuroSciPy 2019
 URL: 2019/about.html
 save_as: 2019/about.html
 section: euroscipy_2019
+slug: about2019
 
 ### Topics
 
