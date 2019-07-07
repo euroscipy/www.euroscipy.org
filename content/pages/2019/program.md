@@ -131,6 +131,11 @@ With the tutorial tickets you can attend any tutorial of any track.
     <td colspan="3" style="text-align: center; color: #404040;">End</td>
 </tr>
 
+<tr>
+    <td>20:00</td>
+    <td colspan="3" style="text-align: center; color: #404040;">Social event 1</td>
+</tr>
+
 </table>
 
 ### Main conference
@@ -358,6 +363,12 @@ With the tutorial tickets you can attend any tutorial of any track.
     <td>18:30</td>
     <td colspan="3" style="text-align: center; color: #404040;">End</td>
 </tr>
+
+<tr>
+    <td>20:00</td>
+    <td colspan="3" style="text-align: center; color: #404040;">Social event 2</td>
+</tr>
+
 </table>
 
 ### Sprints
