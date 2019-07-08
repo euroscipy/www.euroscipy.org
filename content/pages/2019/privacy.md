@@ -31,6 +31,6 @@ You may contact ACPySS *info@pyss.org* to verify, complete, update or correct yo
 In particular, you may refuse at any time the handling of your personal data for institutional promotional material mailing purposes.
 
 We would also like to inform you that the registration system to the conferences makes use of the online specialised system [Ti.to](https://ti.to), which use terms and conditions and privacy policy are available at the link
-[https://ti.to/privacy](https://ti.to/privacy). 
+[https://ti.to/privacy](https://ti.to/privacy).
 
 Therefore, the undersigned relieves ACPySS of any liability in the processing of data entered in the Ti.to system by the undersigned.
