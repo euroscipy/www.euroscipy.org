@@ -52,3 +52,5 @@ cache
 Pipfile
 Pipfile.lock
 .python-version
+
+.envrc
