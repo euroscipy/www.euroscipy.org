@@ -85,7 +85,7 @@ With the tutorial tickets you can attend any tutorial of any track.
 
 <tr>
     <td>09:00</td>
-    <td>Introduction to SciPy </br> Gert-Ludwig Ingold</td>
+    <td><a href="https://pretalx.com/euroscipy-2019/talk/WSNPK7">Introduction to SciPy</a><br />Gert-Ludwig Ingold</td>
     <td><a href="https://pretalx.com/euroscipy-2019/talk/ZHQALW/">Sufficiently Advanced Testing with Hypothesis</a><br/>Zac Hatfield-Dodds</td>
     <td><a href="https://pretalx.com/euroscipy-2019/talk/YKPNEE/">Introduction to geospatial data analysis with GeoPandas and the PyData stack</a><br/>Joris Van den Bossche</td>
 </tr>
