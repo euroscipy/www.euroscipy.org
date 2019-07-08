@@ -133,7 +133,7 @@ With the tutorial tickets you can attend any tutorial of any track.
 
 <tr>
     <td>20:00</td>
-    <td colspan="3" style="text-align: center; color: #404040;">Social event 1</td>
+    <td colspan="3" style="text-align: center; color: #404040;"><a href="social_event.html">Social event 1</a></td>
 </tr>
 
 </table>
@@ -366,7 +366,7 @@ With the tutorial tickets you can attend any tutorial of any track.
 
 <tr>
     <td>20:00</td>
-    <td colspan="3" style="text-align: center; color: #404040;">Social event 2</td>
+    <td colspan="3" style="text-align: center; color: #404040;"><a href="social_event.html">Social event 2</a></td>
 </tr>
 
 </table>

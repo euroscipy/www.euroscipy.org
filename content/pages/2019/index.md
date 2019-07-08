@@ -27,7 +27,6 @@ Join us on social media:
   </td>
 </table>
 
-
 ### Keynote speakers
 
 <table class="projects">
@@ -68,7 +67,7 @@ Join us on social media:
 | Sept 2 - 3 | **Tutorials**                                                                     |
 | Sept 4 - 5 | **Main Conference**                                                               |
 | Sept 6     | **Sprints**                                                                       |
-
+| Sept 3 & 5 | [**Social event**](social_event.html)                                             |
 
 ### Registration<a name="registration"></a>
 
@@ -84,6 +83,8 @@ Join us on social media:
 | Regular (till Aug, 5th)     | 100 €    | 110 €               | 250 €    |
 | Late                        | 135 €    | 135 €               | 300 €    |
 
+Social event: 35 €
+
 (*)  After registration, please send your student qualifying proof at
 <a href="mailto:students@euroscipy.org">students@euroscipy.org</a>
 
@@ -97,12 +98,14 @@ _Prices include VAT._
     </div>
 </div>
 
+### Social events<a name="social_event"></a>
+
+Check [here](social_event.html) for more information.
 
 ### Visa letters<a name="visa"></a>
 
 If you require a visa letter to be able to travel to the conference, please fill in 
 [this form](https://forms.gle/6VcSPh5sMSzNtJap9) and we will get back to you with the letter as soon as possible.
-
 
 ### Questions <a name="questions"></a>
 
