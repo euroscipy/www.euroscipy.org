@@ -137,7 +137,7 @@ Other sponsorship levels:
 
 **Do you have an innovative sponsorship idea?** We are open to custom sponsorship proposals.
 
-#### Sponsorhip committee members
+#### Sponsors committee members
 
 - Alexandre Savio
 - Oswald Yinyeh
