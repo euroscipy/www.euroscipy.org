@@ -61,7 +61,7 @@ Join us on social media:
 |            |                                                                                   |
 |------------|-----------------------------------------------------------------------------------|
 | May 12     | <s>[Call for talks, posters & tutorials](https://pretalx.com/euroscipy-2019/)</s> |
-| July 7     | End of early bird ticket sales                                                    |
+| July 7     | <s>End of early bird ticket sales</s>                                             |
 | Aug 5      | End of regular ticket sales                                                       |
 | Aug 22     | End of online ticket sales                                                        |
 | Sept 2 - 3 | **Tutorials**                                                                     |
@@ -81,7 +81,7 @@ Join us on social media:
 |-----------------------------|---------:|--------------------:|---------:|
 | Early Bird (till July, 7th) | 55 €     | 80 €                | 135 €    |
 | Regular (till Aug, 5th)     | 100 €    | 110 €               | 250 €    |
-| Late                        | 135 €    | 135 €               | 300 €    |
+| Late (till Aug, 22nd)       | 135 €    | 135 €               | 300 €    |
 
 Social event: 35 €
 
