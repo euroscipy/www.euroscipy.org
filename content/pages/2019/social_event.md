@@ -9,12 +9,12 @@ Buy tickets for the social event [here](https://ti.to/acpyss/euroscipy-2019).
 
 There will be **2 separate dinners** during the conference, one **on Tuesday (02/09/2019)**
 for the people who come to the workshops and another **on Thursday (05/09/2019)**
-for the people who come to the talks. 
+for the people who come to the talks.
 However is up to you when you want to go, you could also come twice.
 
 #### Location
 
-We will have a typical cider house dinner in [Txoko Piperrak](http://www.txokopiperrak.com/). 
+We will have a typical cider house dinner in [Txoko Piperrak](http://www.txokopiperrak.com/).
 
 We can meet 10 minutes before the start time at the front of the conference
 venue or we can meet there directly.
@@ -24,7 +24,7 @@ venue or we can meet there directly.
 
 #### Dinner menu
 
-The menu we chose is a traditional cider house menu ([Menu 1](http://www.txokopiperrak.com/#menu)):
+The menu we chose is a traditional cider house menu:
 
 - Txistorra (Basque Chorizo)
 - Morcilla con pimientos (Blood sausage with Pepper)
