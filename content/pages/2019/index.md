@@ -67,7 +67,7 @@ Join us on social media:
 | Sept 2 - 3 | **Tutorials**                                                                     |
 | Sept 4 - 5 | **Main Conference**                                                               |
 | Sept 6     | **Sprints**                                                                       |
-| Sept 3 & 5 | [**Social event**](social_event.html)                                             |
+| Sept 3 & 5 | [**Social event**](networking.html)                                               |
 
 ### Registration<a name="registration"></a>
 
@@ -96,10 +96,6 @@ _Prices include VAT._
            target="_blank">Buy tickets</a>
     </div>
 </div>
-
-### Social events<a name="social_event"></a>
-
-Check [here](social_event.html) for more information.
 
 ### Visa letters<a name="visa"></a>
 
