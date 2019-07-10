@@ -76,7 +76,7 @@ but those need to be requested in advanced.
 [Pintxos](https://en.wikipedia.org/wiki/Pincho) are snacks, usually consisting of a mixture of
 ingredients on top of a small slice of bread. Traditionally, they are accompanied by a small
 glass of wine (_txikito_) or beer (_zurito_), and moving from a place to another after every
-pintxo, or couple.
+pintxo or two.
 
 There is a strong socializing component in eating pintxos, that we would love to bring at
 EuroSciPy. Join the conference <a href="https://t.me/euroscipy">Telegram group</a> to discuss
