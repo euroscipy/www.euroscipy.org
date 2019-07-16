@@ -19,19 +19,17 @@ plans, please join our <a href="https://t.me/euroscipy">Telegram group</a>.
 There will be two social events during the conference, in a traditional
 <a href="https://en.wikipedia.org/wiki/Sagardotegi">cider house</a>:
 
-* __Tutorials social event__: Tuesday, 2nd of September at 8pm.
-* __Talks social event__: Thursday, 4th of September at 8pm.
+* __Tutorials social event__: Tuesday, 3th of September at 8pm.
+* __Talks social event__: Thursday, 5th of September at 8pm.
 
-You can go to the restaurant directly, or follow the organisers who will depart from the main entrance 
+You can go to the restaurant directly, or follow the organisers who will depart from the main entrance
 of the conference venue 15 minutes before dinner time (at 7:45pm).
 
 _You can join any of the events (or both), no matter which part of the conference you are attending._
 
 #### Social event tickets
 
-The price of a social event dinner is 35€.
-
-Social event ticket sales will start shortly in the following website:
+The Social Event ticket can be purchased here:
 
 <div style="width: 100%; text-align: center;">
     <div class="button" style="background-color: #005db8;">
