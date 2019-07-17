@@ -67,6 +67,15 @@ If you have any special food requirement, please let us know when purchasing the
 social event ticket. There will be vegetarian, vegan, gluten-free and other options,
 but those need to be requested in advanced.
 
+The restaurant will also have a vegan menu option:
+
+- Ensalada de setas
+- Pimientos verdes
+- Espárragos en tempura
+- Seitan con pimientos rojos
+- Postre
+
+
 ### Pintxos
 
 ![](../static/2019/pintxos.jpeg)
