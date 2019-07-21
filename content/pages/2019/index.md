@@ -62,6 +62,8 @@ Join us on social media:
 |------------|-----------------------------------------------------------------------------------|
 | May 12     | <s>[Call for talks, posters & tutorials](https://pretalx.com/euroscipy-2019/)</s> |
 | July 7     | <s>End of early bird ticket sales</s>                                             |
+| July 22    | Open the financial aid program                                                    |
+| Aug 4      | End of financial aid submissions                                                  |
 | Aug 5      | End of regular ticket sales                                                       |
 | Aug 22     | End of online ticket sales                                                        |
 | Sept 2 - 3 | **Tutorials**                                                                     |
@@ -96,6 +98,12 @@ _Prices include VAT._
            target="_blank">Buy tickets</a>
     </div>
 </div>
+
+### Financial Aid<a name="finaid"></a>
+
+As part of our commitment to the Python community, we are pleased to announce
+that we offer special grants for people in need of a financial aid to attend
+EuroScipy. Please follow the instructions [here](finaid.html) to apply for a grant.
 
 ### Visa letters<a name="visa"></a>
 
