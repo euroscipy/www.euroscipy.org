@@ -172,7 +172,7 @@ Ticket prices can be [found here](https://ti.to/acpyss/euroscipy-2019).
 
 All ticket prices include 0% VAT. ACPySS is a non-profit society in the Basque Country, Spain, which pays VAT for its
 expenses.
-As EuroScipy is an educational event we have been assigned from the Basque Tax Office that all our conference tickets
+As EuroSciPy is an educational event we have been assigned from the Basque Tax Office that all our conference tickets
 have 0% VAT.
 
 #### Are tickets refundable?

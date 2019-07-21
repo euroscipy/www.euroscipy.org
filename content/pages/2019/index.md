@@ -103,7 +103,7 @@ _Prices include VAT._
 
 As part of our commitment to the Python community, we are pleased to announce
 that we offer special grants for people in need of a financial aid to attend
-EuroScipy. Please follow the instructions [here](finaid.html) to apply for a grant.
+EuroSciPy. Please follow the instructions [here](finaid.html) to apply for a grant.
 
 ### Visa letters<a name="visa"></a>
 
