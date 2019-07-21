@@ -67,11 +67,11 @@ Any speaker not having given a LT at the conference is ahead of anyone who has g
 
 #### How can I speak at the conference?
 
-Please submit your proposal via the CfP form. The CfP dates and registration URL are in our [main page](index.html).
+The Call for Proposals has been closed already. Please check the [program](program.html).
 
 #### When will I get notified?
 
-A first program draft is expected 2-3 months before the conference, speakers will get notified upfront as soon as we have reviewed all proposals.
+All speakers have been notified. If in doube please also see the [program](program.html).
 
 #### How can I edit my speaker profile?
 
@@ -97,7 +97,7 @@ Changes are monitored.
 
 #### Are speakers invited to the conference?
 
-Accepted speakers will be provided a ticket discount for the conference but we do not cover any travel or accommodation costs.
+Accepted speakers will be provided a ticket discount (i.e. Early Bird ticket price) for the conference but we do not cover any travel or accommodation costs.
 
 #### What about internet during my talk?
 
