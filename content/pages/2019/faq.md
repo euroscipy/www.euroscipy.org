@@ -71,7 +71,7 @@ The Call for Proposals has been closed already. Please check the [program](progr
 
 #### When will I get notified?
 
-All speakers have been notified. If in doube please also see the [program](program.html).
+All speakers have been notified. If in doubt please also see the [program](program.html).
 
 #### How can I edit my speaker profile?
 
