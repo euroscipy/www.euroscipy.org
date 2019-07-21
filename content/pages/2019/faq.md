@@ -1,5 +1,5 @@
 Title: Frequently Asked Questions
-URL: 2019/faw.html
+URL: 2019/faq.html
 save_as: 2019/faq.html
 section: euroscipy_2019
 slug: faq
