@@ -45,9 +45,9 @@ regenerate:
 
 serve: html
 ifdef PORT
-	cd $(OUTPUTDIR) && $(PY) -m pelican.server $(PORT)
+	cd $(OUTPUTDIR) && pelican --listen --port $(PORT)
 else
-	cd $(OUTPUTDIR) && $(PY) -m pelican.server
+	cd $(OUTPUTDIR) && pelican --listen
 endif
 
 devserver:
