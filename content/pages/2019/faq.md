@@ -29,7 +29,7 @@ The venue will close around 18:00 each day.
 
 Sprints will be open 9:00 - 18:00 (tbc.).
 
-#### Visa - I need a visa to go to Germany. Could you please write me an invitation letter?
+#### Visa - I need a visa to go to the conference location. Could you please write me an invitation letter?
 
 If you require an invitation letter please fill in [this form](https://docs.google.com/forms/d/1FOh5wVGntsDsPHiBM2Tto23BnKE6PAiGVg7JSdo1uf0/edit) and the letter will be provided to you by email.
 
@@ -240,10 +240,16 @@ All sponsoring package prices are net plus statutory VAT in the amount valid at 
 #### Where to send the Merchandise as a Sponsor?
 
 Bizkaia Aretoa
+
 Contact: Darya Chyzhyk
+
 EuroSciPy 2019 / exhibition or swag
+
 Avda. Abandoibarra etorbidea, 3
+
 48009 Bilbao
+
 Spain
+
 
 If you did not find the answer you are looking for above, contact us: [info@euroscipy.org](mailto:info@euroscipy.org)
