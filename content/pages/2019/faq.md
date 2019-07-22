@@ -29,7 +29,7 @@ The venue will close around 18:00 each day.
 
 Sprints will be open 9:00 - 18:00 (tbc.).
 
-#### Visa - I need a visa to go to Germany. Could you please write me an invitation letter?
+#### Visa - I need a visa to go to the conference location. Could you please write me an invitation letter?
 
 If you require an invitation letter please fill in [this form](https://docs.google.com/forms/d/1FOh5wVGntsDsPHiBM2Tto23BnKE6PAiGVg7JSdo1uf0/edit) and the letter will be provided to you by email.
 
