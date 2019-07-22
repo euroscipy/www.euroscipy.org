@@ -34,18 +34,18 @@ Please, fill in the [form](https://forms.gle/FBjV9oGA56J8LVhL6).
 ##### Timeline
 
 22.07.2019 - open the grant program
-04.08.2019 - deadline for submitting the applications
+04.08.2019 - **deadline for submitting the applications**
 11.08.2019 - notification of grants awarded
 14.08.2019 - deadline for applicants to accept / decline financial aid
 13.09.2019 - deadline to upload receipts
 
 ##### Refunds
 
-Free ticket: we will send you an individual coupon for registration. In case you
+- **Free ticket:** we will send you an individual coupon for registration. In case you
 have already bought the ticket, we will refund you on the same credit card you
 used for purchasing the ticket.
 
-Accommodation and Travel grant: all grants involving reimbursements will be
+- **Accommodation and Travel grant:** all grants involving reimbursements will be
 reimbursed by bank transfer after the conference. Please, upload your receipts
 (hotel invoice, plane/bus/train tickets) via the Google Form we’ll send you
 after the grant acceptance notice.
