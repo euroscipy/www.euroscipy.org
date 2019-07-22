@@ -4,8 +4,6 @@ save_as: 2019/faq.html
 section: euroscipy_2019
 slug: faq2019
 
-### Frequently Asked Question (FAQ)
-
 #### Who's behind this conference?
 
 As almost all Python and PyData conferences this event is run and organised by volunteers contributing free time and supported by community sponsors contributing work time of their employees. Any conference profits will go back to the community and Open Source via the Python San Sebastian Society (ACPySS).
