@@ -66,14 +66,15 @@ Asociacion de Ciencias de la Programacion Python San Sebastian (ACPySS)
 
 The ACPySS Society board can be reached by email via info@pyss.org . This is an open email to all the board members.
 
-    Twitter: [@acpyss](https://twitter.com/acpyss)
-    Facebook: [Python San Sebastian Page](https://www.facebook.com/acpyss)
+- Twitter: [@acpyss](https://twitter.com/acpyss)
+- Facebook: [Python San Sebastian Page](https://www.facebook.com/acpyss)
 
 ACPySS will be invoicing the conference tickets. If you need to check our VAT ID, here it is:
 
 VAT-ID: ESG75119511
 
 Our address is:
-Asociación de Ciencias de la Programación Python San Sebastián
-P. Manuel Lardizabal 1 Of. 307
-20018 - Donostia, Gipuzkoa
+
+    Asociación de Ciencias de la Programación Python San Sebastián
+    P. Manuel Lardizabal 1 Of. 307
+    20018 - Donostia, Gipuzkoa
