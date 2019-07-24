@@ -52,6 +52,14 @@ Join us on social media:
             </p>
         </td>
         <td>
+            <img src="../static/2019/keynotes/samuel.png"/>
+            <p style="margin-bottom: 3px;">
+                <b style="font-size: 1.2em;">Samuel Farrens</b>
+            </p>
+            <p>
+                Researcher<br/>
+                CEA
+            </p>
         </td>
     </tr>
 </table>
@@ -63,8 +71,10 @@ Join us on social media:
 | May 12     | <s>[Call for talks, posters & tutorials](https://pretalx.com/euroscipy-2019/)</s> |
 | July 7     | <s>End of early bird ticket sales</s>                                             |
 | July 22    | Open the financial aid program                                                    |
+| July 30    | Deadline for Diamond and Platinum sponsoring                                      |
 | Aug 4      | End of financial aid submissions                                                  |
 | Aug 5      | End of regular ticket sales                                                       |
+| Aug 16     | Deadline for all sponsoring packages                                              |
 | Aug 22     | End of online ticket sales                                                        |
 | Sept 2 - 3 | **Tutorials**                                                                     |
 | Sept 4 - 5 | **Main Conference**                                                               |

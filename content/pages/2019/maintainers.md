@@ -28,7 +28,8 @@ All the sessions will take place in the **Elhuyar room**.
 | 14:45  | <b>CI and testing</b><br/><i>Moderated by <a href="https://github.com/Zac-HD">Zac Hatfield-Dodds</a>, pytest, Hypothesis</i>                                                                             |
 | 16:00  | <span class="light">Coffe break</span>                                                                                                                                                                   |
 | 16:30  | (available)                                                                                                                                                                                              |
-| 17:00  | <span class="light">Open space</span>                                                                                                                                                                    |
+| 17:00  | (available)                                                                                                                                                                                              |
+| 18:30  | <span class="light">End</span>                                                                                                                                                                           |
 
 ##### Thursday, 5 September
 
@@ -39,10 +40,10 @@ All the sessions will take place in the **Elhuyar room**.
 | 12:30  | <span class="light">Lunch</span>                                                                                                                                                                         |
 | 14:00  | <span class="light">Open space</span>                                                                                                                                                                    |
 | 14:45  | (available)                                                                                                                                                                                              |
-| 15:30  | <b>Blosc and its ecosystem</b><br/><i>Moderated by <a href="https://twitter.com/FrancescAlted">Francesc Alted</a>, Blosc, PyTables, bcolz,...</i>                                                        |
 | 16:00  | <span class="light">Coffe break</span>                                                                                                                                                                   |
-| 16:30  | (available)                                                                                                                                                                                              |
+| 16:30  | <b>Blosc and its ecosystem</b><br/><i>Moderated by <a href="https://twitter.com/FrancescAlted">Francesc Alted</a>, Blosc, PyTables, bcolz,...</i>                                                        |
 | 17:00  | <span class="light">Open space</span>                                                                                                                                                                    |
+| 18:30  | <span class="light">End</span>                                                                                                                                                                           |
 
 #### Participating projects
 

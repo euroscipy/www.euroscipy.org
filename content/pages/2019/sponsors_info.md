@@ -7,6 +7,13 @@ slug: sponsors-info2019
 If you want your company to become a sponsor, [sign up](https://forms.gle/1FHPEqybSgJjakbp8)
 or contact us at <a href=mailto:sponsoring@euroscipy.org>sponsoring@euroscipy.org</a>.
 
+#### Important dates
+
+|            |                                                                                   |
+|------------|-----------------------------------------------------------------------------------|
+| July 30    | Deadline for Diamond and Platinum sponsoring                                      |
+| Aug 16     | Deadline for all sponsoring packages                                              |
+
 #### European meeting for users of scientific Python software
 
 The conference brings together many of Europe's most talented individuals, among others:
