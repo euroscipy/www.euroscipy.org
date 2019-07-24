@@ -17,7 +17,7 @@ Information about sponsorship is available at the [sponsorship information page]
   </a>
   </td>
   <td style="width:75%">
-El ámbito de trabajo del <a href="http://www.ehu.eus/ccwintco/index.php?title=Home">grupo de Inteligencia Computacional</a> es la aplicación de técnicas de Inteligencia Artificial, basadas en técnicas estadísticas, a diversos aspectos de la percepción y control en sistemas. Las técnicas que se conocen van desde algoritmos de clustering y cuantización vectorial, redes neuronales, Hidden Markov Models, algoritmos supervisados de clasificación, hasta el procesado de imagen y la visión por computador. Las aplicaciones van desde los sistemas de interacción hombre máquina avanzados, control de robots móviles, diagnosis basada en imágenes médicas, sistemas de seguridad en el trabajo basados en inteligencia ambiental, comunicación gestual con personas sordas, hasta la inspección de procesos y productos y la psicología experimental. 
+El ámbito de trabajo del <a href="http://www.ehu.eus/ccwintco/index.php?title=Home">grupo de Inteligencia Computacional</a> es la aplicación de técnicas de Inteligencia Artificial, basadas en técnicas estadísticas, a diversos aspectos de la percepción y control en sistemas. Las técnicas que se conocen van desde algoritmos de clustering y cuantización vectorial, redes neuronales, Hidden Markov Models, algoritmos supervisados de clasificación, hasta el procesado de imagen y la visión por computador. Las aplicaciones van desde los sistemas de interacción hombre máquina avanzados, control de robots móviles, diagnosis basada en imágenes médicas, sistemas de seguridad en el trabajo basados en inteligencia ambiental, comunicación gestual con personas sordas, hasta la inspección de procesos y productos y la psicología experimental.
  </td>
 </tr>
 
@@ -69,3 +69,19 @@ The EPS was formed in 2004, with the mission to turn EuroPython into a successfu
 </tr>
 </table>
 
+### Community sponsors
+
+<table style="table-layout:fixed">
+<tr>
+  <td style="width:25%">
+  <a href="https://www.oreilly.com">
+    <img src='../static/2019/sponsors/oreilly.png' width=150>
+  </a>
+  </td>
+  <td style="width:75%">
+<a href="https://www.oreilly.com">O’Reilly</a> is a learning company that helps individuals, teams, and enterprises build skills to succeed in a world defined by technology-driven transformation.
+From in-person conferences and live online training courses to self-directed learning and immediate access to problem solving online, O’Reilly has you and your team covered.
+
+ </td>
+</tr>
+</table>
