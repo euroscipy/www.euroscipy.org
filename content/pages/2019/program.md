@@ -176,7 +176,7 @@ With the tutorial tickets you can attend any tutorial of any track.
     <td>12:00</td>
     <td><a href="https://pretalx.com/euroscipy-2019/talk/YRJNR8/">Modern Data Science: A new approach to DataFrames and pipelines</a><br/>Maarten Breddels, Jovan Veljanoski</td>
     <td><a href="https://pretalx.com/euroscipy-2019/talk/JJCQQJ/">QuTiP: the quantum toolbox in Python as an ecosystem for quantum physics exploration and quantum information science</a><br/>Alexander Pitchford, Nathan Shammah</td>
-    <td><a href="https://pretalx.com/euroscipy-2019/talk/YHCP9C/">What about tests in Machine Learning projects?</a><br/>Sarah Diot-Girard, Stephanie Bracaloni</td>
+    <td><a href="https://pretalx.com/euroscipy-2019/talk/YHCP9C/">What about tests in Machine Learning projects?</a><br/>Sarah Diot-Girard</td>
 </tr>
 
 <tr>

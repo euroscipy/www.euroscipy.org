@@ -6,7 +6,9 @@ slug: finaid2019
 
 Would you really love to join EuroSciPy but can't afford it? We can help you!
 
-Thanks to the support of the Python Software Foundation, and the EuroPython Society,
+Thanks to the support of [NumFOCUS](https://numfocus.org/),
+the [Python Software Foundation](https://www.python.org/psf/),
+and the [EuroPython Society](https://www.europython-society.org/),
 we are offering a financial aid program to support people who may need it in order to join the conference.
 
 We offer two types of financial aid grants:
