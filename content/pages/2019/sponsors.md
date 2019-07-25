@@ -82,6 +82,31 @@ Information about sponsorship is available at the [sponsorship information page]
 </tr>
 </table>
 
+
+### Bronze sponsors
+
+<table style="table-layout:fixed">
+<tr>
+  <td style="width:25%">
+  <a href="https://python-academy.com/"><img src='../static/2019/sponsors/python_academy.svg' width=150></a>
+  </td>
+  <td style="width:75%">
+    <p>
+        <a href="https://python-academy.com/">Python Academy</a> is a specialized Python training company.
+        We offer open courses for individuals as well as customized on-site courses for companies and
+        institutes. We cover a wide range of Python topics from introductory to
+        advanced, Python for scientists and engineers, big data, machine learning, web
+        development, code optimization, and many more.
+    </p>
+    <p>
+        In addition to training, we consult companies that migrate to Python and
+        develop high-quality Python software often in combination with training. Our
+        special expertise is scientific and technical software development with Python.
+    </p>
+ </td>
+</tr>
+</table>
+
 ### Financial Aid sponsors
 
 <table style="table-layout:fixed">
