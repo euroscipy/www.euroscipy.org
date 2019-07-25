@@ -65,7 +65,8 @@ Information about sponsorship is available at the [sponsorship information page]
   </td>
   <td style="width:75%">
     <p>
-        Intrepid Control Systems provides measurement and data logging hardware solutions for Python developers.
+        <a href="https://www.intrepidcs.com">Intrepid Control Systems</a> provides measurement and data
+        logging hardware solutions for Python developers.
         Our tools capture industrial and laboratory type measurements such as temperature, pressure, voltage,
         and other process measurements. Intrepid hardware can store data in the cloud (IoT) backed by
         integrated analysis using Python on the server.
@@ -92,7 +93,7 @@ Information about sponsorship is available at the [sponsorship information page]
   </td>
   <td style="width:75%">
     <p>
-        The mission of NumFOCUS is to promote open practices in research, data, and scientific computing
+        The mission of <a href="https://numfocus.org">NumFOCUS</a> is to promote open practices in research, data, and scientific computing
         by serving as a fiscal sponsor for open source projects and organizing community-driven educational programs.
     </p>
     <p>
@@ -115,7 +116,7 @@ Information about sponsorship is available at the [sponsorship information page]
   </td>
   <td style="width:75%">
     <p>
-        The Python Software Foundation (PSF) is a 501(c)(3) non-profit corporation that holds the intellectual property rights
+        The <a href="https://www.python.org/psf">Python Software Foundation (PSF)</a> is a 501(c)(3) non-profit corporation that holds the intellectual property rights
         behind the Python programming language. We manage the open source licensing for Python version 2.1 and later
         and own and protect the trademarks associated with Python. We also run the North American PyCon conference annually,
         support other Python conferences around the world, and fund Python related development with our grants program and by funding special projects.
