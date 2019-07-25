@@ -49,7 +49,7 @@ With the tutorial tickets you can attend any tutorial of any track.
 
 <tr>
     <td>14:00</td>
-    <td>Introduction to pandas</td>
+    <td><a href="https://pretalx.com/euroscipy-2019/talk/G7CTX8/">Introduction to pandas</a><br/>Marc Garcia</td>
     <td><a href="https://pretalx.com/euroscipy-2019/talk/L8LMQR/">Create CUDA kernels from Python using Numba and CuPy.</a><br/>Valentin Haenel</td>
     <td><a href="https://pretalx.com/euroscipy-2019/talk/3MG8K3/">Building data pipelines in Python: Airflow vs scripts soup</a><br/>Dr. Tania Allard</td>
 </tr>
@@ -157,7 +157,7 @@ With the tutorial tickets you can attend any tutorial of any track.
 
 <tr>
     <td>10:15</td>
-    <td colspan="3" style="text-align: center; color: #404040;">Keynote</td>
+    <td colspan="3" style="text-align: center; color: #404040;">Keynote - Samuel Farrens: From Galaxies to Brains! - Image processing with Python</td>
 </tr>
 
 <tr>
@@ -200,7 +200,7 @@ With the tutorial tickets you can attend any tutorial of any track.
     <td>15:15</td>
     <td><a href="https://pretalx.com/euroscipy-2019/talk/BLPA7N/">Caterva: A Compressed And Multidimensional Container For Big Data</a><br/>Francesc Alted</td>
     <td><a href="https://pretalx.com/euroscipy-2019/talk/PEJPDG/">ToFu - an open-source python/cython library for synthetic tomography diagnostics on Tokamaks</a><br/>Didier VEZINET, Laura Mendoza</td>
-    <td><a href="https://pretalx.com/euroscipy-2019/talk/UMWUTW/">Dashboarding with Jupyter notebooks, voila and widgets</a><br/>Maarten Breddels</td>
+    <td><a href="https://pretalx.com/euroscipy-2019/talk/UMWUTW/">Dashboarding with Jupyter notebooks, voila and widgets</a><br/>Maarten Breddels, Martin Renou</td>
 </tr>
 
 <tr>
@@ -263,7 +263,7 @@ With the tutorial tickets you can attend any tutorial of any track.
 
 <tr>
     <td>9:15</td>
-    <td colspan="3" style="text-align: center; color: #404040;">Keynote</td>
+    <td colspan="3" style="text-align: center; color: #404040;">Keynote - David Liu: HPC and Python: Intel’s work in enabling the scientific computing community</td>
 </tr>
 
 <tr>
@@ -294,7 +294,7 @@ With the tutorial tickets you can attend any tutorial of any track.
 
 <tr>
     <td>12:00</td>
-    <td><a href="https://pretalx.com/euroscipy-2019/talk/SKNH3X/">High quality video experience using deep neural networks</a><br/>Marco Bertini</td>
+    <td><a href="https://pretalx.com/euroscipy-2019/talk/SKNH3X/">High quality video experience using deep neural networks</a><br/>Tiberio Uricchio</td>
     <td><a href="https://pretalx.com/euroscipy-2019/talk/SKAH3U/">A practical guide towards algorithmic bias and explainability in machine learning</a><br/>Alejandro Saucedo</td>
     <td><a href="https://pretalx.com/euroscipy-2019/talk/F8X9BY/">Matrix calculus with SymPy</a><br/>Francesco Bonazzi</td>
 </tr>
@@ -306,12 +306,12 @@ With the tutorial tickets you can attend any tutorial of any track.
 
 <tr>
     <td>14:00</td>
-    <td colspan="3" style="text-align: center; color: #404040;">Keynote</td>
+    <td colspan="3" style="text-align: center; color: #404040;">Keynote - Sara Issaoun: In the Shadow of the Black Hole</td>
 </tr>
 
 <tr>
     <td>14:45</td>
-    <td><a href="https://pretalx.com/euroscipy-2019/talk/FHUQMW/">PyTorch is not only for deep learning!</a><br/>Alexey Sizanov</td>
+    <td>TBC</td>
     <td><a href="https://pretalx.com/euroscipy-2019/talk/EDNVGJ/">Understanding Numba</a><br/>Valentin Haenel</td>
     <td><a href="https://pretalx.com/euroscipy-2019/talk/FLM8R7/">VeloxChem: Python meets quantum chemistry and HPC</a><br/>Olav Vahtras</td>
 </tr>
