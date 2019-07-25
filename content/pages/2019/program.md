@@ -121,7 +121,7 @@ With the tutorial tickets you can attend any tutorial of any track.
 
 <tr>
     <td>16:00</td>
-    <td>Astrophysics</td>
+    <td>TBC</td>
     <td><a href="https://pretalx.com/euroscipy-2019/talk/HVEBGU/">kCSD - a Python package for reconstruction of brain activity</a><br/>Jakub M. Dzik, Marta Kowalska</td>
     <td>TBC</td>
 </tr>
