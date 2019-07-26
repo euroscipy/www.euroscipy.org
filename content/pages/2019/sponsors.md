@@ -83,6 +83,29 @@ Information about sponsorship is available at the [sponsorship information page]
 </table>
 
 
+### Gold sponsors
+
+<table style="table-layout:fixed">
+<tr>
+  <td style="width:25%">
+  <a href="https://software.intel.com/en-us/distribution-for-python"><img src='../static/2019/sponsors/intel.png' width=150></a>
+  </td>
+  <td style="width:75%">
+    <p>
+        Intel®, a world leader in computing innovation, delivers highly optimized Python Packages to developers.
+        Achieve faster Python* application performance—right out of the box—with minimal or no changes to your code.
+        Accelerated NumPy*, SciPy*, and scikit-learn* via integrated Intel® Performance Libraries such as
+        Intel® Math Kernel Library and Intel® Data Analytics Acceleration Library.
+        Access the latest vectorization and multithreading instructions via Numba* and Cython*,
+        composable parallelism with Threading Building Blocks.
+    </p>
+    <p>
+        Download <a href="https://software.intel.com/en-us/distribution-for-python">Intel Distribution for Python</a> today.
+    </p>
+ </td>
+</tr>
+</table>
+
 ### Bronze sponsors
 
 <table style="table-layout:fixed">

@@ -24,11 +24,11 @@ All the sessions will take place in the **Elhuyar room**.
 | 10:00  | <span class="light">Open space</span>                                                                                                                                                                    |
 | 11:30  | <b>Python visualisation tools</b><br/><i>Moderated by <a href="https://github.com/timhoffm">Tim Hoffmann</a>, Matplotlib</i>                                                                             |
 | 12:30  | <span class="light">Lunch</span>                                                                                                                                                                         |
-| 14:00  | <span class="light">Open source project updates (main track)</span>                                                                                                                                      |
+| 14:00  | <span class="light">Open source project updates (<a href="program.html">main track</a>)</span>                                                                                                                                      |
 | 14:45  | <b>CI and testing</b><br/><i>Moderated by <a href="https://github.com/Zac-HD">Zac Hatfield-Dodds</a>, pytest, Hypothesis</i>                                                                             |
 | 16:00  | <span class="light">Coffe break</span>                                                                                                                                                                   |
-| 16:30  | (available)                                                                                                                                                                                              |
-| 17:00  | (available)                                                                                                                                                                                              |
+| 16:30  | <b>Diversity in open source projects</b><br/><i>Moderated by <a href="https://twitter.com/ixek">Dr. Tania Allard</a></i>                                                                                 |
+| 17:00  | <b>Maintainers plenary session</b><br/><i>Moderated by <a href="https://twitter.com/SylvainCorlay">Sylvain Corlay</a>, NumFOCUS, Jupyter</i>                                                             |
 | 18:30  | <span class="light">End</span>                                                                                                                                                                           |
 
 ##### Thursday, 5 September
@@ -39,7 +39,7 @@ All the sessions will take place in the **Elhuyar room**.
 | 10:30  | <b><a target="_blank" href="https://github.com/python-sprints/dataframe-summit/">Dataframe summit</a></b><br/><i>Moderated by <a href="https://twitter.com/datapythonista">Marc Garcia</a>, pandas</i>   |
 | 12:30  | <span class="light">Lunch</span>                                                                                                                                                                         |
 | 14:00  | <span class="light">Open space</span>                                                                                                                                                                    |
-| 14:45  | (available)                                                                                                                                                                                              |
+| 14:45  | <b>Array computing</b><br/>                                                                                                                                                                              |
 | 16:00  | <span class="light">Coffe break</span>                                                                                                                                                                   |
 | 16:30  | <b>Blosc and its ecosystem</b><br/><i>Moderated by <a href="https://twitter.com/FrancescAlted">Francesc Alted</a>, Blosc, PyTables, bcolz,...</i>                                                        |
 | 17:00  | <span class="light">Open space</span>                                                                                                                                                                    |
@@ -122,6 +122,10 @@ Maintainers of the next projects have confirmed attendance to the conference:
         <td>
             <a href="https://caterva.readthedocs.io/en/latest/"><img src='../static/2019/projects/caterva.png'></a>
             <a href="https://caterva.readthedocs.io/en/latest/">Caterva</a>
+        </td>
+        <td>
+            <a href="https://dask.org/"><img src='../static/2019/projects/dask.png'></a>
+            <a href="https://dask.org/">Dask</a>
         </td>
         <td>
         </td>

@@ -49,7 +49,7 @@ With the tutorial tickets you can attend any tutorial of any track.
 
 <tr>
     <td>14:00</td>
-    <td><a href="https://pretalx.com/euroscipy-2019/talk/G7CTX8/">Introduction to pandas</a><br/>Marc Garcia</td>
+    <td><a href="https://pretalx.com/euroscipy-2019/talk/G7CTX8/">Introduction to pandas I</a><br/>Marc Garcia</td>
     <td><a href="https://pretalx.com/euroscipy-2019/talk/L8LMQR/">Create CUDA kernels from Python using Numba and CuPy.</a><br/>Valentin Haenel</td>
     <td><a href="https://pretalx.com/euroscipy-2019/talk/3MG8K3/">Building data pipelines in Python: Airflow vs scripts soup</a><br/>Dr. Tania Allard</td>
 </tr>
@@ -61,7 +61,7 @@ With the tutorial tickets you can attend any tutorial of any track.
 
 <tr>
     <td>16:00</td>
-    <td><a href="https://pretalx.com/euroscipy-2019/talk/RHUPZ3/">A Tour of the Data Visualization Ecosystem of Python</a><br/>Giovanni De Gasperis</td>
+    <td><a href="https://pretalx.com/euroscipy-2019/talk/G7CTX8/">Introduction to pandas II</a><br/>Marc Garcia</td>
     <td><a href="https://pretalx.com/euroscipy-2019/talk/MNAGWC/">Speed up your python code</a><br/>Jérémie du Boisberranger</td>
     <td><a href="https://pretalx.com/euroscipy-2019/talk/J3HEDH/">Performing Quantum Measurements in QuTiP</a><br/>Simon Cross</td>
 </tr>
@@ -85,7 +85,7 @@ With the tutorial tickets you can attend any tutorial of any track.
 
 <tr>
     <td>09:00</td>
-    <td><a href="https://pretalx.com/euroscipy-2019/talk/WSNPK7">Introduction to SciPy</a><br />Gert-Ludwig Ingold</td>
+    <td><a href="https://pretalx.com/euroscipy-2019/talk/RHUPZ3/">A Tour of the Data Visualization Ecosystem of Python</a><br/>Giovanni De Gasperis</td>
     <td><a href="https://pretalx.com/euroscipy-2019/talk/ZHQALW/">Sufficiently Advanced Testing with Hypothesis</a><br/>Zac Hatfield-Dodds</td>
     <td><a href="https://pretalx.com/euroscipy-2019/talk/YKPNEE/">Introduction to geospatial data analysis with GeoPandas and the PyData stack</a><br/>Joris Van den Bossche</td>
 </tr>
@@ -97,9 +97,9 @@ With the tutorial tickets you can attend any tutorial of any track.
 
 <tr>
     <td>11:00</td>
+    <td><a href="https://pretalx.com/euroscipy-2019/talk/WSNPK7">Introduction to SciPy</a><br />Gert-Ludwig Ingold</td>
     <td><a href="https://pretalx.com/euroscipy-2019/talk/M3RZXE/">Effectively using matplotlib</a><br/>Tim Hoffmann</td>
-    <td>TBC</td>
-    <td>TBC</td>
+    <td><a href="https://pretalx.com/euroscipy-2019/talk/SMLGVL/">Astronomical Image Processing</a><br/>Samuel Farrens</td>
 </tr>
 
 <tr>
@@ -109,7 +109,7 @@ With the tutorial tickets you can attend any tutorial of any track.
 
 <tr>
     <td>14:00</td>
-    <td><a href="https://pretalx.com/euroscipy-2019/talk/XXJGGG/">Introduction to scikit-learn: from model fitting to model interpretation</a><br/>Olivier Grisel, Guillaume Lemaitre</td>
+    <td><a href="https://pretalx.com/euroscipy-2019/talk/XXJGGG/">Introduction to scikit-learn: from model fitting to model interpretation I</a><br/>Olivier Grisel, Guillaume Lemaitre</td>
     <td><a href="https://pretalx.com/euroscipy-2019/talk/NQMWSX/">CFFI, Ctypes, Cython, Cppyy: how to run C code from Python</a><br/>Matti Picus</td>
     <td><a href="https://pretalx.com/euroscipy-2019/talk/CQCKY9/">Parallelizing Python applications with PyCOMPSs</a><br/>Javier Conejero</td>
 </tr>
@@ -121,7 +121,7 @@ With the tutorial tickets you can attend any tutorial of any track.
 
 <tr>
     <td>16:00</td>
-    <td>TBC</td>
+    <td><a href="https://pretalx.com/euroscipy-2019/talk/XXJGGG/">Introduction to scikit-learn: from model fitting to model interpretation II</a><br/>Olivier Grisel, Guillaume Lemaitre</td>
     <td><a href="https://pretalx.com/euroscipy-2019/talk/HVEBGU/">kCSD - a Python package for reconstruction of brain activity</a><br/>Jakub M. Dzik, Marta Kowalska</td>
     <td>TBC</td>
 </tr>
@@ -157,7 +157,7 @@ With the tutorial tickets you can attend any tutorial of any track.
 
 <tr>
     <td>10:15</td>
-    <td colspan="3" style="text-align: center; color: #404040;">Keynote - Samuel Farrens: From Galaxies to Brains! - Image processing with Python</td>
+    <td colspan="3" style="text-align: center; color: #404040;">Keynote: <b>Samuel Farrens</b><br/>From Galaxies to Brains! - Image processing with Python</td>
 </tr>
 
 <tr>
@@ -231,7 +231,12 @@ With the tutorial tickets you can attend any tutorial of any track.
 
 <tr>
     <td>17:00</td>
-    <td colspan="3" style="text-align: center; color: #404040;">Poster introduction</td>
+    <td colspan="3" style="text-align: center; color: #404040;">
+        Poster introduction
+        <br/>
+        (<span class="light">Maintainers plenary session -</span>
+        <a href="maintainers.html">maintainers track</a>)
+    </td>
 </tr>
 
 <tr>
@@ -263,7 +268,7 @@ With the tutorial tickets you can attend any tutorial of any track.
 
 <tr>
     <td>9:15</td>
-    <td colspan="3" style="text-align: center; color: #404040;">Keynote - David Liu: HPC and Python: Intel’s work in enabling the scientific computing community</td>
+    <td colspan="3" style="text-align: center; color: #404040;">Keynote: <b>David Liu</b><br/>HPC and Python: Intel’s work in enabling the scientific computing community</td>
 </tr>
 
 <tr>
@@ -295,7 +300,7 @@ With the tutorial tickets you can attend any tutorial of any track.
 <tr>
     <td>12:00</td>
     <td><a href="https://pretalx.com/euroscipy-2019/talk/SKNH3X/">High quality video experience using deep neural networks</a><br/>Tiberio Uricchio</td>
-    <td><a href="https://pretalx.com/euroscipy-2019/talk/SKAH3U/">A practical guide towards algorithmic bias and explainability in machine learning</a><br/>Alejandro Saucedo</td>
+    <td><a href="https://pretalx.com/euroscipy-2019/talk/QU88B8/">xtensor, xframe: data structures for data sciences</a><br/>Sylvain Corlay, Wolf Vollprecht</td>
     <td><a href="https://pretalx.com/euroscipy-2019/talk/F8X9BY/">Matrix calculus with SymPy</a><br/>Francesco Bonazzi</td>
 </tr>
 
@@ -306,12 +311,12 @@ With the tutorial tickets you can attend any tutorial of any track.
 
 <tr>
     <td>14:00</td>
-    <td colspan="3" style="text-align: center; color: #404040;">Keynote - Sara Issaoun: In the Shadow of the Black Hole</td>
+    <td colspan="3" style="text-align: center; color: #404040;">Keynote: <b>Sara Issaoun</b><br/>In the Shadow of the Black Hole</td>
 </tr>
 
 <tr>
     <td>14:45</td>
-    <td>TBC</td>
+    <td><a href="https://pretalx.com/euroscipy-2019/talk/SKAH3U/">A practical guide towards algorithmic bias and explainability in machine learning</a><br/>Alejandro Saucedo</td>
     <td><a href="https://pretalx.com/euroscipy-2019/talk/EDNVGJ/">Understanding Numba</a><br/>Valentin Haenel</td>
     <td><a href="https://pretalx.com/euroscipy-2019/talk/FLM8R7/">VeloxChem: Python meets quantum chemistry and HPC</a><br/>Olav Vahtras</td>
 </tr>
@@ -403,6 +408,7 @@ If you want to propose a sprint, please send us a message to
         <ul>
             <li>Improving docs for Blosc2 & Caterva</li>
             <li>PyPy</li>
+            <li>Tensorflow</li>
         </ul>
     </td>
     <td>Mentored sprint for beginners in open source from underrepresented minorities</td>
