@@ -106,6 +106,24 @@ Information about sponsorship is available at the [sponsorship information page]
 </tr>
 </table>
 
+### Silver sponsors
+
+<table style="table-layout:fixed">
+<tr>
+  <td style="width:25%">
+  <a href="https://www.enthought.com/"><img src='../static/2019/sponsors/enthought.png' width=150></a>
+  </td>
+  <td style="width:75%">
+    <p>
+      Founded in 2001, [Enthought](https://www.enthought.com/) helped establish Python's scientific community and became an early leader in scientific digital transformation. Our team of “scientists who code” pairs in-depth science expertise with data strategy, modeling, simulation, AI and more to transform businesses that depend on science. We solve complex problems for some of the most innovative and respected organizations across the oil and gas, life sciences, chemical, and semiconductor industries. Enthought is a highly collaborative, low-hierarchy workplace. "Enthoughters" are passionate about life, intellectually curious, dedicated to doing quality work, friendly, and fun. Enthought is headquartered in Austin, Texas, with offices in Houston, Texas, Cambridge, United Kingdom, Zürich, Switzerland, and Tokyo, Japan.
+    </p>
+    <p>
+        Download <a href="https://software.intel.com/en-us/distribution-for-python">Intel Distribution for Python</a> today.
+    </p>
+ </td>
+</tr>
+</table>
+
 ### Bronze sponsors
 
 <table style="table-layout:fixed">
