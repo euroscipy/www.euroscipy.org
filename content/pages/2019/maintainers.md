@@ -27,7 +27,7 @@ All the sessions will take place in the **Elhuyar room**.
 | 14:00  | <span class="light">Open source project updates (<a href="program.html">main track</a>)</span>                                                                                                           |
 | 14:45  | <b>CI and testing</b><br/><i>Moderated by <a href="https://github.com/Zac-HD">Zac Hatfield-Dodds</a>, pytest, Hypothesis</i>                                                                             |
 | 16:00  | <span class="light">Coffe break</span>                                                                                                                                                                   |
-| 16:30  | <b>Array computing</b><br/>><i>Moderated by <a href="https://twitter.com/esc___">Valentin Haenel</a>, Numba, Blosc</i>                                                                                   |
+| 16:30  | <b>Burn out and emotional cost of maintaining open source</b>                                                                                                                                            |
 | 17:00  | <b>Maintainers plenary session</b><br/><i>Moderated by <a href="https://twitter.com/SylvainCorlay">Sylvain Corlay</a>, NumFOCUS, Jupyter</i>                                                             |
 | 18:30  | <span class="light">End</span>                                                                                                                                                                           |
 
