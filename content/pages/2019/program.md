@@ -175,7 +175,7 @@ With the tutorial tickets you can attend any tutorial of any track.
 <tr>
     <td>11:30</td>
     <td><a href="https://pretalx.com/euroscipy-2019/talk/9DPFGM/">Distributed GPU Computing with Dask</a><br/>Peter Andreas Entschev</td>
-    <td><b>Diamond sponsor talk</b><br>More info about sponsoring <a href="sponsors_info.html">here</a></td>
+    <td><a href="#">TBC</a>Miren Urteaga</td>
     <td><a href="https://pretalx.com/euroscipy-2019/talk/SZ8S8G/">Sufficiently Advanced Testing with Hypothesis</a><br/>Zac Hatfield-Dodds</td>
 </tr>
 
@@ -307,7 +307,7 @@ With the tutorial tickets you can attend any tutorial of any track.
 <tr>
     <td>12:00</td>
     <td><a href="https://pretalx.com/euroscipy-2019/talk/SKNH3X/">High quality video experience using deep neural networks</a><br/>Tiberio Uricchio</td>
-    <td><a href="https://pretalx.com/euroscipy-2019/talk/QU88B8/">xtensor, xframe: data structures for data sciences</a><br/>Sylvain Corlay, Wolf Vollprecht</td>
+    <td><a href="https://pretalx.com/euroscipy-2019/talk/QU88B8/">Data sciences in a polyglot world with xtensor and xframe</a><br/>Sylvain Corlay, Wolf Vollprecht</td>
     <td><a href="https://pretalx.com/euroscipy-2019/talk/F8X9BY/">Matrix calculus with SymPy</a><br/>Francesco Bonazzi</td>
 </tr>
 

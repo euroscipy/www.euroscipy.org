@@ -70,8 +70,7 @@ Join us on social media:
 |------------|-----------------------------------------------------------------------------------|
 | May 12     | <s>[Call for talks, posters & tutorials](https://pretalx.com/euroscipy-2019/)</s> |
 | July 7     | <s>End of early bird ticket sales</s>                                             |
-| July 22    | Open the financial aid program                                                    |
-| July 30    | Deadline for Diamond and Platinum sponsoring                                      |
+| July 30    | <s>Deadline for Diamond and Platinum sponsoring</s>                               |
 | Aug 4      | End of financial aid submissions                                                  |
 | Aug 5      | End of regular ticket sales                                                       |
 | Aug 16     | Deadline for all sponsoring packages                                              |

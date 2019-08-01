@@ -115,10 +115,17 @@ Information about sponsorship is available at the [sponsorship information page]
   </td>
   <td style="width:75%">
     <p>
-      Founded in 2001, [Enthought](https://www.enthought.com/) helped establish Python's scientific community and became an early leader in scientific digital transformation. Our team of “scientists who code” pairs in-depth science expertise with data strategy, modeling, simulation, AI and more to transform businesses that depend on science. We solve complex problems for some of the most innovative and respected organizations across the oil and gas, life sciences, chemical, and semiconductor industries. Enthought is a highly collaborative, low-hierarchy workplace. "Enthoughters" are passionate about life, intellectually curious, dedicated to doing quality work, friendly, and fun. Enthought is headquartered in Austin, Texas, with offices in Houston, Texas, Cambridge, United Kingdom, Zürich, Switzerland, and Tokyo, Japan.
+      Founded in 2001, <a href="https://www.enthought.com/">Enthought</a> helped establish Python's scientific community
+      and became an early leader in scientific digital transformation. Our team of "scientists who code" pairs in-depth
+      science expertise with data strategy, modeling, simulation, AI and more to transform businesses that depend on science.
     </p>
     <p>
-        Download <a href="https://software.intel.com/en-us/distribution-for-python">Intel Distribution for Python</a> today.
+      We solve complex problems for some of the most innovative and respected organizations across the oil and gas,
+      life sciences, chemical, and semiconductor industries. Enthought is a highly collaborative, low-hierarchy workplace.
+      "Enthoughters" are passionate about life, intellectually curious, dedicated to doing quality work, friendly, and fun.
+    </p>
+    <p>
+      Enthought is headquartered in Austin, Texas, with offices in Houston, Texas, Cambridge, United Kingdom, Zürich, Switzerland, and Tokyo, Japan.
     </p>
  </td>
 </tr>
@@ -232,6 +239,25 @@ Information about sponsorship is available at the [sponsorship information page]
         teams, and enterprises build skills to succeed in a world defined by technology-driven transformation.
         From in-person conferences and live online training courses to self-directed learning
         and immediate access to problem solving online, O’Reilly has you and your team covered.
+    </p>
+ </td>
+</tr>
+</table>
+
+<table style="table-layout:fixed">
+<tr>
+  <td style="width:25%">
+  <a href="http://stickermule.com/supports/euroscipy19-sponsorship">
+    <img src='../static/2019/sponsors/stickermule.png' width=150>
+  </a>
+  </td>
+  <td style="width:75%">
+    <p>
+        <a href="http://stickermule.com/supports/euroscipy19-sponsorship">Sticker Mule</a>
+        is the fastest and easiest way to buy custom printed
+        products. Thousands of people trust us to make kick ass stickers, labels,
+        magnets, badges & more. Order in seconds and get free online proofs, free
+        shipping and super fast turnaround.
     </p>
  </td>
 </tr>
