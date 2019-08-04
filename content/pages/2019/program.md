@@ -175,7 +175,7 @@ With the tutorial tickets you can attend any tutorial of any track.
 <tr>
     <td>11:30</td>
     <td><a href="https://pretalx.com/euroscipy-2019/talk/9DPFGM/">Distributed GPU Computing with Dask</a><br/>Peter Andreas Entschev</td>
-    <td><a href="#">TBC</a>Miren Urteaga</td>
+    <td><a href="https://pretalx.com/euroscipy-2019/talk/YU8EML/">How a voice assistant works</a><br/>Miren Urteaga</td>
     <td><a href="https://pretalx.com/euroscipy-2019/talk/SZ8S8G/">Sufficiently Advanced Testing with Hypothesis</a><br/>Zac Hatfield-Dodds</td>
 </tr>
 

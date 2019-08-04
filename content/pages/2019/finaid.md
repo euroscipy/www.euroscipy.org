@@ -29,7 +29,7 @@ communities, and contributors to community projects.
 
 #### How to apply
 
-Please, fill in the [form](https://forms.gle/FBjV9oGA56J8LVhL6).
+The deadline for submissions was the 4th of August. We will notify the awarded applicants soon.
 
 ##### Timeline
 
