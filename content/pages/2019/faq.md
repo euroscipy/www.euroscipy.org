@@ -103,6 +103,15 @@ There will be no guaranteed internet for the talks, try to avoid making your pre
 Use internet at your own risk.
 Though we try our best briefing the providers - conference WiFi performance might not meet everyone's expectations.
 
+#### Could you give more details about the poster session?
+
+The panels for the posters will be installed in the morning of the poster session day (look the schedule)
+in the hall and will be removed on the same day at the end of the conference,
+so authors can hang up their posters for entire day.
+
+The size of the panel is: **100x250 cm**.
+
+
 <h3 id="tickets">Tickets</h3>
 
 #### What is the right ticket to buy?
@@ -237,12 +246,16 @@ All sponsoring package prices are net plus statutory VAT in the amount valid at 
 
 #### Where to send the Merchandise as a Sponsor?
 
-Bizkaia Aretoa  
-Contact: Darya Chyzhyk  
-EuroSciPy 2019 / exhibition or swag  
-Avda. Abandoibarra etorbidea, 3  
-48009 Bilbao  
-Spain
+Bizkaia Aretoa
 
+Contact: Darya Chyzhyk
+
+EuroSciPy 2019 / exhibition or swag
+
+Avda. Abandoibarra etorbidea, 3
+
+48009 Bilbao
+
+Spain
 
 If you did not find the answer you are looking for above, contact us: [info@euroscipy.org](mailto:info@euroscipy.org)

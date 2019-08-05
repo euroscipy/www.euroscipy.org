@@ -82,7 +82,6 @@ Information about sponsorship is available at the [sponsorship information page]
 </tr>
 </table>
 
-
 ### Gold sponsors
 
 <table style="table-layout:fixed">
@@ -104,6 +103,23 @@ Information about sponsorship is available at the [sponsorship information page]
     </p>
  </td>
 </tr>
+
+<tr>
+  <td style="width:25%">
+  <a href="https://www.tensorflow.org/"><img src='../static/2019/sponsors/tensorflow.png' width=150></a>
+  </td>
+  <td style="width:75%">
+    <p>
+        TensorFlow is an end-to-end open source platform for machine learning.
+        TensorFlow makes it easy for beginners and experts to help develop and train ML models.
+    </p>
+    <p>
+        Get started quickly by running Colab notebooks directly in your browser.
+        Learn more at <a href="https://www.tensorflow.org/">https://www.tensorflow.org/</a>
+    </p>
+ </td>
+</tr>
+
 </table>
 
 ### Silver sponsors

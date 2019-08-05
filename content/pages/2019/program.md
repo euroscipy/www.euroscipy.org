@@ -15,6 +15,13 @@ This program may be subject to changes.
 - [Thursday, 5 September](#thursday)
 - [Friday, 6 September](#friday)
 
+### Poster session
+
+The panels for the posters will be installed in the morning of the poster session day (look the schedule)
+in the hall and will be removed on the same day at the end of the conference,
+so authors can hang up their posters for entire day.
+
+The size of the panel is: **100x250 cm**.
 
 ### Tutorials
 
