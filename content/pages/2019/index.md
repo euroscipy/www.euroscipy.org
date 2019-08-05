@@ -72,7 +72,7 @@ Join us on social media:
 | July 7     | <s>End of early bird ticket sales</s>                                             |
 | July 30    | <s>Deadline for Diamond and Platinum sponsoring</s>                               |
 | Aug 4      | <s>End of financial aid submissions</s>                                           |
-| Aug 5      | End of regular ticket sales                                                       |
+| Aug 5      | <s>End of regular ticket sales</s>                                                |
 | Aug 16     | Deadline for all sponsoring packages                                              |
 | Aug 22     | End of online ticket sales                                                        |
 | Sept 2 - 3 | **Tutorials**                                                                     |
