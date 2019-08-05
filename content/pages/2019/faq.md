@@ -247,11 +247,15 @@ All sponsoring package prices are net plus statutory VAT in the amount valid at 
 #### Where to send the Merchandise as a Sponsor?
 
 Bizkaia Aretoa
-Contact: Darya Chyzhyk
-EuroSciPy 2019 / exhibition or swag
-Avda. Abandoibarra etorbidea, 3
-48009 Bilbao
-Spain
 
+Contact: Darya Chyzhyk
+
+EuroSciPy 2019 / exhibition or swag
+
+Avda. Abandoibarra etorbidea, 3
+
+48009 Bilbao
+
+Spain
 
 If you did not find the answer you are looking for above, contact us: [info@euroscipy.org](mailto:info@euroscipy.org)
