@@ -169,6 +169,26 @@ Information about sponsorship is available at the [sponsorship information page]
     </p>
  </td>
 </tr>
+
+<tr>
+  <td style="width:25%">
+  <a href="https://www.microsoft.com"><img src='../static/2019/sponsors/microsoft.png' width=150></a>
+  </td>
+  <td style="width:75%">
+    <p>
+        At <a href="https://www.microsoft.com">Microsoft</a>, our mission is to
+        empower every person and every organization on the planet to achieve more.
+        With Microsoft Azure you can build,deploy, and manage applications with
+        a comprehensive set of cloud services designed for you.
+    </p>
+    <p>
+        Learn more about Microsoft and the endless possibilities with Microsoft Azure on Monday,
+        September 2 with Dr. Tania Allard during her session, Building data pipelines
+        in Python: Airflow vs scripts soup. We are excited to see you at EuroSciPy 2019!
+    </p>
+ </td>
+</tr>
+
 </table>
 
 ### Financial Aid sponsors
