@@ -33,7 +33,7 @@ Join us on social media:
         <img class="photo" alt="" src="../static/2019/seed_badge.png"/>
     </a>
     <p>
-        EuroSciPy aims to be a conference respectful with the environment. For this reason we
+        EuroSciPy aims to be a conference respectful of the environment. For this reason we
         are taking few actions:
     </p>
     <ul>
