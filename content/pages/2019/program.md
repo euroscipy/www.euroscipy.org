@@ -299,7 +299,7 @@ With the tutorial tickets you can attend any tutorial of any track.
 
 <tr>
     <td>11:00</td>
-    <td><a href="https://pretalx.com/euroscipy-2019/talk/VQLUSG/">Introduction to TensorFlow 2.0</a><br/>Brad Miro</td>
+    <td><a href="#">TBC</a><br/>Paige Bailey</td>
     <td><a href="https://pretalx.com/euroscipy-2019/talk/H3NTLX/">Histogram-based Gradient Boosting in scikit-learn 0.21</a><br/>Olivier Grisel</td>
     <td><a href="https://pretalx.com/euroscipy-2019/talk/TXQW9H/">Exceeding Classical: Probabilistic Data Structures in Data Intensive Applications</a><br/>Andrii Gakhov</td>
 </tr>

@@ -298,3 +298,21 @@ Information about sponsorship is available at the [sponsorship information page]
  </td>
 </tr>
 </table>
+
+<table style="table-layout:fixed">
+<tr>
+  <td style="width:25%">
+  <a href="https://www.jetbrains.com">
+    <img src='../static/2019/sponsors/jetbrains.png' width=150>
+  </a>
+  </td>
+  <td style="width:75%">
+    <p>
+        At <a href="https://www.jetbrains.com">JetBrains</a>, code is our passion.
+        For over 15 years we have strived to make the strongest,
+        most effective developer tools on earth. By automating routine checks and corrections,
+        our tools speed up production, freeing developers to grow, discover and create.
+    </p>
+ </td>
+</tr>
+</table>
