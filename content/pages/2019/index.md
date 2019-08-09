@@ -27,6 +27,32 @@ Join us on social media:
   </td>
 </table>
 
+<div id="ecoscipy">
+    <h4><img alt="" src="../static/2019/recycle.png"/>EcoSciPy</h4>
+    <a href="../static/2019/seed_badge.png" target="_blank">
+        <img class="photo" alt="" src="../static/2019/seed_badge.png"/>
+    </a>
+    <p>
+        EuroSciPy aims to be a conference respectful with the environment. For this reason we
+        are taking few actions:
+    </p>
+    <ul>
+        <li>
+            <b>Bring your own lanyard</b> from another conference or work. No lanyards will be provided,
+            using a different one for each conference generates unnecessary waste.
+        </li>
+        <li>
+            <b>Seed your badge</b> after the conference, you will get chamomile!
+            Your badge will be made of recycled cotton that doesn't require toxic chemicals to be produced,
+            and contains seeds.
+        </li>
+        <li>
+            <b>No disposable tableware</b> will be used, all food will be served with
+            porcelain plates and metal cutlery. Except for the wooden toothpicks of the pintxos of course. :)
+        </li>
+    </ul>
+</div>
+
 ### Keynote speakers
 
 <table class="projects">

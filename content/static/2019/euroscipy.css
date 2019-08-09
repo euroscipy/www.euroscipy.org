@@ -35,3 +35,27 @@ table.projects a {
 .light {
     color: #808080;
 }
+#ecoscipy {
+    background-color: #dff7d6;
+    padding: 10px 20px;
+    border-radius: 10px;
+    border: solid 1px #007f00;
+    margin-bottom: 30px;
+}
+#ecoscipy * {
+    color: #007f00;
+}
+#ecoscipy h4 img {
+    width: 25px;
+    margin-right: 10px;
+}
+#ecoscipy img.photo {
+    width: 200px;
+    float: right;
+    margin: 0 15px 10px;
+    border-radius: 3px;
+    border: solid 1px #007f00;
+}
+#ecoscipy li {
+    margin-bottom: 20px;
+}
