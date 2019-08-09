@@ -38,8 +38,9 @@ Join us on social media:
     </p>
     <ul>
         <li>
-            <b>Bring your own lanyard</b> from another conference or work. No lanyards will be provided,
-            using a different one for each conference generates unnecessary waste.
+            <b>No lanyards will be provided</b>. Bring your own lanyard from another conference or work
+            (or be creative making your own).
+            Using a different lanyard for every conference generates unnecessary waste.
         </li>
         <li>
             <b>Seed your badge</b> after the conference, you will get chamomile!
