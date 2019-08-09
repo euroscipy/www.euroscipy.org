@@ -66,7 +66,7 @@ publish:
 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(PUBLISHCONF) $(PELICANOPTS)
 
 rsync: publish
-	rsync -e "ssh -p $(SSH_PORT)" -P -auvz --delete --chown=:euroscipyweb --exclude="2013" --exclude="2014" --exclude="2015" --exclude="2016" --exclude="2016_static_20160429" $(OUTPUTDIR)/ $(SSH_USER)@$(SSH_HOST):$(SSH_TARGET_DIR)
+	rsync -e "ssh -p $(SSH_PORT)" -P -auvz --delete --chown=:euroscipyweb --chmod=g+rwx --exclude="2013" --exclude="2014" --exclude="2015" --exclude="2016" --exclude="2016_static_20160429" $(OUTPUTDIR)/ $(SSH_USER)@$(SSH_HOST):$(SSH_TARGET_DIR)
 
 
 .PHONY: html help clean regenerate serve devserver publish rsync
