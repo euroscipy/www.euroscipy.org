@@ -12,7 +12,7 @@ As almost all Python and PyData conferences this event is run and organised by v
 
 Lighten our communication load: read our update emails (check your spam), be proactive and try to find answers by googling or via our community channels as the open Telegram group.
 
-#### What's the conference language?
+#### What is the conference language?
 
 The conference is all in English.
 
