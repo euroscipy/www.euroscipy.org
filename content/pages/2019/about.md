@@ -52,7 +52,6 @@ Presentations of scientific tools and libraries using the Python language, inclu
 - Mike Müller (Python Academy, DE)
 - Alessia Marcolini (Fondazione Bruno Kessler, IT)
 - Valerio Maggio (Fondazione Bruno Kessler, IT)
-- Susanne Greiner, PhD
 - Oswald Yinyeh (Nordcloud Deutschland GmbH, DE)
 - Marc Garcia
 
