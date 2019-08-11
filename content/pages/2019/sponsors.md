@@ -225,14 +225,15 @@ Information about sponsorship is available at the [sponsorship information page]
   </td>
   <td style="width:75%">
     <p>
-        The <a href="https://www.python.org/psf">Python Software Foundation (PSF)</a> is a 501(c)(3) non-profit corporation that holds the intellectual property rights
-        behind the Python programming language. We manage the open source licensing for Python version 2.1 and later
-        and own and protect the trademarks associated with Python. We also run the North American PyCon conference annually,
-        support other Python conferences around the world, and fund Python related development with our grants program and by funding special projects.
-    </p>
-    <p>
-        The mission of the Python Software Foundation is to promote, protect, and advance the Python programming language,
-        and to support and facilitate the growth of a diverse and international community of Python programmers.
+        The mission of the <a href="https://www.python.org/psf">Python Software Foundation</a> is to promote,
+        protect, and advance the Python programming language, and to support and facilitate the growth of a
+        diverse and international community of Python programmers. The majority of the PSF's work is focused
+        on empowering and supporting people within the Python community. The PSF has active grant programs
+        that support sprints, conferences, meet ups, user groups, and Python development efforts all over the world.
+        In addition, the PSF underwrites and runs PyCon US, the primary Python community conference.
+        Being part of the PSF means being part of the Python community. Recently we changed the PSF
+        to an open membership organization, so that everyone who uses and supports Python can join.
+        To learn more, visit <a href="https://www.python.org/psf/membership">https://www.python.org/psf/membership</a>.
     </p>
  </td>
 </tr>

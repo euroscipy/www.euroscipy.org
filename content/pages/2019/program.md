@@ -416,6 +416,7 @@ If you want to propose a sprint, please send us a message to
         <ul>
             <li>scikit-learn</li>
             <li><a target="_blank" href="https://github.com/python-sprints/dataframe-summit/">Dataframe summit</a></li>
+            <li>scikit-image</li>
         </ul>
     </td>
     <td>
