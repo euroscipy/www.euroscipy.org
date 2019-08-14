@@ -41,7 +41,7 @@ With the tutorial tickets you can attend any tutorial of any track.
     <td>09:00</td>
     <td><a href="https://pretalx.com/euroscipy-2019/talk/QPKHMG/">Getting Started with JupyterLab</a><br/>Mike Müller</td>
     <td><a href="https://pretalx.com/euroscipy-2019/talk/A8KBUB/">Hands-on TensorFlow 2.0</a><br/>Josh Gordon</td>
-    <td>TBC</td>
+    <td><a href="https://pretalx.com/euroscipy-2019/talk/DU9CAN/">3D image processing with scikit-image</a><br/>Alexandre de Siqueira</td>
 </tr>
 
 <tr>
@@ -137,7 +137,7 @@ With the tutorial tickets you can attend any tutorial of any track.
     <td>16:00</td>
     <td><a href="https://pretalx.com/euroscipy-2019/talk/XXJGGG/">Introduction to scikit-learn: from model fitting to model interpretation II</a><br/>Olivier Grisel, Guillaume Lemaitre</td>
     <td><a href="https://pretalx.com/euroscipy-2019/talk/HVEBGU/">kCSD - a Python package for reconstruction of brain activity</a><br/>Jakub M. Dzik, Marta Kowalska</td>
-    <td>TBC</td>
+    <td>Data Science Lab<br/><i>Open session with mentors</i></td>
 </tr>
 
 <tr>
