@@ -100,8 +100,8 @@ Join us on social media:
 | July 30    | <s>Deadline for Diamond and Platinum sponsoring</s>                               |
 | Aug 4      | <s>End of financial aid submissions</s>                                           |
 | Aug 5      | <s>End of regular ticket sales</s>                                                |
-| Aug 16     | Deadline for all sponsoring packages                                              |
-| Aug 22     | End of online ticket sales                                                        |
+| Aug 16     | <s>Deadline for all sponsoring packages</s>                                       |
+| Aug 22     | <s>End of online ticket sales</s>                                                 |
 | Sept 2 - 3 | **Tutorials**                                                                     |
 | Sept 4 - 5 | **Main Conference**                                                               |
 | Sept 6     | **Sprints**                                                                       |
@@ -114,12 +114,14 @@ Join us on social media:
 | Early Bird (till July, 7th) | 55 €     | 80 €                | 135 €    |
 | Regular (till Aug 5th)      | 100 €    | 110 €               | 250 €    |
 | Late (till Aug, 22nd)       | 135 €    | 135 €               | 300 €    |
+| On desk                     | -        | 250 €               | 375 €    |
 
 | Main Conference             | Student* | Academic/Individual | Industry |
 |-----------------------------|---------:|--------------------:|---------:|
 | Early Bird (till July, 7th) | 55 €     | 80 €                | 135 €    |
 | Regular (till Aug, 5th)     | 100 €    | 110 €               | 250 €    |
 | Late (till Aug, 22nd)       | 135 €    | 135 €               | 300 €    |
+| On desk                     | -        | 250 €               | 375 €    |
 
 
 (*)  After registration, please send your student qualifying proof at
@@ -127,13 +129,7 @@ Join us on social media:
 
 _Prices include VAT._
 
-<div style="width: 100%; text-align: center;">
-    <div class="button" style="background-color: #005db8;">
-        <a href="https://ti.to/acpyss/euroscipy-2019"
-           style="color: white;"
-           target="_blank">Buy tickets</a>
-    </div>
-</div>
+**Online ticket sales are over, on desk tickets will be available at the conference.**
 
 ### Financial Aid<a name="finaid"></a>
 

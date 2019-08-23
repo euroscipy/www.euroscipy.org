@@ -200,7 +200,7 @@ With the tutorial tickets you can attend any tutorial of any track.
 
 <tr>
     <td>14:00</td>
-    <td colspan="3" style="text-align: center; color: #404040;">Open source project updates</td>
+    <td colspan="3" style="text-align: center; color: #404040;">Open source project updates<br/><i>NumPy, PyPy, EasyAgents, Poliastro, pandas</i></td>
 </tr>
 
 <tr>
@@ -220,7 +220,7 @@ With the tutorial tickets you can attend any tutorial of any track.
 <tr>
     <td>15:45</td>
     <td><a href="https://pretalx.com/euroscipy-2019/talk/H3DRAV/">Modin: Scaling the Capabilities of the Data Scientist, not the machine</a><br/>Devin Petersohn</td>
-    <td><a href="https://pretalx.com/euroscipy-2019/talk/TGSZUS/">Environmental Research and Citizen Science using fractaL</a><br/>Saulo Jacques</td>
+    <td><a href="#">TBC</a></td>
     <td><a href="https://pretalx.com/euroscipy-2019/talk/PFH3QK/">Make your Python code fly at transonic speeds!</a><br/>Pierre Augier</td>
 </tr>
 
@@ -414,19 +414,27 @@ If you want to propose a sprint, please send us a message to
     <td>10:30</td>
     <td>
         <ul>
+            <li>SciPy contribution, bug fixing, and documentation improvements</li>
+            <li>PyPy</li>
             <li>scikit-learn</li>
-            <li><a target="_blank" href="https://github.com/python-sprints/dataframe-summit/">Dataframe summit</a></li>
-            <li>scikit-image</li>
+            <li>Improving docs for Blosc2 & Caterva</li>
         </ul>
     </td>
     <td>
         <ul>
-            <li>Improving docs for Blosc2 & Caterva</li>
-            <li>PyPy</li>
+            <li>scikit-image</li>
             <li>Tensorflow</li>
+            <li>SciPy lecture notes</li>
+            <li>Testing with Hypothesis</li>
+            <li>PyJokes</li>
         </ul>
     </td>
-    <td>Mentored sprint for beginners in open source from underrepresented minorities</td>
+    <td>
+        <ul>
+            <li>Mentored sprint for beginners in open source from underrepresented minorities</li>
+            <li><a target="_blank" href="https://github.com/python-sprints/dataframe-summit/">Dataframe summit</a></li>
+        </ul>
+    </td>
 </tr>
 <tr>
     <td>12:30</td>

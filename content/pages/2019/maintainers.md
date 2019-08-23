@@ -25,7 +25,7 @@ All the sessions will take place in the **Elhuyar room**.
 | 11:30  | <b>Python visualisation tools</b><br/><i>Moderated by <a href="https://github.com/timhoffm">Tim Hoffmann</a>, Matplotlib</i>                                                                             |
 | 12:30  | <span class="light">Lunch</span>                                                                                                                                                                         |
 | 14:00  | <span class="light">Open source project updates (<a href="program.html">main track</a>)</span>                                                                                                           |
-| 14:45  | <b>CI and testing</b><br/><i>Moderated by <a href="https://github.com/Zac-HD">Zac Hatfield-Dodds</a>, pytest, Hypothesis</i>                                                                             |
+| 14:45  | <b>Diversity in open source projects</b><br/><i>Moderated by <a href="https://twitter.com/ixek">Dr. Tania Allard</a></i>                                                                                 |
 | 16:00  | <span class="light">Coffe break</span>                                                                                                                                                                   |
 | 16:30  | (available)                                                                                                                                                                                              |
 | 17:00  | <b>Maintainers plenary session</b><br/><i>Moderated by <a href="https://twitter.com/SylvainCorlay">Sylvain Corlay</a>, NumFOCUS, Jupyter</i>                                                             |
@@ -39,7 +39,7 @@ All the sessions will take place in the **Elhuyar room**.
 | 10:30  | <b><a target="_blank" href="https://github.com/python-sprints/dataframe-summit/">Dataframe summit</a></b><br/><i>Moderated by <a href="https://twitter.com/datapythonista">Marc Garcia</a>, pandas</i>   |
 | 12:30  | <span class="light">Lunch</span>                                                                                                                                                                         |
 | 14:00  | <span class="light">Open space</span>                                                                                                                                                                    |
-| 14:45  | <b>Diversity in open source projects</b><br/><i>Moderated by <a href="https://twitter.com/ixek">Dr. Tania Allard</a></i>                                                                                 |
+| 14:45  | <b>CI and testing</b><br/><i>Moderated by <a href="https://github.com/Zac-HD">Zac Hatfield-Dodds</a>, pytest, Hypothesis</i>                                                                             |
 | 16:00  | <span class="light">Coffe break</span>                                                                                                                                                                   |
 | 16:30  | <b>Blosc and its ecosystem</b><br/><i>Moderated by <a href="https://twitter.com/FrancescAlted">Francesc Alted</a>, Blosc, PyTables, bcolz,...</i>                                                        |
 | 17:00  | <span class="light">Open space</span>                                                                                                                                                                    |
