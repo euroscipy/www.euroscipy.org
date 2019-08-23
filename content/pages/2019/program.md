@@ -200,7 +200,7 @@ With the tutorial tickets you can attend any tutorial of any track.
 
 <tr>
     <td>14:00</td>
-    <td colspan="3" style="text-align: center; color: #404040;">Open source project updates<br/><i>NumPy, PyPy, EasyAgents, Poliastro, pandas</i></td>
+    <td colspan="3" style="text-align: center; color: #404040;">Open source project updates<br/><i style="display: none">NumPy, PyPy, EasyAgents, Poliastro, pandas</i></td>
 </tr>
 
 <tr>
