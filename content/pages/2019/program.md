@@ -220,7 +220,7 @@ With the tutorial tickets you can attend any tutorial of any track.
 <tr>
     <td>15:45</td>
     <td><a href="https://pretalx.com/euroscipy-2019/talk/H3DRAV/">Modin: Scaling the Capabilities of the Data Scientist, not the machine</a><br/>Devin Petersohn</td>
-    <td><a href="#">TBC</a></td>
+    <td><a href="#">JupyterLab debugger</a><br/>Jeremy Tuloup</td>
     <td><a href="https://pretalx.com/euroscipy-2019/talk/PFH3QK/">Make your Python code fly at transonic speeds!</a><br/>Pierre Augier</td>
 </tr>
 
@@ -294,12 +294,12 @@ With the tutorial tickets you can attend any tutorial of any track.
     <td>10:30</td>
     <td><a href="https://pretalx.com/euroscipy-2019/talk/R3TJLP/">Inside NumPy: preparing for the next decade</a><br/>Matti Picus</td>
     <td><a href="https://pretalx.com/euroscipy-2019/talk/D7WAFW/">Visual Diagnostics at Scale</a><br/>Dr. Rebecca Bilbro</td>
-    <td><a href="https://pretalx.com/euroscipy-2019/talk/7SGNU7/">Get Started with Variational Inference using Python</a><br/>Suriyadeepan Ramamoorthy</td>
+    <td><a href="#">TBC</a><br/></td>
 </tr>
 
 <tr>
     <td>11:00</td>
-    <td><a href="#">TBC</a><br/>Paige Bailey</td>
+    <td><a href="#">Deep Learning without a PhD</a><br/>Paige Bailey</td>
     <td><a href="https://pretalx.com/euroscipy-2019/talk/H3NTLX/">Histogram-based Gradient Boosting in scikit-learn 0.21</a><br/>Olivier Grisel</td>
     <td><a href="https://pretalx.com/euroscipy-2019/talk/TXQW9H/">Exceeding Classical: Probabilistic Data Structures in Data Intensive Applications</a><br/>Andrii Gakhov</td>
 </tr>
@@ -394,6 +394,10 @@ With the tutorial tickets you can attend any tutorial of any track.
 
 #### Friday, 6 September<a name="friday"></a>
 
+Open source sprints are session where maintainers and contributors (including first
+time contributors) meet and work together in improving the open source projects.
+This can include bug fixes, new features, improvements to the documentation and others.
+
 More sprints will be added when they are proposed.
 
 If you want to propose a sprint, please send us a message to
@@ -418,6 +422,7 @@ If you want to propose a sprint, please send us a message to
             <li>PyPy</li>
             <li>scikit-learn</li>
             <li>Improving docs for Blosc2 & Caterva</li>
+            <li><a target="_blank" href="https://github.com/python-sprints/dataframe-summit/">Dataframe summit</a> (pandas, dask, vaex, modin,...)</li>
         </ul>
     </td>
     <td>
@@ -426,13 +431,11 @@ If you want to propose a sprint, please send us a message to
             <li>Tensorflow</li>
             <li>SciPy lecture notes</li>
             <li>Testing with Hypothesis</li>
-            <li>PyJokes</li>
         </ul>
     </td>
     <td>
         <ul>
             <li>Mentored sprint for beginners in open source from underrepresented minorities</li>
-            <li><a target="_blank" href="https://github.com/python-sprints/dataframe-summit/">Dataframe summit</a></li>
         </ul>
     </td>
 </tr>
