@@ -395,7 +395,7 @@ With the tutorial tickets you can attend any tutorial of any track.
 #### Friday, 6 September<a name="friday"></a>
 
 Open source sprints are session where maintainers and contributors (including first
-time contributors) meet and work together in improving the open source projects.
+time contributors) meet, and work together in improving the open source projects.
 This can include bug fixes, new features, improvements to the documentation and others.
 
 More sprints will be added when they are proposed.
@@ -418,25 +418,23 @@ If you want to propose a sprint, please send us a message to
     <td>10:30</td>
     <td>
         <ul>
-            <li>SciPy contribution, bug fixing, and documentation improvements</li>
-            <li>PyPy</li>
+            <li>SciPy</li>
             <li>scikit-learn</li>
-            <li>Improving docs for Blosc2 & Caterva</li>
-            <li><a target="_blank" href="https://github.com/python-sprints/dataframe-summit/">Dataframe summit</a> (pandas, dask, vaex, modin,...)</li>
+            <li><a target="_blank" href="https://github.com/python-sprints/dataframe-summit/">Dataframe summit</a> (pandas et al)</li>
+            <li>Testing with Hypothesis</li>
+            <li>SciPy lecture notes</li>
         </ul>
     </td>
     <td>
         <ul>
             <li>scikit-image</li>
             <li>Tensorflow</li>
-            <li>SciPy lecture notes</li>
-            <li>Testing with Hypothesis</li>
+            <li>PyPy</li>
+            <li>Blosc2 & Caterva docs</li>
         </ul>
     </td>
     <td>
-        <ul>
-            <li>Mentored sprint for beginners in open source from underrepresented minorities</li>
-        </ul>
+        Mentored sprint for beginners in open source from underrepresented minorities
     </td>
 </tr>
 <tr>
