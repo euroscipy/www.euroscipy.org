@@ -99,7 +99,7 @@ With the tutorial tickets you can attend any tutorial of any track.
 
 <tr>
     <td>09:00</td>
-    <td><a href="https://pretalx.com/euroscipy-2019/talk/RHUPZ3/">A Tour of the Data Visualization Ecosystem of Python</a><br/>Giovanni De Gasperis</td>
+    <td><a href="https://pretalx.com/euroscipy-2019/talk/LDQVAT/">Advanced Numpy</a><br/>Valerio Maggio</td>
     <td><a href="https://pretalx.com/euroscipy-2019/talk/ZHQALW/">Sufficiently Advanced Testing with Hypothesis</a><br/>Zac Hatfield-Dodds</td>
     <td><a href="https://pretalx.com/euroscipy-2019/talk/YKPNEE/">Introduction to geospatial data analysis with GeoPandas and the PyData stack</a><br/>Joris Van den Bossche</td>
 </tr>
