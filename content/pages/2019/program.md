@@ -99,7 +99,7 @@ With the tutorial tickets you can attend any tutorial of any track.
 
 <tr>
     <td>09:00</td>
-    <td><a href="https://pretalx.com/euroscipy-2019/talk/LDQVAT/">Advanced Numpy</a><br/>Valerio Maggio</td>
+    <td><a href="https://pretalx.com/euroscipy-2019/talk/KRNP7Y/">Never gets in a battle of bits without ammunitions</a><br/>Valerio Maggio</td>
     <td><a href="https://pretalx.com/euroscipy-2019/talk/ZHQALW/">Sufficiently Advanced Testing with Hypothesis</a><br/>Zac Hatfield-Dodds</td>
     <td><a href="https://pretalx.com/euroscipy-2019/talk/YKPNEE/">Introduction to geospatial data analysis with GeoPandas and the PyData stack</a><br/>Joris Van den Bossche</td>
 </tr>
@@ -294,7 +294,7 @@ With the tutorial tickets you can attend any tutorial of any track.
     <td>10:30</td>
     <td><a href="https://pretalx.com/euroscipy-2019/talk/R3TJLP/">Inside NumPy: preparing for the next decade</a><br/>Matti Picus</td>
     <td><a href="https://pretalx.com/euroscipy-2019/talk/D7WAFW/">Visual Diagnostics at Scale</a><br/>Dr. Rebecca Bilbro</td>
-    <td><a href="#">TBC</a><br/></td>
+    <td><a href="https://pretalx.com/euroscipy-2019/talk/LDQVAT/">MLOps: from toy prototypes to complex pipelines</a><br/>Valerio Maggio</td>
 </tr>
 
 <tr>
