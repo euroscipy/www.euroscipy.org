@@ -7,7 +7,7 @@ slug: sponsors2019
 
 Information about sponsorship is available at the [sponsorship information page](sponsors_info.html).
 
-### Institutional sponsors
+### Organising institutions
 
 <table style="table-layout:fixed">
 <tr>
