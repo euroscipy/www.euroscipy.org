@@ -3,10 +3,9 @@ URL: 2018/privacy.html
 save_as: 2018/privacy.html
 section: euroscipy_2018
 
-
 ### Personal data management policy
 
-Privacy Informed Consent Form 
+Privacy Informed Consent Form
 pursuant to Section 13 Legislative Decree no. 196 of 30 June 2003 “Personal Data Protection Code”
 
 Fondazione Bruno Kessler (hereinafter “FBK”) - in its capacity of Data Controller - with the present form, provides some information regarding the use of your personal data required to process your contract and
@@ -34,7 +33,7 @@ You may contact FBK Digital Communication and Big Events Unit, via Sommarive 18,
 In particular, you may refuse at any time the handling of your personal data for institutional promotional material mailing purposes.
 
 We would also like to inform you that the registration system to the conferences makes use of the online specialised system Eventbrite.com, which use terms and conditions and privacy policy are available at the link
-[https://www.eventbrite.com/privacypolicy](https://www.eventbrite.com/privacypolicy). 
+[https://www.eventbrite.com/privacypolicy](https://www.eventbrite.com/privacypolicy).
 
 Therefore, the undersigned relieves FBK of any liability in the processing of data entered in the Eventbrite.com system by the undersigned.
 
