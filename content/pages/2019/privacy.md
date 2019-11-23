@@ -6,7 +6,7 @@ slug: privacy2019
 
 ### Personal data management policy
 
-Privacy Informed Consent Form 
+Privacy Informed Consent Form
 pursuant to Section 13 Legislative Decree no. 196 of 30 June 2003 “Personal Data Protection Code”
 
 Asociación de Ciencias de la Computación Python San Sebastián (hereinafter "ACPySS") - in its capacity of Data Controller - with the present form, provides some information regarding the use of your personal data required to process your contract and
@@ -32,5 +32,10 @@ In particular, you may refuse at any time the handling of your personal data for
 
 We would also like to inform you that the registration system to the conferences makes use of the online specialised system [Ti.to](https://ti.to), which use terms and conditions and privacy policy are available at the link
 [https://ti.to/privacy](https://ti.to/privacy).
+
+We will also store the certificates of attendance in a Google Cloud Storage bucket
+in an account managed by ACPySS.
+We used this to make sharing the files easier with the conference participants.
+The files are encrypted with an encryption key managed by Google.
 
 Therefore, the undersigned relieves ACPySS of any liability in the processing of data entered in the Ti.to system by the undersigned.
